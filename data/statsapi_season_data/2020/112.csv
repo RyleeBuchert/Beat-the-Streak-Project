@@ -1,61 +1,61 @@
-,game_id,home/away,opp_name,opp_code,result
-0,631641,Home,Milwaukee Brewers,158,W
-1,631642,Home,Milwaukee Brewers,158,L
-2,631643,Home,Milwaukee Brewers,158,W
-3,631592,Away,Cincinnati Reds,113,W
-4,631593,Away,Cincinnati Reds,113,W
-5,631594,Away,Cincinnati Reds,113,L
-6,631647,Home,Pittsburgh Pirates,134,W
-7,631622,Home,Pittsburgh Pirates,134,W
-8,631606,Home,Pittsburgh Pirates,134,W
-9,631645,Home,Kansas City Royals,118,W
-10,631608,Home,Kansas City Royals,118,W
-11,631417,Away,Kansas City Royals,118,W
-12,631425,Away,Kansas City Royals,118,L
-13,631572,Away,Cleveland Indians,114,W
-14,631568,Away,Cleveland Indians,114,W
-15,631609,Home,Milwaukee Brewers,158,W
-16,631610,Home,Milwaukee Brewers,158,L
-17,631611,Home,Milwaukee Brewers,158,L
-18,631612,Home,Milwaukee Brewers,158,L
-19,631613,Home,St. Louis Cardinals,138,L
-20,630996,Away,St. Louis Cardinals,138,W
-21,631620,Home,St. Louis Cardinals,138,W
-22,631621,Home,St. Louis Cardinals,138,L
-23,630997,Away,St. Louis Cardinals,138,W
-24,631633,Home,Chicago White Sox,145,L
-25,631638,Home,Chicago White Sox,145,L
-26,631639,Home,Chicago White Sox,145,W
-27,631468,Away,Detroit Tigers,116,W
-28,631467,Away,Detroit Tigers,116,L
-29,631455,Away,Detroit Tigers,116,L
-30,631582,Away,Cincinnati Reds,113,L
-31,631581,Away,Cincinnati Reds,113,W
-32,631595,Away,Cincinnati Reds,113,L
-33,631584,Away,Cincinnati Reds,113,W
-34,631109,Away,Pittsburgh Pirates,134,W
-35,631111,Away,Pittsburgh Pirates,134,W
-36,631112,Away,Pittsburgh Pirates,134,L
-37,631644,Home,St. Louis Cardinals,138,W
-38,631607,Home,St. Louis Cardinals,138,L
-39,630998,Away,St. Louis Cardinals,138,L
-40,631604,Home,St. Louis Cardinals,138,L
-41,631605,Home,St. Louis Cardinals,138,W
-42,631615,Home,Cincinnati Reds,113,W
-43,631616,Home,Cincinnati Reds,113,L
-44,631634,Home,Cincinnati Reds,113,W
-45,631284,Away,Milwaukee Brewers,158,L
-46,631285,Away,Milwaukee Brewers,158,W
-47,631286,Away,Milwaukee Brewers,158,W
-48,631618,Home,Cleveland Indians,114,W
-49,631619,Home,Cleveland Indians,114,W
-50,631629,Home,Minnesota Twins,142,W
-51,631632,Home,Minnesota Twins,142,L
-52,631617,Home,Minnesota Twins,142,L
-53,631087,Away,Pittsburgh Pirates,134,W
-54,631088,Away,Pittsburgh Pirates,134,L
-55,631089,Away,Pittsburgh Pirates,134,L
-56,631099,Away,Pittsburgh Pirates,134,L
-57,631486,Away,Chicago White Sox,145,W
-58,631487,Away,Chicago White Sox,145,L
-59,631488,Away,Chicago White Sox,145,W
+game_id,home/away,opp_name,opp_code,result
+631641,Home,Milwaukee Brewers,158,W
+631642,Home,Milwaukee Brewers,158,L
+631643,Home,Milwaukee Brewers,158,W
+631592,Away,Cincinnati Reds,113,W
+631593,Away,Cincinnati Reds,113,W
+631594,Away,Cincinnati Reds,113,L
+631647,Home,Pittsburgh Pirates,134,W
+631622,Home,Pittsburgh Pirates,134,W
+631606,Home,Pittsburgh Pirates,134,W
+631645,Home,Kansas City Royals,118,W
+631608,Home,Kansas City Royals,118,W
+631417,Away,Kansas City Royals,118,W
+631425,Away,Kansas City Royals,118,L
+631572,Away,Cleveland Indians,114,W
+631568,Away,Cleveland Indians,114,W
+631609,Home,Milwaukee Brewers,158,W
+631610,Home,Milwaukee Brewers,158,L
+631611,Home,Milwaukee Brewers,158,L
+631612,Home,Milwaukee Brewers,158,L
+631613,Home,St. Louis Cardinals,138,L
+630996,Away,St. Louis Cardinals,138,W
+631620,Home,St. Louis Cardinals,138,W
+631621,Home,St. Louis Cardinals,138,L
+630997,Away,St. Louis Cardinals,138,W
+631633,Home,Chicago White Sox,145,L
+631638,Home,Chicago White Sox,145,L
+631639,Home,Chicago White Sox,145,W
+631468,Away,Detroit Tigers,116,W
+631467,Away,Detroit Tigers,116,L
+631455,Away,Detroit Tigers,116,L
+631582,Away,Cincinnati Reds,113,L
+631581,Away,Cincinnati Reds,113,W
+631595,Away,Cincinnati Reds,113,L
+631584,Away,Cincinnati Reds,113,W
+631109,Away,Pittsburgh Pirates,134,W
+631111,Away,Pittsburgh Pirates,134,W
+631112,Away,Pittsburgh Pirates,134,L
+631644,Home,St. Louis Cardinals,138,W
+631607,Home,St. Louis Cardinals,138,L
+630998,Away,St. Louis Cardinals,138,L
+631604,Home,St. Louis Cardinals,138,L
+631605,Home,St. Louis Cardinals,138,W
+631615,Home,Cincinnati Reds,113,W
+631616,Home,Cincinnati Reds,113,L
+631634,Home,Cincinnati Reds,113,W
+631284,Away,Milwaukee Brewers,158,L
+631285,Away,Milwaukee Brewers,158,W
+631286,Away,Milwaukee Brewers,158,W
+631618,Home,Cleveland Indians,114,W
+631619,Home,Cleveland Indians,114,W
+631629,Home,Minnesota Twins,142,W
+631632,Home,Minnesota Twins,142,L
+631617,Home,Minnesota Twins,142,L
+631087,Away,Pittsburgh Pirates,134,W
+631088,Away,Pittsburgh Pirates,134,L
+631089,Away,Pittsburgh Pirates,134,L
+631099,Away,Pittsburgh Pirates,134,L
+631486,Away,Chicago White Sox,145,W
+631487,Away,Chicago White Sox,145,L
+631488,Away,Chicago White Sox,145,W

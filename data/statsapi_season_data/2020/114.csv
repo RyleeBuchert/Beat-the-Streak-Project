@@ -1,61 +1,61 @@
-,game_id,home/away,opp_name,opp_code,result
-0,631563,Home,Kansas City Royals,118,W
-1,631565,Home,Kansas City Royals,118,L
-2,631566,Home,Kansas City Royals,118,W
-3,631573,Home,Chicago White Sox,145,W
-4,631567,Home,Chicago White Sox,145,W
-5,631569,Home,Chicago White Sox,145,L
-6,631271,Away,Minnesota Twins,142,W
-7,631272,Away,Minnesota Twins,142,L
-8,631273,Away,Minnesota Twins,142,L
-9,631274,Away,Minnesota Twins,142,L
-10,631596,Away,Cincinnati Reds,113,L
-11,631597,Away,Cincinnati Reds,113,W
-12,631570,Home,Cincinnati Reds,113,W
-13,631571,Home,Cincinnati Reds,113,W
-14,631504,Away,Chicago White Sox,145,L
-15,631503,Away,Chicago White Sox,145,W
-16,631506,Away,Chicago White Sox,145,W
-17,631572,Home,Chicago Cubs,112,L
-18,631568,Home,Chicago Cubs,112,L
-19,631476,Away,Detroit Tigers,116,W
-20,631477,Away,Detroit Tigers,116,W
-21,631479,Away,Detroit Tigers,116,W
-22,631114,Away,Pittsburgh Pirates,134,W
-23,631120,Away,Pittsburgh Pirates,134,W
-24,631118,Away,Pittsburgh Pirates,134,W
-25,631548,Home,Detroit Tigers,116,L
-26,631564,Home,Detroit Tigers,116,W
-27,631551,Home,Detroit Tigers,116,L
-28,631552,Home,Minnesota Twins,142,L
-29,631553,Home,Minnesota Twins,142,W
-30,631554,Home,Minnesota Twins,142,W
-31,630980,Away,St. Louis Cardinals,138,W
-32,630981,Away,St. Louis Cardinals,138,W
-33,630982,Away,St. Louis Cardinals,138,L
-34,631414,Away,Kansas City Royals,118,L
-35,631416,Away,Kansas City Royals,118,W
-36,631404,Away,Kansas City Royals,118,W
-37,631555,Home,Milwaukee Brewers,158,L
-38,631556,Home,Milwaukee Brewers,158,W
-39,631557,Home,Milwaukee Brewers,158,W
-40,631558,Home,Kansas City Royals,118,W
-41,631559,Home,Kansas City Royals,118,L
-42,631560,Home,Kansas City Royals,118,L
-43,631561,Home,Kansas City Royals,118,L
-44,631256,Away,Minnesota Twins,142,L
-45,631257,Away,Minnesota Twins,142,L
-46,631259,Away,Minnesota Twins,142,L
-47,631618,Away,Chicago Cubs,112,L
-48,631619,Away,Chicago Cubs,112,L
-49,631464,Away,Detroit Tigers,116,W
-50,631465,Away,Detroit Tigers,116,W
-51,631466,Away,Detroit Tigers,116,L
-52,631454,Away,Detroit Tigers,116,W
-53,631562,Home,Chicago White Sox,145,W
-54,631550,Home,Chicago White Sox,145,W
-55,631534,Home,Chicago White Sox,145,W
-56,631549,Home,Chicago White Sox,145,W
-57,631536,Home,Pittsburgh Pirates,134,W
-58,631537,Home,Pittsburgh Pirates,134,L
-59,631538,Home,Pittsburgh Pirates,134,W
+game_id,home/away,opp_name,opp_code,result
+631563,Home,Kansas City Royals,118,W
+631565,Home,Kansas City Royals,118,L
+631566,Home,Kansas City Royals,118,W
+631573,Home,Chicago White Sox,145,W
+631567,Home,Chicago White Sox,145,W
+631569,Home,Chicago White Sox,145,L
+631271,Away,Minnesota Twins,142,W
+631272,Away,Minnesota Twins,142,L
+631273,Away,Minnesota Twins,142,L
+631274,Away,Minnesota Twins,142,L
+631596,Away,Cincinnati Reds,113,L
+631597,Away,Cincinnati Reds,113,W
+631570,Home,Cincinnati Reds,113,W
+631571,Home,Cincinnati Reds,113,W
+631504,Away,Chicago White Sox,145,L
+631503,Away,Chicago White Sox,145,W
+631506,Away,Chicago White Sox,145,W
+631572,Home,Chicago Cubs,112,L
+631568,Home,Chicago Cubs,112,L
+631476,Away,Detroit Tigers,116,W
+631477,Away,Detroit Tigers,116,W
+631479,Away,Detroit Tigers,116,W
+631114,Away,Pittsburgh Pirates,134,W
+631120,Away,Pittsburgh Pirates,134,W
+631118,Away,Pittsburgh Pirates,134,W
+631548,Home,Detroit Tigers,116,L
+631564,Home,Detroit Tigers,116,W
+631551,Home,Detroit Tigers,116,L
+631552,Home,Minnesota Twins,142,L
+631553,Home,Minnesota Twins,142,W
+631554,Home,Minnesota Twins,142,W
+630980,Away,St. Louis Cardinals,138,W
+630981,Away,St. Louis Cardinals,138,W
+630982,Away,St. Louis Cardinals,138,L
+631414,Away,Kansas City Royals,118,L
+631416,Away,Kansas City Royals,118,W
+631404,Away,Kansas City Royals,118,W
+631555,Home,Milwaukee Brewers,158,L
+631556,Home,Milwaukee Brewers,158,W
+631557,Home,Milwaukee Brewers,158,W
+631558,Home,Kansas City Royals,118,W
+631559,Home,Kansas City Royals,118,L
+631560,Home,Kansas City Royals,118,L
+631561,Home,Kansas City Royals,118,L
+631256,Away,Minnesota Twins,142,L
+631257,Away,Minnesota Twins,142,L
+631259,Away,Minnesota Twins,142,L
+631618,Away,Chicago Cubs,112,L
+631619,Away,Chicago Cubs,112,L
+631464,Away,Detroit Tigers,116,W
+631465,Away,Detroit Tigers,116,W
+631466,Away,Detroit Tigers,116,L
+631454,Away,Detroit Tigers,116,W
+631562,Home,Chicago White Sox,145,W
+631550,Home,Chicago White Sox,145,W
+631534,Home,Chicago White Sox,145,W
+631549,Home,Chicago White Sox,145,W
+631536,Home,Pittsburgh Pirates,134,W
+631537,Home,Pittsburgh Pirates,134,L
+631538,Home,Pittsburgh Pirates,134,W

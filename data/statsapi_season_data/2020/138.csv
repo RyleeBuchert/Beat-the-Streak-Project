@@ -1,59 +1,59 @@
-,game_id,home/away,opp_name,opp_code,result
-0,630989,Home,Pittsburgh Pirates,134,W
-1,630992,Home,Pittsburgh Pirates,134,W
-2,630993,Home,Pittsburgh Pirates,134,L
-3,631269,Away,Minnesota Twins,142,L
-4,631270,Away,Minnesota Twins,142,L
-5,631508,Away,Chicago White Sox,145,W
-6,631507,Away,Chicago White Sox,145,W
-7,631491,Away,Chicago White Sox,145,L
-8,631613,Away,Chicago Cubs,112,W
-9,630996,Home,Chicago Cubs,112,L
-10,631620,Away,Chicago Cubs,112,L
-11,631621,Away,Chicago Cubs,112,W
-12,630997,Home,Chicago Cubs,112,L
-13,630986,Home,Cincinnati Reds,113,W
-14,630990,Home,Cincinnati Reds,113,L
-15,630991,Home,Cincinnati Reds,113,W
-16,630976,Home,Cincinnati Reds,113,W
-17,630977,Home,Kansas City Royals,118,W
-18,630978,Home,Kansas City Royals,118,L
-19,630979,Home,Kansas City Royals,118,W
-20,630999,Home,Pittsburgh Pirates,134,L
-21,631000,Home,Pittsburgh Pirates,134,L
-22,630980,Home,Cleveland Indians,114,L
-23,630981,Home,Cleveland Indians,114,L
-24,630982,Home,Cleveland Indians,114,W
-25,631585,Away,Cincinnati Reds,113,W
-26,631586,Away,Cincinnati Reds,113,W
-27,631587,Away,Cincinnati Reds,113,L
-28,631644,Away,Chicago Cubs,112,L
-29,631607,Away,Chicago Cubs,112,W
-30,630998,Home,Chicago Cubs,112,W
-31,631604,Away,Chicago Cubs,112,W
-32,631605,Away,Chicago Cubs,112,L
-33,630983,Home,Minnesota Twins,142,L
-34,630984,Home,Minnesota Twins,142,W
-35,630994,Home,Detroit Tigers,116,W
-36,630995,Home,Detroit Tigers,116,L
-37,630985,Home,Cincinnati Reds,113,L
-38,630988,Home,Cincinnati Reds,113,W
-39,630961,Home,Cincinnati Reds,113,L
-40,631282,Away,Milwaukee Brewers,158,L
-41,631288,Away,Milwaukee Brewers,158,W
-42,631263,Away,Milwaukee Brewers,158,L
-43,631265,Away,Milwaukee Brewers,158,W
-44,631289,Away,Milwaukee Brewers,158,L
-45,631101,Away,Pittsburgh Pirates,134,L
-46,631102,Away,Pittsburgh Pirates,134,W
-47,630987,Home,Pittsburgh Pirates,134,W
-48,631147,Away,Pittsburgh Pirates,134,W
-49,631086,Away,Pittsburgh Pirates,134,W
-50,631402,Away,Kansas City Royals,118,L
-51,631411,Away,Kansas City Royals,118,W
-52,631380,Away,Kansas City Royals,118,L
-53,630975,Home,Milwaukee Brewers,158,W
-54,630963,Home,Milwaukee Brewers,158,L
-55,631292,Away,Milwaukee Brewers,158,W
-56,630964,Home,Milwaukee Brewers,158,L
-57,630965,Home,Milwaukee Brewers,158,W
+game_id,home/away,opp_name,opp_code,result
+630989,Home,Pittsburgh Pirates,134,W
+630992,Home,Pittsburgh Pirates,134,W
+630993,Home,Pittsburgh Pirates,134,L
+631269,Away,Minnesota Twins,142,L
+631270,Away,Minnesota Twins,142,L
+631508,Away,Chicago White Sox,145,W
+631507,Away,Chicago White Sox,145,W
+631491,Away,Chicago White Sox,145,L
+631613,Away,Chicago Cubs,112,W
+630996,Home,Chicago Cubs,112,L
+631620,Away,Chicago Cubs,112,L
+631621,Away,Chicago Cubs,112,W
+630997,Home,Chicago Cubs,112,L
+630986,Home,Cincinnati Reds,113,W
+630990,Home,Cincinnati Reds,113,L
+630991,Home,Cincinnati Reds,113,W
+630976,Home,Cincinnati Reds,113,W
+630977,Home,Kansas City Royals,118,W
+630978,Home,Kansas City Royals,118,L
+630979,Home,Kansas City Royals,118,W
+630999,Home,Pittsburgh Pirates,134,L
+631000,Home,Pittsburgh Pirates,134,L
+630980,Home,Cleveland Indians,114,L
+630981,Home,Cleveland Indians,114,L
+630982,Home,Cleveland Indians,114,W
+631585,Away,Cincinnati Reds,113,W
+631586,Away,Cincinnati Reds,113,W
+631587,Away,Cincinnati Reds,113,L
+631644,Away,Chicago Cubs,112,L
+631607,Away,Chicago Cubs,112,W
+630998,Home,Chicago Cubs,112,W
+631604,Away,Chicago Cubs,112,W
+631605,Away,Chicago Cubs,112,L
+630983,Home,Minnesota Twins,142,L
+630984,Home,Minnesota Twins,142,W
+630994,Home,Detroit Tigers,116,W
+630995,Home,Detroit Tigers,116,L
+630985,Home,Cincinnati Reds,113,L
+630988,Home,Cincinnati Reds,113,W
+630961,Home,Cincinnati Reds,113,L
+631282,Away,Milwaukee Brewers,158,L
+631288,Away,Milwaukee Brewers,158,W
+631263,Away,Milwaukee Brewers,158,L
+631265,Away,Milwaukee Brewers,158,W
+631289,Away,Milwaukee Brewers,158,L
+631101,Away,Pittsburgh Pirates,134,L
+631102,Away,Pittsburgh Pirates,134,W
+630987,Home,Pittsburgh Pirates,134,W
+631147,Away,Pittsburgh Pirates,134,W
+631086,Away,Pittsburgh Pirates,134,W
+631402,Away,Kansas City Royals,118,L
+631411,Away,Kansas City Royals,118,W
+631380,Away,Kansas City Royals,118,L
+630975,Home,Milwaukee Brewers,158,W
+630963,Home,Milwaukee Brewers,158,L
+631292,Away,Milwaukee Brewers,158,W
+630964,Home,Milwaukee Brewers,158,L
+630965,Home,Milwaukee Brewers,158,W

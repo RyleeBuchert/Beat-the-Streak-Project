@@ -1,163 +1,163 @@
-,game_id,home/away,opp_name,opp_code,result
-0,567552,Home,St. Louis Cardinals,138,W
-1,567553,Home,St. Louis Cardinals,138,L
-2,567554,Home,St. Louis Cardinals,138,W
-3,567555,Home,St. Louis Cardinals,138,W
-4,565223,Away,Cincinnati Reds,113,W
-5,565224,Away,Cincinnati Reds,113,W
-6,565225,Away,Cincinnati Reds,113,W
-7,567556,Home,Chicago Cubs,112,W
-8,567557,Home,Chicago Cubs,112,L
-9,567558,Home,Chicago Cubs,112,W
-10,564738,Away,Los Angeles Angels,108,L
-11,564739,Away,Los Angeles Angels,108,L
-12,564740,Away,Los Angeles Angels,108,L
-13,565806,Away,Los Angeles Dodgers,119,W
-14,565807,Away,Los Angeles Dodgers,119,W
-15,565808,Away,Los Angeles Dodgers,119,L
-16,567559,Home,St. Louis Cardinals,138,W
-17,567560,Home,St. Louis Cardinals,138,W
-18,567561,Home,St. Louis Cardinals,138,L
-19,567562,Home,Los Angeles Dodgers,119,L
-20,567563,Home,Los Angeles Dodgers,119,L
-21,567564,Home,Los Angeles Dodgers,119,W
-22,567565,Home,Los Angeles Dodgers,119,L
-23,566577,Away,St. Louis Cardinals,138,L
-24,566578,Away,St. Louis Cardinals,138,L
-25,566579,Away,St. Louis Cardinals,138,L
-26,565998,Away,New York Mets,121,W
-27,565999,Away,New York Mets,121,W
-28,566000,Away,New York Mets,121,L
-29,567566,Home,Colorado Rockies,115,W
-30,567567,Home,Colorado Rockies,115,W
-31,567568,Home,Colorado Rockies,115,L
-32,567569,Home,Colorado Rockies,115,L
-33,567570,Home,New York Mets,121,W
-34,567571,Home,New York Mets,121,W
-35,567572,Home,New York Mets,121,W
-36,567573,Home,Washington Nationals,120,W
-37,567574,Home,Washington Nationals,120,W
-38,567575,Home,Washington Nationals,120,W
-39,565143,Away,Chicago Cubs,112,W
-40,565144,Away,Chicago Cubs,112,L
-41,565145,Away,Chicago Cubs,112,L
-42,567080,Away,Philadelphia Phillies,143,L
-43,567081,Away,Philadelphia Phillies,143,W
-44,567082,Away,Philadelphia Phillies,143,W
-45,567083,Away,Philadelphia Phillies,143,W
-46,567185,Away,Atlanta Braves,144,L
-47,567186,Away,Atlanta Braves,144,L
-48,567187,Away,Atlanta Braves,144,W
-49,567576,Home,Cincinnati Reds,113,L
-50,567577,Home,Cincinnati Reds,113,W
-51,567578,Home,Philadelphia Phillies,143,L
-52,567579,Home,Philadelphia Phillies,143,L
-53,567580,Home,Philadelphia Phillies,143,W
-54,566988,Away,Minnesota Twins,142,W
-55,566989,Away,Minnesota Twins,142,L
-56,566204,Away,Pittsburgh Pirates,134,W
-57,566205,Away,Pittsburgh Pirates,134,L
-58,566206,Away,Pittsburgh Pirates,134,W
-59,566207,Away,Pittsburgh Pirates,134,W
-60,567581,Home,Miami Marlins,146,L
-61,567582,Home,Miami Marlins,146,L
-62,567583,Home,Miami Marlins,146,W
-63,567584,Home,Pittsburgh Pirates,134,W
-64,567585,Home,Pittsburgh Pirates,134,W
-65,567586,Home,Pittsburgh Pirates,134,W
-66,565639,Away,Houston Astros,117,L
-67,565640,Away,Houston Astros,117,W
-68,566504,Away,San Francisco Giants,137,L
-69,566505,Away,San Francisco Giants,137,L
-70,566506,Away,San Francisco Giants,137,W
-71,566313,Away,San Diego Padres,135,L
-72,566314,Away,San Diego Padres,135,L
-73,566315,Away,San Diego Padres,135,L
-74,567587,Home,Cincinnati Reds,113,L
-75,567588,Home,Cincinnati Reds,113,L
-76,567589,Home,Cincinnati Reds,113,W
-77,567590,Home,Cincinnati Reds,113,W
-78,567591,Home,Seattle Mariners,136,L
-79,567592,Home,Seattle Mariners,136,L
-80,567593,Home,Seattle Mariners,136,W
-81,567594,Home,Pittsburgh Pirates,134,L
-82,567595,Home,Pittsburgh Pirates,134,W
-83,567596,Home,Pittsburgh Pirates,134,W
-84,565259,Away,Cincinnati Reds,113,W
-85,565260,Away,Cincinnati Reds,113,L
-86,565261,Away,Cincinnati Reds,113,L
-87,565262,Away,Cincinnati Reds,113,L
-88,566220,Away,Pittsburgh Pirates,134,W
-89,566221,Away,Pittsburgh Pirates,134,L
-90,566222,Away,Pittsburgh Pirates,134,L
-91,567597,Home,San Francisco Giants,137,L
-92,567598,Home,San Francisco Giants,137,W
-93,567599,Home,San Francisco Giants,137,L
-94,567600,Home,Atlanta Braves,144,L
-95,567601,Home,Atlanta Braves,144,W
-96,567602,Home,Atlanta Braves,144,W
-97,564875,Away,Arizona Diamondbacks,109,W
-98,564876,Away,Arizona Diamondbacks,109,L
-99,564877,Away,Arizona Diamondbacks,109,W
-100,564878,Away,Arizona Diamondbacks,109,W
-101,567603,Home,Cincinnati Reds,113,L
-102,567604,Home,Cincinnati Reds,113,L
-103,567605,Home,Cincinnati Reds,113,W
-104,567606,Home,Chicago Cubs,112,W
-105,567607,Home,Chicago Cubs,112,W
-106,567608,Home,Chicago Cubs,112,L
-107,566139,Away,Oakland Athletics,133,L
-108,566140,Away,Oakland Athletics,133,W
-109,566141,Away,Oakland Athletics,133,L
-110,565178,Away,Chicago Cubs,112,L
-111,565179,Away,Chicago Cubs,112,L
-112,565180,Away,Chicago Cubs,112,L
-113,566233,Away,Pittsburgh Pirates,134,W
-114,566234,Away,Pittsburgh Pirates,134,W
-115,566235,Away,Pittsburgh Pirates,134,W
-116,567609,Home,Texas Rangers,140,W
-117,567610,Home,Texas Rangers,140,W
-118,567611,Home,Texas Rangers,140,L
-119,567612,Home,Minnesota Twins,142,L
-120,567613,Home,Minnesota Twins,142,W
-121,565955,Away,Washington Nationals,120,L
-122,565956,Away,Washington Nationals,120,W
-123,565957,Away,Washington Nationals,120,L
-124,566625,Away,St. Louis Cardinals,138,L
-125,566626,Away,St. Louis Cardinals,138,L
-126,566627,Away,St. Louis Cardinals,138,W
-127,567614,Home,Arizona Diamondbacks,109,W
-128,567615,Home,Arizona Diamondbacks,109,W
-129,567616,Home,Arizona Diamondbacks,109,L
-130,567617,Home,St. Louis Cardinals,138,L
-131,567618,Home,St. Louis Cardinals,138,L
-132,567619,Home,St. Louis Cardinals,138,W
-133,565190,Away,Chicago Cubs,112,L
-134,565191,Away,Chicago Cubs,112,W
-135,565192,Away,Chicago Cubs,112,W
-136,567620,Home,Houston Astros,117,L
-137,567621,Home,Houston Astros,117,W
-138,567622,Home,Chicago Cubs,112,L
-139,567623,Home,Chicago Cubs,112,W
-140,567624,Home,Chicago Cubs,112,W
-141,567625,Home,Chicago Cubs,112,W
-142,567433,Away,Miami Marlins,146,W
-143,567434,Away,Miami Marlins,146,W
-144,567435,Away,Miami Marlins,146,W
-145,567436,Away,Miami Marlins,146,W
-146,566639,Away,St. Louis Cardinals,138,L
-147,566640,Away,St. Louis Cardinals,138,W
-148,566641,Away,St. Louis Cardinals,138,W
-149,567626,Home,San Diego Padres,135,W
-150,567627,Home,San Diego Padres,135,W
-151,567628,Home,San Diego Padres,135,L
-152,567629,Home,San Diego Padres,135,W
-153,567630,Home,Pittsburgh Pirates,134,W
-154,567631,Home,Pittsburgh Pirates,134,W
-155,567632,Home,Pittsburgh Pirates,134,W
-156,565298,Away,Cincinnati Reds,113,W
-157,565299,Away,Cincinnati Reds,113,W
-158,565300,Away,Cincinnati Reds,113,W
-159,565491,Away,Colorado Rockies,115,L
-160,565492,Away,Colorado Rockies,115,L
-161,565493,Away,Colorado Rockies,115,L
+game_id,home/away,opp_name,opp_code,result
+567552,Home,St. Louis Cardinals,138,W
+567553,Home,St. Louis Cardinals,138,L
+567554,Home,St. Louis Cardinals,138,W
+567555,Home,St. Louis Cardinals,138,W
+565223,Away,Cincinnati Reds,113,W
+565224,Away,Cincinnati Reds,113,W
+565225,Away,Cincinnati Reds,113,W
+567556,Home,Chicago Cubs,112,W
+567557,Home,Chicago Cubs,112,L
+567558,Home,Chicago Cubs,112,W
+564738,Away,Los Angeles Angels,108,L
+564739,Away,Los Angeles Angels,108,L
+564740,Away,Los Angeles Angels,108,L
+565806,Away,Los Angeles Dodgers,119,W
+565807,Away,Los Angeles Dodgers,119,W
+565808,Away,Los Angeles Dodgers,119,L
+567559,Home,St. Louis Cardinals,138,W
+567560,Home,St. Louis Cardinals,138,W
+567561,Home,St. Louis Cardinals,138,L
+567562,Home,Los Angeles Dodgers,119,L
+567563,Home,Los Angeles Dodgers,119,L
+567564,Home,Los Angeles Dodgers,119,W
+567565,Home,Los Angeles Dodgers,119,L
+566577,Away,St. Louis Cardinals,138,L
+566578,Away,St. Louis Cardinals,138,L
+566579,Away,St. Louis Cardinals,138,L
+565998,Away,New York Mets,121,W
+565999,Away,New York Mets,121,W
+566000,Away,New York Mets,121,L
+567566,Home,Colorado Rockies,115,W
+567567,Home,Colorado Rockies,115,W
+567568,Home,Colorado Rockies,115,L
+567569,Home,Colorado Rockies,115,L
+567570,Home,New York Mets,121,W
+567571,Home,New York Mets,121,W
+567572,Home,New York Mets,121,W
+567573,Home,Washington Nationals,120,W
+567574,Home,Washington Nationals,120,W
+567575,Home,Washington Nationals,120,W
+565143,Away,Chicago Cubs,112,W
+565144,Away,Chicago Cubs,112,L
+565145,Away,Chicago Cubs,112,L
+567080,Away,Philadelphia Phillies,143,L
+567081,Away,Philadelphia Phillies,143,W
+567082,Away,Philadelphia Phillies,143,W
+567083,Away,Philadelphia Phillies,143,W
+567185,Away,Atlanta Braves,144,L
+567186,Away,Atlanta Braves,144,L
+567187,Away,Atlanta Braves,144,W
+567576,Home,Cincinnati Reds,113,L
+567577,Home,Cincinnati Reds,113,W
+567578,Home,Philadelphia Phillies,143,L
+567579,Home,Philadelphia Phillies,143,L
+567580,Home,Philadelphia Phillies,143,W
+566988,Away,Minnesota Twins,142,W
+566989,Away,Minnesota Twins,142,L
+566204,Away,Pittsburgh Pirates,134,W
+566205,Away,Pittsburgh Pirates,134,L
+566206,Away,Pittsburgh Pirates,134,W
+566207,Away,Pittsburgh Pirates,134,W
+567581,Home,Miami Marlins,146,L
+567582,Home,Miami Marlins,146,L
+567583,Home,Miami Marlins,146,W
+567584,Home,Pittsburgh Pirates,134,W
+567585,Home,Pittsburgh Pirates,134,W
+567586,Home,Pittsburgh Pirates,134,W
+565639,Away,Houston Astros,117,L
+565640,Away,Houston Astros,117,W
+566504,Away,San Francisco Giants,137,L
+566505,Away,San Francisco Giants,137,L
+566506,Away,San Francisco Giants,137,W
+566313,Away,San Diego Padres,135,L
+566314,Away,San Diego Padres,135,L
+566315,Away,San Diego Padres,135,L
+567587,Home,Cincinnati Reds,113,L
+567588,Home,Cincinnati Reds,113,L
+567589,Home,Cincinnati Reds,113,W
+567590,Home,Cincinnati Reds,113,W
+567591,Home,Seattle Mariners,136,L
+567592,Home,Seattle Mariners,136,L
+567593,Home,Seattle Mariners,136,W
+567594,Home,Pittsburgh Pirates,134,L
+567595,Home,Pittsburgh Pirates,134,W
+567596,Home,Pittsburgh Pirates,134,W
+565259,Away,Cincinnati Reds,113,W
+565260,Away,Cincinnati Reds,113,L
+565261,Away,Cincinnati Reds,113,L
+565262,Away,Cincinnati Reds,113,L
+566220,Away,Pittsburgh Pirates,134,W
+566221,Away,Pittsburgh Pirates,134,L
+566222,Away,Pittsburgh Pirates,134,L
+567597,Home,San Francisco Giants,137,L
+567598,Home,San Francisco Giants,137,W
+567599,Home,San Francisco Giants,137,L
+567600,Home,Atlanta Braves,144,L
+567601,Home,Atlanta Braves,144,W
+567602,Home,Atlanta Braves,144,W
+564875,Away,Arizona Diamondbacks,109,W
+564876,Away,Arizona Diamondbacks,109,L
+564877,Away,Arizona Diamondbacks,109,W
+564878,Away,Arizona Diamondbacks,109,W
+567603,Home,Cincinnati Reds,113,L
+567604,Home,Cincinnati Reds,113,L
+567605,Home,Cincinnati Reds,113,W
+567606,Home,Chicago Cubs,112,W
+567607,Home,Chicago Cubs,112,W
+567608,Home,Chicago Cubs,112,L
+566139,Away,Oakland Athletics,133,L
+566140,Away,Oakland Athletics,133,W
+566141,Away,Oakland Athletics,133,L
+565178,Away,Chicago Cubs,112,L
+565179,Away,Chicago Cubs,112,L
+565180,Away,Chicago Cubs,112,L
+566233,Away,Pittsburgh Pirates,134,W
+566234,Away,Pittsburgh Pirates,134,W
+566235,Away,Pittsburgh Pirates,134,W
+567609,Home,Texas Rangers,140,W
+567610,Home,Texas Rangers,140,W
+567611,Home,Texas Rangers,140,L
+567612,Home,Minnesota Twins,142,L
+567613,Home,Minnesota Twins,142,W
+565955,Away,Washington Nationals,120,L
+565956,Away,Washington Nationals,120,W
+565957,Away,Washington Nationals,120,L
+566625,Away,St. Louis Cardinals,138,L
+566626,Away,St. Louis Cardinals,138,L
+566627,Away,St. Louis Cardinals,138,W
+567614,Home,Arizona Diamondbacks,109,W
+567615,Home,Arizona Diamondbacks,109,W
+567616,Home,Arizona Diamondbacks,109,L
+567617,Home,St. Louis Cardinals,138,L
+567618,Home,St. Louis Cardinals,138,L
+567619,Home,St. Louis Cardinals,138,W
+565190,Away,Chicago Cubs,112,L
+565191,Away,Chicago Cubs,112,W
+565192,Away,Chicago Cubs,112,W
+567620,Home,Houston Astros,117,L
+567621,Home,Houston Astros,117,W
+567622,Home,Chicago Cubs,112,L
+567623,Home,Chicago Cubs,112,W
+567624,Home,Chicago Cubs,112,W
+567625,Home,Chicago Cubs,112,W
+567433,Away,Miami Marlins,146,W
+567434,Away,Miami Marlins,146,W
+567435,Away,Miami Marlins,146,W
+567436,Away,Miami Marlins,146,W
+566639,Away,St. Louis Cardinals,138,L
+566640,Away,St. Louis Cardinals,138,W
+566641,Away,St. Louis Cardinals,138,W
+567626,Home,San Diego Padres,135,W
+567627,Home,San Diego Padres,135,W
+567628,Home,San Diego Padres,135,L
+567629,Home,San Diego Padres,135,W
+567630,Home,Pittsburgh Pirates,134,W
+567631,Home,Pittsburgh Pirates,134,W
+567632,Home,Pittsburgh Pirates,134,W
+565298,Away,Cincinnati Reds,113,W
+565299,Away,Cincinnati Reds,113,W
+565300,Away,Cincinnati Reds,113,W
+565491,Away,Colorado Rockies,115,L
+565492,Away,Colorado Rockies,115,L
+565493,Away,Colorado Rockies,115,L

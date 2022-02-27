@@ -1,59 +1,59 @@
-,game_id,home/away,opp_name,opp_code,result
-0,631589,Away,Cincinnati Reds,113,L
-1,631603,Away,Cincinnati Reds,113,W
-2,631591,Away,Cincinnati Reds,113,W
-3,631489,Home,Kansas City Royals,118,L
-4,631490,Home,Kansas City Royals,118,W
-5,631492,Home,Kansas City Royals,118,W
-6,631494,Home,Kansas City Royals,118,L
-7,631480,Home,Cincinnati Reds,113,W
-8,631470,Home,Cincinnati Reds,113,L
-9,631469,Home,Cincinnati Reds,113,L
-10,631105,Away,Pittsburgh Pirates,134,W
-11,631106,Away,Pittsburgh Pirates,134,W
-12,631110,Away,Pittsburgh Pirates,134,W
-13,631473,Home,Chicago White Sox,145,W
-14,631474,Home,Chicago White Sox,145,L
-15,631475,Home,Chicago White Sox,145,L
-16,631476,Home,Cleveland Indians,114,L
-17,631477,Home,Cleveland Indians,114,L
-18,631479,Home,Cleveland Indians,114,L
-19,631493,Away,Chicago White Sox,145,L
-20,631496,Away,Chicago White Sox,145,L
-21,631497,Away,Chicago White Sox,145,L
-22,631498,Away,Chicago White Sox,145,L
-23,631548,Away,Cleveland Indians,114,W
-24,631564,Away,Cleveland Indians,114,L
-25,631551,Away,Cleveland Indians,114,W
-26,631468,Home,Chicago Cubs,112,L
-27,631467,Home,Chicago Cubs,112,W
-28,631455,Home,Chicago Cubs,112,W
-29,631458,Home,Minnesota Twins,142,W
-30,631457,Home,Minnesota Twins,142,W
-31,631459,Home,Minnesota Twins,142,W
-32,631287,Away,Milwaukee Brewers,158,W
-33,631283,Away,Milwaukee Brewers,158,L
-34,631262,Away,Minnesota Twins,142,L
-35,631456,Home,Minnesota Twins,142,L
-36,631264,Away,Minnesota Twins,142,L
-37,631254,Away,Minnesota Twins,142,W
-38,631255,Away,Minnesota Twins,142,L
-39,631460,Home,Milwaukee Brewers,158,W
-40,631461,Home,Milwaukee Brewers,158,L
-41,630994,Away,St. Louis Cardinals,138,L
-42,630995,Away,St. Louis Cardinals,138,W
-43,631478,Away,Chicago White Sox,145,L
-44,631495,Away,Chicago White Sox,145,L
-45,631481,Away,Chicago White Sox,145,L
-46,631462,Home,Kansas City Royals,118,W
-47,631463,Home,Kansas City Royals,118,L
-48,631464,Home,Cleveland Indians,114,L
-49,631465,Home,Cleveland Indians,114,L
-50,631466,Home,Cleveland Indians,114,W
-51,631454,Home,Cleveland Indians,114,L
-52,631251,Away,Minnesota Twins,142,L
-53,631250,Away,Minnesota Twins,142,L
-54,631398,Away,Kansas City Royals,118,L
-55,631383,Away,Kansas City Royals,118,L
-56,631385,Away,Kansas City Royals,118,W
-57,631386,Away,Kansas City Royals,118,L
+game_id,home/away,opp_name,opp_code,result
+631589,Away,Cincinnati Reds,113,L
+631603,Away,Cincinnati Reds,113,W
+631591,Away,Cincinnati Reds,113,W
+631489,Home,Kansas City Royals,118,L
+631490,Home,Kansas City Royals,118,W
+631492,Home,Kansas City Royals,118,W
+631494,Home,Kansas City Royals,118,L
+631480,Home,Cincinnati Reds,113,W
+631470,Home,Cincinnati Reds,113,L
+631469,Home,Cincinnati Reds,113,L
+631105,Away,Pittsburgh Pirates,134,W
+631106,Away,Pittsburgh Pirates,134,W
+631110,Away,Pittsburgh Pirates,134,W
+631473,Home,Chicago White Sox,145,W
+631474,Home,Chicago White Sox,145,L
+631475,Home,Chicago White Sox,145,L
+631476,Home,Cleveland Indians,114,L
+631477,Home,Cleveland Indians,114,L
+631479,Home,Cleveland Indians,114,L
+631493,Away,Chicago White Sox,145,L
+631496,Away,Chicago White Sox,145,L
+631497,Away,Chicago White Sox,145,L
+631498,Away,Chicago White Sox,145,L
+631548,Away,Cleveland Indians,114,W
+631564,Away,Cleveland Indians,114,L
+631551,Away,Cleveland Indians,114,W
+631468,Home,Chicago Cubs,112,L
+631467,Home,Chicago Cubs,112,W
+631455,Home,Chicago Cubs,112,W
+631458,Home,Minnesota Twins,142,W
+631457,Home,Minnesota Twins,142,W
+631459,Home,Minnesota Twins,142,W
+631287,Away,Milwaukee Brewers,158,W
+631283,Away,Milwaukee Brewers,158,L
+631262,Away,Minnesota Twins,142,L
+631456,Home,Minnesota Twins,142,L
+631264,Away,Minnesota Twins,142,L
+631254,Away,Minnesota Twins,142,W
+631255,Away,Minnesota Twins,142,L
+631460,Home,Milwaukee Brewers,158,W
+631461,Home,Milwaukee Brewers,158,L
+630994,Away,St. Louis Cardinals,138,L
+630995,Away,St. Louis Cardinals,138,W
+631478,Away,Chicago White Sox,145,L
+631495,Away,Chicago White Sox,145,L
+631481,Away,Chicago White Sox,145,L
+631462,Home,Kansas City Royals,118,W
+631463,Home,Kansas City Royals,118,L
+631464,Home,Cleveland Indians,114,L
+631465,Home,Cleveland Indians,114,L
+631466,Home,Cleveland Indians,114,W
+631454,Home,Cleveland Indians,114,L
+631251,Away,Minnesota Twins,142,L
+631250,Away,Minnesota Twins,142,L
+631398,Away,Kansas City Royals,118,L
+631383,Away,Kansas City Royals,118,L
+631385,Away,Kansas City Royals,118,W
+631386,Away,Kansas City Royals,118,L

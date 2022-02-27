@@ -1,163 +1,163 @@
-,game_id,home/away,opp_name,opp_code,result
-0,446867,Away,Cleveland Indians,114,W
-1,446888,Away,Cleveland Indians,114,L
-2,446912,Away,Toronto Blue Jays,141,W
-3,446927,Away,Toronto Blue Jays,141,W
-4,446942,Away,Toronto Blue Jays,141,L
-5,446958,Home,Baltimore Orioles,110,L
-6,446970,Home,Baltimore Orioles,110,L
-7,446983,Home,Baltimore Orioles,110,W
-8,447020,Home,Toronto Blue Jays,141,W
-9,447035,Home,Toronto Blue Jays,141,W
-10,447050,Home,Toronto Blue Jays,141,L
-11,447057,Home,Toronto Blue Jays,141,L
-12,447071,Home,Tampa Bay Rays,139,L
-13,447086,Home,Tampa Bay Rays,139,W
-14,447100,Home,Tampa Bay Rays,139,L
-15,447104,Away,Houston Astros,117,W
-16,447119,Away,Houston Astros,117,L
-17,447134,Away,Houston Astros,117,W
-18,447149,Away,Atlanta Braves,144,W
-19,447162,Away,Atlanta Braves,144,W
-20,447176,Home,Atlanta Braves,144,W
-21,447191,Home,Atlanta Braves,144,L
-22,447209,Home,New York Yankees,147,W
-23,447224,Home,New York Yankees,147,W
-24,447239,Home,New York Yankees,147,W
-25,447256,Away,Chicago White Sox,145,L
-26,447271,Away,Chicago White Sox,145,W
-27,447285,Away,Chicago White Sox,145,W
-28,447296,Away,New York Yankees,147,L
-29,447311,Away,New York Yankees,147,L
-30,447326,Away,New York Yankees,147,W
-31,447348,Home,Oakland Athletics,133,W
-32,447361,Home,Oakland Athletics,133,W
-33,447376,Home,Oakland Athletics,133,W
-34,447384,Home,Houston Astros,117,W
-35,447395,Home,Houston Astros,117,L
-36,447410,Home,Houston Astros,117,W
-37,447425,Home,Houston Astros,117,W
-38,447445,Away,Kansas City Royals,118,L
-39,447460,Away,Kansas City Royals,118,L
-40,447437,Away,Kansas City Royals,118,W
-41,447490,Home,Cleveland Indians,114,L
-42,447505,Home,Cleveland Indians,114,W
-43,447520,Home,Cleveland Indians,114,W
-44,447545,Home,Colorado Rockies,115,W
-45,447560,Home,Colorado Rockies,115,W
-46,447573,Home,Colorado Rockies,115,L
-47,447580,Away,Toronto Blue Jays,141,L
-48,447595,Away,Toronto Blue Jays,141,L
-49,447610,Away,Toronto Blue Jays,141,W
-50,447624,Away,Baltimore Orioles,110,W
-51,447639,Away,Baltimore Orioles,110,W
-52,447655,Away,Baltimore Orioles,110,L
-53,447670,Away,Baltimore Orioles,110,L
-54,447692,Home,Toronto Blue Jays,141,L
-55,447707,Home,Toronto Blue Jays,141,W
-56,447722,Home,Toronto Blue Jays,141,L
-57,447735,Away,San Francisco Giants,137,W
-58,447750,Away,San Francisco Giants,137,L
-59,447773,Away,Minnesota Twins,142,W
-60,447788,Away,Minnesota Twins,142,W
-61,447803,Away,Minnesota Twins,142,L
-62,447827,Home,Baltimore Orioles,110,L
-63,447842,Home,Baltimore Orioles,110,W
-64,447857,Home,Baltimore Orioles,110,L
-65,447878,Home,Seattle Mariners,136,L
-66,447893,Home,Seattle Mariners,136,W
-67,447908,Home,Seattle Mariners,136,W
-68,447913,Home,Chicago White Sox,145,L
-69,447923,Home,Chicago White Sox,145,L
-70,447938,Home,Chicago White Sox,145,L
-71,447953,Home,Chicago White Sox,145,W
-72,447961,Away,Texas Rangers,140,W
-73,447976,Away,Texas Rangers,140,L
-74,447991,Away,Texas Rangers,140,L
-75,448005,Away,Tampa Bay Rays,139,L
-76,448017,Away,Tampa Bay Rays,139,W
-77,448032,Away,Tampa Bay Rays,139,L
-78,448065,Home,Los Angeles Angels,108,W
-79,448080,Home,Los Angeles Angels,108,L
-80,448095,Home,Los Angeles Angels,108,W
-81,448116,Home,Texas Rangers,140,W
-82,448131,Home,Texas Rangers,140,L
-83,448146,Home,Texas Rangers,140,W
-84,448170,Home,Tampa Bay Rays,139,W
-85,448185,Home,Tampa Bay Rays,139,W
-86,448200,Home,Tampa Bay Rays,139,W
-87,448204,Away,New York Yankees,147,W
-88,448219,Away,New York Yankees,147,W
-89,448234,Away,New York Yankees,147,L
-90,448270,Home,San Francisco Giants,137,W
-91,448285,Home,San Francisco Giants,137,W
-92,448295,Home,Minnesota Twins,142,W
-93,448306,Home,Minnesota Twins,142,L
-94,448321,Home,Minnesota Twins,142,L
-95,448336,Home,Minnesota Twins,142,W
-96,448348,Home,Detroit Tigers,116,L
-97,448360,Home,Detroit Tigers,116,L
-98,448375,Home,Detroit Tigers,116,L
-99,448386,Away,Los Angeles Angels,108,L
-100,448395,Away,Los Angeles Angels,108,W
-101,448410,Away,Los Angeles Angels,108,L
-102,448425,Away,Los Angeles Angels,108,W
-103,448438,Away,Seattle Mariners,136,W
-104,448446,Away,Seattle Mariners,136,L
-105,448461,Away,Seattle Mariners,136,L
-106,448476,Away,Seattle Mariners,136,W
-107,448490,Away,Los Angeles Dodgers,119,W
-108,448505,Away,Los Angeles Dodgers,119,L
-109,448520,Away,Los Angeles Dodgers,119,L
-110,448550,Home,New York Yankees,147,W
-111,448566,Home,New York Yankees,147,L
-112,448578,Home,New York Yankees,147,L
-113,448582,Home,Arizona Diamondbacks,109,W
-114,448597,Home,Arizona Diamondbacks,109,W
-115,448612,Home,Arizona Diamondbacks,109,W
-116,446903,Away,Cleveland Indians,114,W
-117,448635,Away,Baltimore Orioles,110,W
-118,448650,Away,Baltimore Orioles,110,W
-119,448666,Away,Detroit Tigers,116,L
-120,448678,Away,Detroit Tigers,116,W
-121,448693,Away,Detroit Tigers,116,W
-122,448708,Away,Detroit Tigers,116,L
-123,448723,Away,Tampa Bay Rays,139,W
-124,448732,Away,Tampa Bay Rays,139,W
-125,448748,Away,Tampa Bay Rays,139,L
-126,448763,Away,Tampa Bay Rays,139,L
-127,448778,Home,Kansas City Royals,118,L
-128,448793,Home,Kansas City Royals,118,W
-129,448808,Home,Kansas City Royals,118,L
-130,448827,Home,Tampa Bay Rays,139,W
-131,448842,Home,Tampa Bay Rays,139,L
-132,448857,Home,Tampa Bay Rays,139,W
-133,448866,Away,Oakland Athletics,133,W
-134,448881,Away,Oakland Athletics,133,W
-135,448896,Away,Oakland Athletics,133,L
-136,448912,Away,San Diego Padres,135,L
-137,448927,Away,San Diego Padres,135,W
-138,448942,Away,San Diego Padres,135,W
-139,448962,Away,Toronto Blue Jays,141,W
-140,448977,Away,Toronto Blue Jays,141,L
-141,448992,Away,Toronto Blue Jays,141,W
-142,449006,Home,Baltimore Orioles,110,W
-143,449021,Home,Baltimore Orioles,110,L
-144,449036,Home,Baltimore Orioles,110,L
-145,449055,Home,New York Yankees,147,W
-146,449068,Home,New York Yankees,147,W
-147,449083,Home,New York Yankees,147,W
-148,449098,Home,New York Yankees,147,W
-149,449108,Away,Baltimore Orioles,110,W
-150,449118,Away,Baltimore Orioles,110,W
-151,449133,Away,Baltimore Orioles,110,W
-152,449147,Away,Baltimore Orioles,110,W
-153,449158,Away,Tampa Bay Rays,139,W
-154,449173,Away,Tampa Bay Rays,139,W
-155,449188,Away,Tampa Bay Rays,139,W
-156,449213,Away,New York Yankees,147,L
-157,449228,Away,New York Yankees,147,L
-158,449243,Away,New York Yankees,147,L
-159,449267,Home,Toronto Blue Jays,141,W
-160,449282,Home,Toronto Blue Jays,141,L
-161,449297,Home,Toronto Blue Jays,141,L
+game_id,home/away,opp_name,opp_code,result
+446867,Away,Cleveland Indians,114,W
+446888,Away,Cleveland Indians,114,L
+446912,Away,Toronto Blue Jays,141,W
+446927,Away,Toronto Blue Jays,141,W
+446942,Away,Toronto Blue Jays,141,L
+446958,Home,Baltimore Orioles,110,L
+446970,Home,Baltimore Orioles,110,L
+446983,Home,Baltimore Orioles,110,W
+447020,Home,Toronto Blue Jays,141,W
+447035,Home,Toronto Blue Jays,141,W
+447050,Home,Toronto Blue Jays,141,L
+447057,Home,Toronto Blue Jays,141,L
+447071,Home,Tampa Bay Rays,139,L
+447086,Home,Tampa Bay Rays,139,W
+447100,Home,Tampa Bay Rays,139,L
+447104,Away,Houston Astros,117,W
+447119,Away,Houston Astros,117,L
+447134,Away,Houston Astros,117,W
+447149,Away,Atlanta Braves,144,W
+447162,Away,Atlanta Braves,144,W
+447176,Home,Atlanta Braves,144,W
+447191,Home,Atlanta Braves,144,L
+447209,Home,New York Yankees,147,W
+447224,Home,New York Yankees,147,W
+447239,Home,New York Yankees,147,W
+447256,Away,Chicago White Sox,145,L
+447271,Away,Chicago White Sox,145,W
+447285,Away,Chicago White Sox,145,W
+447296,Away,New York Yankees,147,L
+447311,Away,New York Yankees,147,L
+447326,Away,New York Yankees,147,W
+447348,Home,Oakland Athletics,133,W
+447361,Home,Oakland Athletics,133,W
+447376,Home,Oakland Athletics,133,W
+447384,Home,Houston Astros,117,W
+447395,Home,Houston Astros,117,L
+447410,Home,Houston Astros,117,W
+447425,Home,Houston Astros,117,W
+447445,Away,Kansas City Royals,118,L
+447460,Away,Kansas City Royals,118,L
+447437,Away,Kansas City Royals,118,W
+447490,Home,Cleveland Indians,114,L
+447505,Home,Cleveland Indians,114,W
+447520,Home,Cleveland Indians,114,W
+447545,Home,Colorado Rockies,115,W
+447560,Home,Colorado Rockies,115,W
+447573,Home,Colorado Rockies,115,L
+447580,Away,Toronto Blue Jays,141,L
+447595,Away,Toronto Blue Jays,141,L
+447610,Away,Toronto Blue Jays,141,W
+447624,Away,Baltimore Orioles,110,W
+447639,Away,Baltimore Orioles,110,W
+447655,Away,Baltimore Orioles,110,L
+447670,Away,Baltimore Orioles,110,L
+447692,Home,Toronto Blue Jays,141,L
+447707,Home,Toronto Blue Jays,141,W
+447722,Home,Toronto Blue Jays,141,L
+447735,Away,San Francisco Giants,137,W
+447750,Away,San Francisco Giants,137,L
+447773,Away,Minnesota Twins,142,W
+447788,Away,Minnesota Twins,142,W
+447803,Away,Minnesota Twins,142,L
+447827,Home,Baltimore Orioles,110,L
+447842,Home,Baltimore Orioles,110,W
+447857,Home,Baltimore Orioles,110,L
+447878,Home,Seattle Mariners,136,L
+447893,Home,Seattle Mariners,136,W
+447908,Home,Seattle Mariners,136,W
+447913,Home,Chicago White Sox,145,L
+447923,Home,Chicago White Sox,145,L
+447938,Home,Chicago White Sox,145,L
+447953,Home,Chicago White Sox,145,W
+447961,Away,Texas Rangers,140,W
+447976,Away,Texas Rangers,140,L
+447991,Away,Texas Rangers,140,L
+448005,Away,Tampa Bay Rays,139,L
+448017,Away,Tampa Bay Rays,139,W
+448032,Away,Tampa Bay Rays,139,L
+448065,Home,Los Angeles Angels,108,W
+448080,Home,Los Angeles Angels,108,L
+448095,Home,Los Angeles Angels,108,W
+448116,Home,Texas Rangers,140,W
+448131,Home,Texas Rangers,140,L
+448146,Home,Texas Rangers,140,W
+448170,Home,Tampa Bay Rays,139,W
+448185,Home,Tampa Bay Rays,139,W
+448200,Home,Tampa Bay Rays,139,W
+448204,Away,New York Yankees,147,W
+448219,Away,New York Yankees,147,W
+448234,Away,New York Yankees,147,L
+448270,Home,San Francisco Giants,137,W
+448285,Home,San Francisco Giants,137,W
+448295,Home,Minnesota Twins,142,W
+448306,Home,Minnesota Twins,142,L
+448321,Home,Minnesota Twins,142,L
+448336,Home,Minnesota Twins,142,W
+448348,Home,Detroit Tigers,116,L
+448360,Home,Detroit Tigers,116,L
+448375,Home,Detroit Tigers,116,L
+448386,Away,Los Angeles Angels,108,L
+448395,Away,Los Angeles Angels,108,W
+448410,Away,Los Angeles Angels,108,L
+448425,Away,Los Angeles Angels,108,W
+448438,Away,Seattle Mariners,136,W
+448446,Away,Seattle Mariners,136,L
+448461,Away,Seattle Mariners,136,L
+448476,Away,Seattle Mariners,136,W
+448490,Away,Los Angeles Dodgers,119,W
+448505,Away,Los Angeles Dodgers,119,L
+448520,Away,Los Angeles Dodgers,119,L
+448550,Home,New York Yankees,147,W
+448566,Home,New York Yankees,147,L
+448578,Home,New York Yankees,147,L
+448582,Home,Arizona Diamondbacks,109,W
+448597,Home,Arizona Diamondbacks,109,W
+448612,Home,Arizona Diamondbacks,109,W
+446903,Away,Cleveland Indians,114,W
+448635,Away,Baltimore Orioles,110,W
+448650,Away,Baltimore Orioles,110,W
+448666,Away,Detroit Tigers,116,L
+448678,Away,Detroit Tigers,116,W
+448693,Away,Detroit Tigers,116,W
+448708,Away,Detroit Tigers,116,L
+448723,Away,Tampa Bay Rays,139,W
+448732,Away,Tampa Bay Rays,139,W
+448748,Away,Tampa Bay Rays,139,L
+448763,Away,Tampa Bay Rays,139,L
+448778,Home,Kansas City Royals,118,L
+448793,Home,Kansas City Royals,118,W
+448808,Home,Kansas City Royals,118,L
+448827,Home,Tampa Bay Rays,139,W
+448842,Home,Tampa Bay Rays,139,L
+448857,Home,Tampa Bay Rays,139,W
+448866,Away,Oakland Athletics,133,W
+448881,Away,Oakland Athletics,133,W
+448896,Away,Oakland Athletics,133,L
+448912,Away,San Diego Padres,135,L
+448927,Away,San Diego Padres,135,W
+448942,Away,San Diego Padres,135,W
+448962,Away,Toronto Blue Jays,141,W
+448977,Away,Toronto Blue Jays,141,L
+448992,Away,Toronto Blue Jays,141,W
+449006,Home,Baltimore Orioles,110,W
+449021,Home,Baltimore Orioles,110,L
+449036,Home,Baltimore Orioles,110,L
+449055,Home,New York Yankees,147,W
+449068,Home,New York Yankees,147,W
+449083,Home,New York Yankees,147,W
+449098,Home,New York Yankees,147,W
+449108,Away,Baltimore Orioles,110,W
+449118,Away,Baltimore Orioles,110,W
+449133,Away,Baltimore Orioles,110,W
+449147,Away,Baltimore Orioles,110,W
+449158,Away,Tampa Bay Rays,139,W
+449173,Away,Tampa Bay Rays,139,W
+449188,Away,Tampa Bay Rays,139,W
+449213,Away,New York Yankees,147,L
+449228,Away,New York Yankees,147,L
+449243,Away,New York Yankees,147,L
+449267,Home,Toronto Blue Jays,141,W
+449282,Home,Toronto Blue Jays,141,L
+449297,Home,Toronto Blue Jays,141,L

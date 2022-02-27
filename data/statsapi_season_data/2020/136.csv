@@ -1,61 +1,61 @@
-,game_id,home/away,opp_name,opp_code,result
-0,631438,Away,Houston Astros,117,L
-1,631453,Away,Houston Astros,117,L
-2,631441,Away,Houston Astros,117,W
-3,631442,Away,Houston Astros,117,L
-4,631387,Away,Los Angeles Angels,108,L
-5,631389,Away,Los Angeles Angels,108,W
-6,631390,Away,Los Angeles Angels,108,W
-7,631066,Home,Oakland Athletics,133,W
-8,631067,Home,Oakland Athletics,133,L
-9,631068,Home,Oakland Athletics,133,L
-10,631070,Home,Oakland Athletics,133,L
-11,631057,Home,Los Angeles Angels,108,L
-12,631043,Home,Los Angeles Angels,108,W
-13,631042,Home,Los Angeles Angels,108,L
-14,631045,Home,Colorado Rockies,115,L
-15,631046,Home,Colorado Rockies,115,L
-16,631047,Home,Colorado Rockies,115,W
-17,630923,Away,Texas Rangers,140,W
-18,630924,Away,Texas Rangers,140,L
-19,630926,Away,Texas Rangers,140,L
-20,631448,Away,Houston Astros,117,L
-21,631449,Away,Houston Astros,117,L
-22,631450,Away,Houston Astros,117,L
-23,631352,Away,Los Angeles Dodgers,119,L
-24,631353,Away,Los Angeles Dodgers,119,L
-25,631048,Home,Los Angeles Dodgers,119,W
-26,631049,Home,Los Angeles Dodgers,119,L
-27,631050,Home,Texas Rangers,140,W
-28,631051,Home,Texas Rangers,140,W
-29,631052,Home,Texas Rangers,140,W
-30,631081,Away,San Diego Padres,135,W
-31,631083,Away,San Diego Padres,135,L
-32,631082,Away,San Diego Padres,135,W
-33,631394,Away,Los Angeles Angels,108,L
-34,631369,Away,Los Angeles Angels,108,L
-35,631371,Away,Los Angeles Angels,108,W
-36,631374,Away,Los Angeles Angels,108,W
-37,631041,Home,Texas Rangers,140,W
-38,631044,Home,Texas Rangers,140,W
-39,631030,Home,Texas Rangers,140,W
-40,631031,Home,Texas Rangers,140,W
-41,631007,Away,San Francisco Giants,137,L
-42,631008,Away,San Francisco Giants,137,L
-43,630224,Away,Arizona Diamondbacks,109,L
-44,630225,Away,Arizona Diamondbacks,109,W
-45,630226,Away,Arizona Diamondbacks,109,W
-46,631053,Home,Oakland Athletics,133,W
-47,631054,Home,Oakland Athletics,133,L
-48,631032,Home,San Francisco Giants,137,L
-49,631034,Home,San Francisco Giants,137,L
-50,631040,Home,San Diego Padres,135,L
-51,631036,Home,San Diego Padres,135,W
-52,631037,Home,San Diego Padres,135,L
-53,631038,Home,Houston Astros,117,W
-54,631039,Home,Houston Astros,117,L
-55,631035,Home,Houston Astros,117,W
-56,631167,Away,Oakland Athletics,133,L
-57,631169,Away,Oakland Athletics,133,W
-58,631055,Home,Oakland Athletics,133,W
-59,631155,Away,Oakland Athletics,133,L
+game_id,home/away,opp_name,opp_code,result
+631438,Away,Houston Astros,117,L
+631453,Away,Houston Astros,117,L
+631441,Away,Houston Astros,117,W
+631442,Away,Houston Astros,117,L
+631387,Away,Los Angeles Angels,108,L
+631389,Away,Los Angeles Angels,108,W
+631390,Away,Los Angeles Angels,108,W
+631066,Home,Oakland Athletics,133,W
+631067,Home,Oakland Athletics,133,L
+631068,Home,Oakland Athletics,133,L
+631070,Home,Oakland Athletics,133,L
+631057,Home,Los Angeles Angels,108,L
+631043,Home,Los Angeles Angels,108,W
+631042,Home,Los Angeles Angels,108,L
+631045,Home,Colorado Rockies,115,L
+631046,Home,Colorado Rockies,115,L
+631047,Home,Colorado Rockies,115,W
+630923,Away,Texas Rangers,140,W
+630924,Away,Texas Rangers,140,L
+630926,Away,Texas Rangers,140,L
+631448,Away,Houston Astros,117,L
+631449,Away,Houston Astros,117,L
+631450,Away,Houston Astros,117,L
+631352,Away,Los Angeles Dodgers,119,L
+631353,Away,Los Angeles Dodgers,119,L
+631048,Home,Los Angeles Dodgers,119,W
+631049,Home,Los Angeles Dodgers,119,L
+631050,Home,Texas Rangers,140,W
+631051,Home,Texas Rangers,140,W
+631052,Home,Texas Rangers,140,W
+631081,Away,San Diego Padres,135,W
+631083,Away,San Diego Padres,135,L
+631082,Away,San Diego Padres,135,W
+631394,Away,Los Angeles Angels,108,L
+631369,Away,Los Angeles Angels,108,L
+631371,Away,Los Angeles Angels,108,W
+631374,Away,Los Angeles Angels,108,W
+631041,Home,Texas Rangers,140,W
+631044,Home,Texas Rangers,140,W
+631030,Home,Texas Rangers,140,W
+631031,Home,Texas Rangers,140,W
+631007,Away,San Francisco Giants,137,L
+631008,Away,San Francisco Giants,137,L
+630224,Away,Arizona Diamondbacks,109,L
+630225,Away,Arizona Diamondbacks,109,W
+630226,Away,Arizona Diamondbacks,109,W
+631053,Home,Oakland Athletics,133,W
+631054,Home,Oakland Athletics,133,L
+631032,Home,San Francisco Giants,137,L
+631034,Home,San Francisco Giants,137,L
+631040,Home,San Diego Padres,135,L
+631036,Home,San Diego Padres,135,W
+631037,Home,San Diego Padres,135,L
+631038,Home,Houston Astros,117,W
+631039,Home,Houston Astros,117,L
+631035,Home,Houston Astros,117,W
+631167,Away,Oakland Athletics,133,L
+631169,Away,Oakland Athletics,133,W
+631055,Home,Oakland Athletics,133,W
+631155,Away,Oakland Athletics,133,L

@@ -1,62 +1,62 @@
-,game_id,home/away,opp_name,opp_code,result
-0,630966,Home,Toronto Blue Jays,141,L
-1,630967,Home,Toronto Blue Jays,141,W
-2,630968,Home,Toronto Blue Jays,141,W
-3,630969,Home,Atlanta Braves,144,W
-4,630970,Home,Atlanta Braves,144,W
-5,630272,Away,Atlanta Braves,144,L
-6,630346,Away,Atlanta Braves,144,L
-7,630592,Away,Baltimore Orioles,110,L
-8,630492,Away,Baltimore Orioles,110,L
-9,630493,Away,Baltimore Orioles,110,L
-10,630971,Home,Boston Red Sox,111,W
-11,630972,Home,Boston Red Sox,111,L
-12,630974,Home,New York Yankees,147,W
-13,630962,Home,New York Yankees,147,L
-14,630973,Home,New York Yankees,147,W
-15,630946,Home,New York Yankees,147,W
-16,631631,Away,Boston Red Sox,111,W
-17,631646,Away,Boston Red Sox,111,W
-18,631648,Away,Boston Red Sox,111,W
-19,631650,Away,Boston Red Sox,111,W
-20,630903,Away,Toronto Blue Jays,141,L
-21,630905,Away,Toronto Blue Jays,141,W
-22,630905,Away,Toronto Blue Jays,141,W
-23,630872,Away,Toronto Blue Jays,141,W
-24,631200,Away,New York Yankees,147,W
-25,631201,Away,New York Yankees,147,W
-26,631202,Away,New York Yankees,147,W
-27,630960,Home,Toronto Blue Jays,141,L
-28,630948,Home,Toronto Blue Jays,141,W
-29,630949,Home,Toronto Blue Jays,141,W
-30,630950,Home,Toronto Blue Jays,141,L
-31,630951,Home,Baltimore Orioles,110,W
-32,630952,Home,Baltimore Orioles,110,W
-33,631304,Away,Miami Marlins,146,W
-34,631319,Away,Miami Marlins,146,W
-35,631306,Away,Miami Marlins,146,W
-36,631206,Away,New York Yankees,147,W
-37,631207,Away,New York Yankees,147,L
-38,631194,Away,New York Yankees,147,W
-39,630954,Home,Miami Marlins,146,W
-40,630955,Home,Miami Marlins,146,L
-41,630956,Home,Miami Marlins,146,W
-42,630857,Away,Washington Nationals,120,L
-43,630867,Away,Washington Nationals,120,L
-44,630957,Home,Boston Red Sox,111,L
-45,630958,Home,Boston Red Sox,111,W
-46,630959,Home,Boston Red Sox,111,W
-47,630947,Home,Boston Red Sox,111,L
-48,630936,Home,Washington Nationals,120,W
-49,630937,Home,Washington Nationals,120,L
-50,631660,Away,Baltimore Orioles,110,W
-51,630953,Home,Baltimore Orioles,110,W
-52,631661,Away,Baltimore Orioles,110,W
-53,631662,Away,Baltimore Orioles,110,W
-54,631672,Away,Baltimore Orioles,110,L
-55,631216,Away,New York Mets,121,W
-56,631217,Away,New York Mets,121,L
-57,631218,Away,New York Mets,121,W
-58,630938,Home,Philadelphia Phillies,143,W
-59,630939,Home,Philadelphia Phillies,143,W
-60,630945,Home,Philadelphia Phillies,143,W
+game_id,home/away,opp_name,opp_code,result
+630966,Home,Toronto Blue Jays,141,L
+630967,Home,Toronto Blue Jays,141,W
+630968,Home,Toronto Blue Jays,141,W
+630969,Home,Atlanta Braves,144,W
+630970,Home,Atlanta Braves,144,W
+630272,Away,Atlanta Braves,144,L
+630346,Away,Atlanta Braves,144,L
+630592,Away,Baltimore Orioles,110,L
+630492,Away,Baltimore Orioles,110,L
+630493,Away,Baltimore Orioles,110,L
+630971,Home,Boston Red Sox,111,W
+630972,Home,Boston Red Sox,111,L
+630974,Home,New York Yankees,147,W
+630962,Home,New York Yankees,147,L
+630973,Home,New York Yankees,147,W
+630946,Home,New York Yankees,147,W
+631631,Away,Boston Red Sox,111,W
+631646,Away,Boston Red Sox,111,W
+631648,Away,Boston Red Sox,111,W
+631650,Away,Boston Red Sox,111,W
+630903,Away,Toronto Blue Jays,141,L
+630905,Away,Toronto Blue Jays,141,W
+630905,Away,Toronto Blue Jays,141,W
+630872,Away,Toronto Blue Jays,141,W
+631200,Away,New York Yankees,147,W
+631201,Away,New York Yankees,147,W
+631202,Away,New York Yankees,147,W
+630960,Home,Toronto Blue Jays,141,L
+630948,Home,Toronto Blue Jays,141,W
+630949,Home,Toronto Blue Jays,141,W
+630950,Home,Toronto Blue Jays,141,L
+630951,Home,Baltimore Orioles,110,W
+630952,Home,Baltimore Orioles,110,W
+631304,Away,Miami Marlins,146,W
+631319,Away,Miami Marlins,146,W
+631306,Away,Miami Marlins,146,W
+631206,Away,New York Yankees,147,W
+631207,Away,New York Yankees,147,L
+631194,Away,New York Yankees,147,W
+630954,Home,Miami Marlins,146,W
+630955,Home,Miami Marlins,146,L
+630956,Home,Miami Marlins,146,W
+630857,Away,Washington Nationals,120,L
+630867,Away,Washington Nationals,120,L
+630957,Home,Boston Red Sox,111,L
+630958,Home,Boston Red Sox,111,W
+630959,Home,Boston Red Sox,111,W
+630947,Home,Boston Red Sox,111,L
+630936,Home,Washington Nationals,120,W
+630937,Home,Washington Nationals,120,L
+631660,Away,Baltimore Orioles,110,W
+630953,Home,Baltimore Orioles,110,W
+631661,Away,Baltimore Orioles,110,W
+631662,Away,Baltimore Orioles,110,W
+631672,Away,Baltimore Orioles,110,L
+631216,Away,New York Mets,121,W
+631217,Away,New York Mets,121,L
+631218,Away,New York Mets,121,W
+630938,Home,Philadelphia Phillies,143,W
+630939,Home,Philadelphia Phillies,143,W
+630945,Home,Philadelphia Phillies,143,W

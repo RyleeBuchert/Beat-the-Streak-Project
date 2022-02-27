@@ -1,61 +1,61 @@
-,game_id,home/away,opp_name,opp_code,result
-0,631664,Home,Baltimore Orioles,110,W
-1,631666,Home,Baltimore Orioles,110,L
-2,631668,Home,Baltimore Orioles,110,L
-3,631669,Home,New York Mets,121,L
-4,631663,Home,New York Mets,121,L
-5,631239,Away,New York Mets,121,W
-6,631238,Away,New York Mets,121,W
-7,631222,Away,New York Yankees,147,L
-8,631224,Away,New York Yankees,147,L
-9,631210,Away,New York Yankees,147,L
-10,630971,Away,Tampa Bay Rays,139,L
-11,630972,Away,Tampa Bay Rays,139,W
-12,631623,Home,Toronto Blue Jays,141,W
-13,631658,Home,Toronto Blue Jays,141,L
-14,631630,Home,Toronto Blue Jays,141,W
-15,631631,Home,Tampa Bay Rays,139,L
-16,631646,Home,Tampa Bay Rays,139,L
-17,631648,Home,Tampa Bay Rays,139,L
-18,631650,Home,Tampa Bay Rays,139,L
-19,631196,Away,New York Yankees,147,L
-20,631197,Away,New York Yankees,147,L
-21,631198,Away,New York Yankees,147,L
-22,631199,Away,New York Yankees,147,L
-23,631651,Home,Philadelphia Phillies,143,L
-24,631652,Home,Philadelphia Phillies,143,W
-25,631684,Away,Baltimore Orioles,110,W
-26,631665,Away,Baltimore Orioles,110,W
-27,631667,Away,Baltimore Orioles,110,L
-28,631670,Away,Baltimore Orioles,110,L
-29,630862,Away,Toronto Blue Jays,141,W
-30,630863,Away,Toronto Blue Jays,141,L
-31,631653,Home,Washington Nationals,120,L
-32,631654,Home,Washington Nationals,120,W
-33,631655,Home,Washington Nationals,120,W
-34,631656,Home,Atlanta Braves,144,L
-35,631657,Home,Atlanta Braves,144,L
-36,631624,Home,Atlanta Braves,144,L
-37,631614,Home,Toronto Blue Jays,141,L
-38,631649,Home,Toronto Blue Jays,141,L
-39,630865,Away,Toronto Blue Jays,141,W
-40,631625,Home,Toronto Blue Jays,141,W
-41,631626,Home,Toronto Blue Jays,141,L
-42,631149,Away,Philadelphia Phillies,143,L
-43,631152,Away,Philadelphia Phillies,143,W
-44,630957,Away,Tampa Bay Rays,139,W
-45,630958,Away,Tampa Bay Rays,139,L
-46,630959,Away,Tampa Bay Rays,139,L
-47,630947,Away,Tampa Bay Rays,139,W
-48,631314,Away,Miami Marlins,146,W
-49,631315,Away,Miami Marlins,146,L
-50,631313,Away,Miami Marlins,146,W
-51,631627,Home,New York Yankees,147,L
-52,631628,Home,New York Yankees,147,L
-53,631635,Home,New York Yankees,147,W
-54,631636,Home,Baltimore Orioles,110,W
-55,631637,Home,Baltimore Orioles,110,W
-56,631640,Home,Baltimore Orioles,110,L
-57,630569,Away,Atlanta Braves,144,L
-58,630570,Away,Atlanta Braves,144,W
-59,630573,Away,Atlanta Braves,144,W
+game_id,home/away,opp_name,opp_code,result
+631664,Home,Baltimore Orioles,110,W
+631666,Home,Baltimore Orioles,110,L
+631668,Home,Baltimore Orioles,110,L
+631669,Home,New York Mets,121,L
+631663,Home,New York Mets,121,L
+631239,Away,New York Mets,121,W
+631238,Away,New York Mets,121,W
+631222,Away,New York Yankees,147,L
+631224,Away,New York Yankees,147,L
+631210,Away,New York Yankees,147,L
+630971,Away,Tampa Bay Rays,139,L
+630972,Away,Tampa Bay Rays,139,W
+631623,Home,Toronto Blue Jays,141,W
+631658,Home,Toronto Blue Jays,141,L
+631630,Home,Toronto Blue Jays,141,W
+631631,Home,Tampa Bay Rays,139,L
+631646,Home,Tampa Bay Rays,139,L
+631648,Home,Tampa Bay Rays,139,L
+631650,Home,Tampa Bay Rays,139,L
+631196,Away,New York Yankees,147,L
+631197,Away,New York Yankees,147,L
+631198,Away,New York Yankees,147,L
+631199,Away,New York Yankees,147,L
+631651,Home,Philadelphia Phillies,143,L
+631652,Home,Philadelphia Phillies,143,W
+631684,Away,Baltimore Orioles,110,W
+631665,Away,Baltimore Orioles,110,W
+631667,Away,Baltimore Orioles,110,L
+631670,Away,Baltimore Orioles,110,L
+630862,Away,Toronto Blue Jays,141,W
+630863,Away,Toronto Blue Jays,141,L
+631653,Home,Washington Nationals,120,L
+631654,Home,Washington Nationals,120,W
+631655,Home,Washington Nationals,120,W
+631656,Home,Atlanta Braves,144,L
+631657,Home,Atlanta Braves,144,L
+631624,Home,Atlanta Braves,144,L
+631614,Home,Toronto Blue Jays,141,L
+631649,Home,Toronto Blue Jays,141,L
+630865,Away,Toronto Blue Jays,141,W
+631625,Home,Toronto Blue Jays,141,W
+631626,Home,Toronto Blue Jays,141,L
+631149,Away,Philadelphia Phillies,143,L
+631152,Away,Philadelphia Phillies,143,W
+630957,Away,Tampa Bay Rays,139,W
+630958,Away,Tampa Bay Rays,139,L
+630959,Away,Tampa Bay Rays,139,L
+630947,Away,Tampa Bay Rays,139,W
+631314,Away,Miami Marlins,146,W
+631315,Away,Miami Marlins,146,L
+631313,Away,Miami Marlins,146,W
+631627,Home,New York Yankees,147,L
+631628,Home,New York Yankees,147,L
+631635,Home,New York Yankees,147,W
+631636,Home,Baltimore Orioles,110,W
+631637,Home,Baltimore Orioles,110,W
+631640,Home,Baltimore Orioles,110,L
+630569,Away,Atlanta Braves,144,L
+630570,Away,Atlanta Braves,144,W
+630573,Away,Atlanta Braves,144,W

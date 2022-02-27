@@ -1,61 +1,61 @@
-,game_id,home/away,opp_name,opp_code,result
-0,631242,Home,Atlanta Braves,144,W
-1,631241,Home,Atlanta Braves,144,L
-2,631240,Home,Atlanta Braves,144,L
-3,631669,Away,Boston Red Sox,111,W
-4,631663,Away,Boston Red Sox,111,W
-5,631239,Home,Boston Red Sox,111,L
-6,631238,Home,Boston Red Sox,111,L
-7,630275,Away,Atlanta Braves,144,L
-8,630278,Away,Atlanta Braves,144,L
-9,630280,Away,Atlanta Braves,144,L
-10,630281,Away,Atlanta Braves,144,W
-11,630874,Away,Washington Nationals,120,L
-12,630878,Away,Washington Nationals,120,W
-13,631237,Home,Miami Marlins,146,L
-14,631236,Home,Miami Marlins,146,W
-15,631235,Home,Miami Marlins,146,W
-16,631233,Home,Washington Nationals,120,L
-17,631243,Home,Washington Nationals,120,L
-18,631232,Home,Washington Nationals,120,W
-19,631231,Home,Washington Nationals,120,W
-20,631150,Away,Philadelphia Phillies,143,L
-21,631151,Away,Philadelphia Phillies,143,L
-22,631124,Away,Philadelphia Phillies,143,L
-23,631325,Away,Miami Marlins,146,W
-24,631326,Away,Miami Marlins,146,W
-25,631327,Away,Miami Marlins,146,W
-26,631227,Home,Miami Marlins,146,L
-27,631323,Away,Miami Marlins,146,L
-28,631226,Home,Miami Marlins,146,W
-29,631203,Away,New York Yankees,147,W
-30,631230,Home,New York Yankees,147,W
-31,631204,Away,New York Yankees,147,L
-32,631205,Away,New York Yankees,147,L
-33,631229,Home,New York Yankees,147,L
-34,631223,Home,Miami Marlins,146,L
-35,631671,Away,Baltimore Orioles,110,L
-36,631673,Away,Baltimore Orioles,110,W
-37,631234,Home,New York Yankees,147,W
-38,631221,Home,Philadelphia Phillies,143,L
-39,631228,Home,Philadelphia Phillies,143,W
-40,631209,Home,Philadelphia Phillies,143,W
-41,631225,Home,Philadelphia Phillies,143,L
-42,631211,Home,Baltimore Orioles,110,L
-43,631212,Home,Baltimore Orioles,110,W
-44,630868,Away,Toronto Blue Jays,141,W
-45,630870,Away,Toronto Blue Jays,141,L
-46,630875,Away,Toronto Blue Jays,141,L
-47,631144,Away,Philadelphia Phillies,143,L
-48,631119,Away,Philadelphia Phillies,143,W
-49,631117,Away,Philadelphia Phillies,143,W
-50,631213,Home,Atlanta Braves,144,L
-51,631214,Home,Atlanta Braves,144,W
-52,631215,Home,Atlanta Braves,144,L
-53,631216,Home,Tampa Bay Rays,139,L
-54,631217,Home,Tampa Bay Rays,139,W
-55,631218,Home,Tampa Bay Rays,139,L
-56,630893,Away,Washington Nationals,120,W
-57,630895,Away,Washington Nationals,120,L
-58,630894,Away,Washington Nationals,120,L
-59,630854,Away,Washington Nationals,120,L
+game_id,home/away,opp_name,opp_code,result
+631242,Home,Atlanta Braves,144,W
+631241,Home,Atlanta Braves,144,L
+631240,Home,Atlanta Braves,144,L
+631669,Away,Boston Red Sox,111,W
+631663,Away,Boston Red Sox,111,W
+631239,Home,Boston Red Sox,111,L
+631238,Home,Boston Red Sox,111,L
+630275,Away,Atlanta Braves,144,L
+630278,Away,Atlanta Braves,144,L
+630280,Away,Atlanta Braves,144,L
+630281,Away,Atlanta Braves,144,W
+630874,Away,Washington Nationals,120,L
+630878,Away,Washington Nationals,120,W
+631237,Home,Miami Marlins,146,L
+631236,Home,Miami Marlins,146,W
+631235,Home,Miami Marlins,146,W
+631233,Home,Washington Nationals,120,L
+631243,Home,Washington Nationals,120,L
+631232,Home,Washington Nationals,120,W
+631231,Home,Washington Nationals,120,W
+631150,Away,Philadelphia Phillies,143,L
+631151,Away,Philadelphia Phillies,143,L
+631124,Away,Philadelphia Phillies,143,L
+631325,Away,Miami Marlins,146,W
+631326,Away,Miami Marlins,146,W
+631327,Away,Miami Marlins,146,W
+631227,Home,Miami Marlins,146,L
+631323,Away,Miami Marlins,146,L
+631226,Home,Miami Marlins,146,W
+631203,Away,New York Yankees,147,W
+631230,Home,New York Yankees,147,W
+631204,Away,New York Yankees,147,L
+631205,Away,New York Yankees,147,L
+631229,Home,New York Yankees,147,L
+631223,Home,Miami Marlins,146,L
+631671,Away,Baltimore Orioles,110,L
+631673,Away,Baltimore Orioles,110,W
+631234,Home,New York Yankees,147,W
+631221,Home,Philadelphia Phillies,143,L
+631228,Home,Philadelphia Phillies,143,W
+631209,Home,Philadelphia Phillies,143,W
+631225,Home,Philadelphia Phillies,143,L
+631211,Home,Baltimore Orioles,110,L
+631212,Home,Baltimore Orioles,110,W
+630868,Away,Toronto Blue Jays,141,W
+630870,Away,Toronto Blue Jays,141,L
+630875,Away,Toronto Blue Jays,141,L
+631144,Away,Philadelphia Phillies,143,L
+631119,Away,Philadelphia Phillies,143,W
+631117,Away,Philadelphia Phillies,143,W
+631213,Home,Atlanta Braves,144,L
+631214,Home,Atlanta Braves,144,W
+631215,Home,Atlanta Braves,144,L
+631216,Home,Tampa Bay Rays,139,L
+631217,Home,Tampa Bay Rays,139,W
+631218,Home,Tampa Bay Rays,139,L
+630893,Away,Washington Nationals,120,W
+630895,Away,Washington Nationals,120,L
+630894,Away,Washington Nationals,120,L
+630854,Away,Washington Nationals,120,L

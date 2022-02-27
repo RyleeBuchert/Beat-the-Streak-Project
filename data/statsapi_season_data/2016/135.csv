@@ -1,163 +1,163 @@
-,game_id,home/away,opp_name,opp_code,result
-0,446871,Home,Los Angeles Dodgers,119,L
-1,446884,Home,Los Angeles Dodgers,119,L
-2,446894,Home,Los Angeles Dodgers,119,L
-3,446923,Away,Colorado Rockies,115,W
-4,446938,Away,Colorado Rockies,115,W
-5,446953,Away,Colorado Rockies,115,L
-6,446966,Away,Philadelphia Phillies,143,W
-7,446978,Away,Philadelphia Phillies,143,L
-8,446993,Away,Philadelphia Phillies,143,L
-9,447005,Away,Philadelphia Phillies,143,L
-10,447007,Home,Arizona Diamondbacks,109,L
-11,447022,Home,Arizona Diamondbacks,109,W
-12,447037,Home,Arizona Diamondbacks,109,L
-13,447069,Home,Pittsburgh Pirates,134,W
-14,447084,Home,Pittsburgh Pirates,134,W
-15,447098,Home,Pittsburgh Pirates,134,L
-16,447115,Home,St. Louis Cardinals,138,W
-17,447130,Home,St. Louis Cardinals,138,L
-18,447145,Home,St. Louis Cardinals,138,L
-19,447159,Away,San Francisco Giants,137,L
-20,447174,Away,San Francisco Giants,137,L
-21,447189,Away,San Francisco Giants,137,L
-22,447210,Away,Los Angeles Dodgers,119,W
-23,447225,Away,Los Angeles Dodgers,119,W
-24,447240,Away,Los Angeles Dodgers,119,L
-25,447246,Home,Colorado Rockies,115,W
-26,447258,Home,Colorado Rockies,115,W
-27,447273,Home,Colorado Rockies,115,L
-28,447289,Home,New York Mets,121,W
-29,447302,Home,New York Mets,121,W
-30,447317,Home,New York Mets,121,L
-31,447332,Home,New York Mets,121,L
-32,447364,Away,Chicago Cubs,112,L
-33,447350,Away,Chicago Cubs,112,W
-34,447379,Away,Chicago Cubs,112,W
-35,447388,Away,Milwaukee Brewers,158,W
-36,447402,Away,Milwaukee Brewers,158,L
-37,447417,Away,Milwaukee Brewers,158,W
-38,447432,Away,Milwaukee Brewers,158,L
-39,447454,Home,San Francisco Giants,137,L
-40,447469,Home,San Francisco Giants,137,L
-41,447482,Home,San Francisco Giants,137,L
-42,447493,Home,Los Angeles Dodgers,119,W
-43,447508,Home,Los Angeles Dodgers,119,W
-44,447523,Home,Los Angeles Dodgers,119,L
-45,447538,Away,San Francisco Giants,137,L
-46,447552,Away,San Francisco Giants,137,L
-47,447568,Away,San Francisco Giants,137,L
-48,447591,Away,Arizona Diamondbacks,109,W
-49,447606,Away,Arizona Diamondbacks,109,L
-50,447621,Away,Arizona Diamondbacks,109,L
-51,447633,Away,Seattle Mariners,136,L
-52,447648,Away,Seattle Mariners,136,L
-53,447664,Home,Seattle Mariners,136,W
-54,447677,Home,Seattle Mariners,136,L
-55,447682,Home,Colorado Rockies,115,W
-56,447697,Home,Colorado Rockies,115,W
-57,447712,Home,Colorado Rockies,115,L
-58,447724,Home,Atlanta Braves,144,W
-59,447734,Home,Atlanta Braves,144,W
-60,447749,Home,Atlanta Braves,144,L
-61,447784,Away,Colorado Rockies,115,W
-62,447799,Away,Colorado Rockies,115,L
-63,447814,Away,Colorado Rockies,115,L
-64,447822,Home,Miami Marlins,146,L
-65,447834,Home,Miami Marlins,146,L
-66,447849,Home,Miami Marlins,146,W
-67,447866,Home,Washington Nationals,120,L
-68,447881,Home,Washington Nationals,120,L
-69,447896,Home,Washington Nationals,120,W
-70,447911,Home,Washington Nationals,120,W
-71,447930,Away,Baltimore Orioles,110,W
-72,447945,Away,Baltimore Orioles,110,L
-73,447957,Away,Cincinnati Reds,113,W
-74,447970,Away,Cincinnati Reds,113,W
-75,447985,Away,Cincinnati Reds,113,W
-76,448000,Away,Cincinnati Reds,113,L
-77,448016,Home,Baltimore Orioles,110,L
-78,448031,Home,Baltimore Orioles,110,L
-79,448068,Home,New York Yankees,147,W
-80,448083,Home,New York Yankees,147,W
-81,448098,Home,New York Yankees,147,L
-82,448114,Away,Arizona Diamondbacks,109,W
-83,448129,Away,Arizona Diamondbacks,109,L
-84,448144,Away,Arizona Diamondbacks,109,W
-85,448154,Away,Los Angeles Dodgers,119,W
-86,448167,Away,Los Angeles Dodgers,119,L
-87,448182,Away,Los Angeles Dodgers,119,L
-88,448197,Away,Los Angeles Dodgers,119,L
-89,448215,Home,San Francisco Giants,137,W
-90,448230,Home,San Francisco Giants,137,W
-91,448245,Home,San Francisco Giants,137,W
-92,448256,Away,St. Louis Cardinals,138,L
-93,448269,Away,St. Louis Cardinals,138,L
-94,448284,Away,St. Louis Cardinals,138,L
-95,448296,Away,St. Louis Cardinals,138,L
-96,448309,Away,Washington Nationals,120,W
-97,448324,Away,Washington Nationals,120,L
-98,448339,Away,Washington Nationals,120,W
-99,448353,Away,Toronto Blue Jays,141,L
-100,448365,Away,Toronto Blue Jays,141,L
-101,448380,Away,Toronto Blue Jays,141,W
-102,448397,Home,Cincinnati Reds,113,L
-103,448412,Home,Cincinnati Reds,113,W
-104,448427,Home,Cincinnati Reds,113,L
-105,448441,Home,Milwaukee Brewers,158,W
-106,448451,Home,Milwaukee Brewers,158,L
-107,448466,Home,Milwaukee Brewers,158,W
-108,448499,Home,Philadelphia Phillies,143,L
-109,448514,Home,Philadelphia Phillies,143,W
-110,448529,Home,Philadelphia Phillies,143,L
-111,448552,Away,Pittsburgh Pirates,134,L
-112,448568,Away,Pittsburgh Pirates,134,W
-113,448579,Away,Pittsburgh Pirates,134,L
-114,448593,Away,New York Mets,121,W
-115,448608,Away,New York Mets,121,L
-116,448623,Away,New York Mets,121,L
-117,448631,Away,Tampa Bay Rays,139,L
-118,448645,Away,Tampa Bay Rays,139,L
-119,448660,Away,Tampa Bay Rays,139,L
-120,448665,Home,Arizona Diamondbacks,109,W
-121,448677,Home,Arizona Diamondbacks,109,W
-122,448692,Home,Arizona Diamondbacks,109,L
-123,448707,Home,Arizona Diamondbacks,109,W
-124,448724,Home,Chicago Cubs,112,L
-125,448733,Home,Chicago Cubs,112,L
-126,448749,Home,Chicago Cubs,112,L
-127,448784,Away,Miami Marlins,146,L
-128,448799,Away,Miami Marlins,146,W
-129,448814,Away,Miami Marlins,146,W
-130,448839,Away,Atlanta Braves,144,L
-131,448854,Away,Atlanta Braves,144,L
-132,448862,Away,Atlanta Braves,144,L
-133,448874,Away,Los Angeles Dodgers,119,W
-134,448889,Away,Los Angeles Dodgers,119,L
-135,448904,Away,Los Angeles Dodgers,119,L
-136,448912,Home,Boston Red Sox,111,W
-137,448927,Home,Boston Red Sox,111,L
-138,448942,Home,Boston Red Sox,111,L
-139,448955,Home,Colorado Rockies,115,W
-140,448966,Home,Colorado Rockies,115,L
-141,448981,Home,Colorado Rockies,115,W
-142,448996,Home,Colorado Rockies,115,L
-143,449017,Away,San Francisco Giants,137,W
-144,449032,Away,San Francisco Giants,137,W
-145,449047,Away,San Francisco Giants,137,W
-146,449071,Away,Colorado Rockies,115,L
-147,449086,Away,Colorado Rockies,115,L
-148,449101,Away,Colorado Rockies,115,L
-149,449106,Home,Arizona Diamondbacks,109,W
-150,449116,Home,Arizona Diamondbacks,109,W
-151,449131,Home,Arizona Diamondbacks,109,L
-152,449155,Home,San Francisco Giants,137,L
-153,449166,Home,San Francisco Giants,137,W
-154,449181,Home,San Francisco Giants,137,L
-155,449196,Home,San Francisco Giants,137,W
-156,449218,Home,Los Angeles Dodgers,119,W
-157,449233,Home,Los Angeles Dodgers,119,W
-158,449248,Home,Los Angeles Dodgers,119,L
-159,449265,Away,Arizona Diamondbacks,109,L
-160,449280,Away,Arizona Diamondbacks,109,L
-161,449295,Away,Arizona Diamondbacks,109,L
+game_id,home/away,opp_name,opp_code,result
+446871,Home,Los Angeles Dodgers,119,L
+446884,Home,Los Angeles Dodgers,119,L
+446894,Home,Los Angeles Dodgers,119,L
+446923,Away,Colorado Rockies,115,W
+446938,Away,Colorado Rockies,115,W
+446953,Away,Colorado Rockies,115,L
+446966,Away,Philadelphia Phillies,143,W
+446978,Away,Philadelphia Phillies,143,L
+446993,Away,Philadelphia Phillies,143,L
+447005,Away,Philadelphia Phillies,143,L
+447007,Home,Arizona Diamondbacks,109,L
+447022,Home,Arizona Diamondbacks,109,W
+447037,Home,Arizona Diamondbacks,109,L
+447069,Home,Pittsburgh Pirates,134,W
+447084,Home,Pittsburgh Pirates,134,W
+447098,Home,Pittsburgh Pirates,134,L
+447115,Home,St. Louis Cardinals,138,W
+447130,Home,St. Louis Cardinals,138,L
+447145,Home,St. Louis Cardinals,138,L
+447159,Away,San Francisco Giants,137,L
+447174,Away,San Francisco Giants,137,L
+447189,Away,San Francisco Giants,137,L
+447210,Away,Los Angeles Dodgers,119,W
+447225,Away,Los Angeles Dodgers,119,W
+447240,Away,Los Angeles Dodgers,119,L
+447246,Home,Colorado Rockies,115,W
+447258,Home,Colorado Rockies,115,W
+447273,Home,Colorado Rockies,115,L
+447289,Home,New York Mets,121,W
+447302,Home,New York Mets,121,W
+447317,Home,New York Mets,121,L
+447332,Home,New York Mets,121,L
+447364,Away,Chicago Cubs,112,L
+447350,Away,Chicago Cubs,112,W
+447379,Away,Chicago Cubs,112,W
+447388,Away,Milwaukee Brewers,158,W
+447402,Away,Milwaukee Brewers,158,L
+447417,Away,Milwaukee Brewers,158,W
+447432,Away,Milwaukee Brewers,158,L
+447454,Home,San Francisco Giants,137,L
+447469,Home,San Francisco Giants,137,L
+447482,Home,San Francisco Giants,137,L
+447493,Home,Los Angeles Dodgers,119,W
+447508,Home,Los Angeles Dodgers,119,W
+447523,Home,Los Angeles Dodgers,119,L
+447538,Away,San Francisco Giants,137,L
+447552,Away,San Francisco Giants,137,L
+447568,Away,San Francisco Giants,137,L
+447591,Away,Arizona Diamondbacks,109,W
+447606,Away,Arizona Diamondbacks,109,L
+447621,Away,Arizona Diamondbacks,109,L
+447633,Away,Seattle Mariners,136,L
+447648,Away,Seattle Mariners,136,L
+447664,Home,Seattle Mariners,136,W
+447677,Home,Seattle Mariners,136,L
+447682,Home,Colorado Rockies,115,W
+447697,Home,Colorado Rockies,115,W
+447712,Home,Colorado Rockies,115,L
+447724,Home,Atlanta Braves,144,W
+447734,Home,Atlanta Braves,144,W
+447749,Home,Atlanta Braves,144,L
+447784,Away,Colorado Rockies,115,W
+447799,Away,Colorado Rockies,115,L
+447814,Away,Colorado Rockies,115,L
+447822,Home,Miami Marlins,146,L
+447834,Home,Miami Marlins,146,L
+447849,Home,Miami Marlins,146,W
+447866,Home,Washington Nationals,120,L
+447881,Home,Washington Nationals,120,L
+447896,Home,Washington Nationals,120,W
+447911,Home,Washington Nationals,120,W
+447930,Away,Baltimore Orioles,110,W
+447945,Away,Baltimore Orioles,110,L
+447957,Away,Cincinnati Reds,113,W
+447970,Away,Cincinnati Reds,113,W
+447985,Away,Cincinnati Reds,113,W
+448000,Away,Cincinnati Reds,113,L
+448016,Home,Baltimore Orioles,110,L
+448031,Home,Baltimore Orioles,110,L
+448068,Home,New York Yankees,147,W
+448083,Home,New York Yankees,147,W
+448098,Home,New York Yankees,147,L
+448114,Away,Arizona Diamondbacks,109,W
+448129,Away,Arizona Diamondbacks,109,L
+448144,Away,Arizona Diamondbacks,109,W
+448154,Away,Los Angeles Dodgers,119,W
+448167,Away,Los Angeles Dodgers,119,L
+448182,Away,Los Angeles Dodgers,119,L
+448197,Away,Los Angeles Dodgers,119,L
+448215,Home,San Francisco Giants,137,W
+448230,Home,San Francisco Giants,137,W
+448245,Home,San Francisco Giants,137,W
+448256,Away,St. Louis Cardinals,138,L
+448269,Away,St. Louis Cardinals,138,L
+448284,Away,St. Louis Cardinals,138,L
+448296,Away,St. Louis Cardinals,138,L
+448309,Away,Washington Nationals,120,W
+448324,Away,Washington Nationals,120,L
+448339,Away,Washington Nationals,120,W
+448353,Away,Toronto Blue Jays,141,L
+448365,Away,Toronto Blue Jays,141,L
+448380,Away,Toronto Blue Jays,141,W
+448397,Home,Cincinnati Reds,113,L
+448412,Home,Cincinnati Reds,113,W
+448427,Home,Cincinnati Reds,113,L
+448441,Home,Milwaukee Brewers,158,W
+448451,Home,Milwaukee Brewers,158,L
+448466,Home,Milwaukee Brewers,158,W
+448499,Home,Philadelphia Phillies,143,L
+448514,Home,Philadelphia Phillies,143,W
+448529,Home,Philadelphia Phillies,143,L
+448552,Away,Pittsburgh Pirates,134,L
+448568,Away,Pittsburgh Pirates,134,W
+448579,Away,Pittsburgh Pirates,134,L
+448593,Away,New York Mets,121,W
+448608,Away,New York Mets,121,L
+448623,Away,New York Mets,121,L
+448631,Away,Tampa Bay Rays,139,L
+448645,Away,Tampa Bay Rays,139,L
+448660,Away,Tampa Bay Rays,139,L
+448665,Home,Arizona Diamondbacks,109,W
+448677,Home,Arizona Diamondbacks,109,W
+448692,Home,Arizona Diamondbacks,109,L
+448707,Home,Arizona Diamondbacks,109,W
+448724,Home,Chicago Cubs,112,L
+448733,Home,Chicago Cubs,112,L
+448749,Home,Chicago Cubs,112,L
+448784,Away,Miami Marlins,146,L
+448799,Away,Miami Marlins,146,W
+448814,Away,Miami Marlins,146,W
+448839,Away,Atlanta Braves,144,L
+448854,Away,Atlanta Braves,144,L
+448862,Away,Atlanta Braves,144,L
+448874,Away,Los Angeles Dodgers,119,W
+448889,Away,Los Angeles Dodgers,119,L
+448904,Away,Los Angeles Dodgers,119,L
+448912,Home,Boston Red Sox,111,W
+448927,Home,Boston Red Sox,111,L
+448942,Home,Boston Red Sox,111,L
+448955,Home,Colorado Rockies,115,W
+448966,Home,Colorado Rockies,115,L
+448981,Home,Colorado Rockies,115,W
+448996,Home,Colorado Rockies,115,L
+449017,Away,San Francisco Giants,137,W
+449032,Away,San Francisco Giants,137,W
+449047,Away,San Francisco Giants,137,W
+449071,Away,Colorado Rockies,115,L
+449086,Away,Colorado Rockies,115,L
+449101,Away,Colorado Rockies,115,L
+449106,Home,Arizona Diamondbacks,109,W
+449116,Home,Arizona Diamondbacks,109,W
+449131,Home,Arizona Diamondbacks,109,L
+449155,Home,San Francisco Giants,137,L
+449166,Home,San Francisco Giants,137,W
+449181,Home,San Francisco Giants,137,L
+449196,Home,San Francisco Giants,137,W
+449218,Home,Los Angeles Dodgers,119,W
+449233,Home,Los Angeles Dodgers,119,W
+449248,Home,Los Angeles Dodgers,119,L
+449265,Away,Arizona Diamondbacks,109,L
+449280,Away,Arizona Diamondbacks,109,L
+449295,Away,Arizona Diamondbacks,109,L
