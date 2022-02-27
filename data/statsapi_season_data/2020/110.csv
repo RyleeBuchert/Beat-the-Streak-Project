@@ -1,0 +1,62 @@
+,game_id,home/away,opp_name,opp_code,result
+0,631664,Away,Boston Red Sox,111,L
+1,631666,Away,Boston Red Sox,111,W
+2,631668,Away,Boston Red Sox,111,W
+3,630495,Home,New York Yankees,147,L
+4,630496,Home,New York Yankees,147,L
+5,630592,Home,Tampa Bay Rays,139,W
+6,630492,Home,Tampa Bay Rays,139,W
+7,630493,Home,Tampa Bay Rays,139,W
+8,630575,Home,Miami Marlins,146,L
+9,630591,Home,Miami Marlins,146,L
+10,631339,Away,Miami Marlins,146,L
+11,631340,Away,Miami Marlins,146,L
+12,630879,Away,Washington Nationals,120,W
+13,630880,Away,Washington Nationals,120,W
+14,630882,Away,Washington Nationals,120,W
+15,631139,Away,Philadelphia Phillies,143,W
+16,631141,Away,Philadelphia Phillies,143,W
+17,631142,Away,Philadelphia Phillies,143,W
+18,630882,Away,Washington Nationals,120,W
+19,631683,Home,Washington Nationals,120,L
+20,630568,Home,Washington Nationals,120,W
+21,631679,Home,Washington Nationals,120,L
+22,631678,Home,Toronto Blue Jays,141,L
+23,631681,Home,Toronto Blue Jays,141,L
+24,631682,Home,Toronto Blue Jays,141,L
+25,631684,Home,Boston Red Sox,111,L
+26,631665,Home,Boston Red Sox,111,L
+27,631667,Home,Boston Red Sox,111,W
+28,631670,Home,Boston Red Sox,111,W
+29,630951,Away,Tampa Bay Rays,139,L
+30,630952,Away,Tampa Bay Rays,139,L
+31,630871,Away,Toronto Blue Jays,141,L
+32,630906,Away,Toronto Blue Jays,141,L
+33,630852,Away,Toronto Blue Jays,141,L
+34,630900,Away,Toronto Blue Jays,141,W
+35,631671,Home,New York Mets,121,W
+36,631673,Home,New York Mets,121,L
+37,631674,Home,New York Yankees,147,L
+38,630497,Home,New York Yankees,147,W
+39,631675,Home,New York Yankees,147,W
+40,631676,Home,New York Yankees,147,W
+41,631211,Away,New York Mets,121,W
+42,631212,Away,New York Mets,121,L
+43,631184,Away,New York Yankees,147,L
+44,631183,Away,New York Yankees,147,L
+45,631185,Away,New York Yankees,147,L
+46,631187,Away,New York Yankees,147,L
+47,631677,Home,Atlanta Braves,144,W
+48,631680,Home,Atlanta Braves,144,L
+49,631659,Home,Atlanta Braves,144,W
+50,631660,Home,Tampa Bay Rays,139,L
+51,630953,Away,Tampa Bay Rays,139,L
+52,631661,Home,Tampa Bay Rays,139,L
+53,631662,Home,Tampa Bay Rays,139,L
+54,631672,Home,Tampa Bay Rays,139,W
+55,631636,Away,Boston Red Sox,111,L
+56,631637,Away,Boston Red Sox,111,L
+57,631640,Away,Boston Red Sox,111,W
+58,630889,Away,Toronto Blue Jays,141,L
+59,630891,Away,Toronto Blue Jays,141,L
+60,630858,Away,Toronto Blue Jays,141,W

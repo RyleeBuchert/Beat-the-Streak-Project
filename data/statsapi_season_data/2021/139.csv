@@ -1,0 +1,163 @@
+,game_id,home/away,opp_name,opp_code,result
+0,634652,Away,Miami Marlins,146,W
+1,634602,Away,Miami Marlins,146,W
+2,634596,Away,Miami Marlins,146,L
+3,634601,Away,Boston Red Sox,111,L
+4,634590,Away,Boston Red Sox,111,L
+5,634641,Away,Boston Red Sox,111,L
+6,634499,Home,New York Yankees,147,W
+7,632217,Home,New York Yankees,147,W
+8,632232,Home,New York Yankees,147,L
+9,632204,Home,Texas Rangers,140,W
+10,634489,Home,Texas Rangers,140,L
+11,634496,Home,Texas Rangers,140,L
+12,634522,Home,Texas Rangers,140,L
+13,634464,Away,New York Yankees,147,W
+14,634500,Away,New York Yankees,147,W
+15,634458,Away,New York Yankees,147,W
+16,634396,Away,Kansas City Royals,118,W
+17,634407,Away,Kansas City Royals,118,W
+18,634446,Away,Kansas City Royals,118,L
+19,634413,Home,Toronto Blue Jays,141,L
+20,634358,Home,Toronto Blue Jays,141,W
+21,634376,Home,Toronto Blue Jays,141,L
+22,634343,Home,Oakland Athletics,133,L
+23,634368,Home,Oakland Athletics,133,W
+24,634308,Home,Oakland Athletics,133,W
+25,634296,Home,Oakland Athletics,133,L
+26,634275,Home,Houston Astros,117,L
+27,634307,Home,Houston Astros,117,L
+28,634323,Home,Houston Astros,117,W
+29,634334,Away,Los Angeles Angels,108,W
+30,634267,Away,Los Angeles Angels,108,W
+31,634281,Away,Los Angeles Angels,108,W
+32,634247,Away,Los Angeles Angels,108,W
+33,634263,Away,Oakland Athletics,133,L
+34,634236,Away,Oakland Athletics,133,L
+35,634211,Away,Oakland Athletics,133,W
+36,634169,Home,New York Yankees,147,L
+37,634210,Home,New York Yankees,147,L
+38,634126,Home,New York Yankees,147,W
+39,634093,Home,New York Mets,121,W
+40,634105,Home,New York Mets,121,W
+41,634071,Home,New York Mets,121,W
+42,634075,Away,Baltimore Orioles,110,W
+43,634055,Away,Baltimore Orioles,110,W
+44,634120,Away,Baltimore Orioles,110,W
+45,634078,Away,Toronto Blue Jays,141,W
+46,634081,Away,Toronto Blue Jays,141,W
+47,633975,Away,Toronto Blue Jays,141,W
+48,633963,Away,Toronto Blue Jays,141,W
+49,633990,Home,Kansas City Royals,118,L
+50,634064,Home,Kansas City Royals,118,W
+51,633915,Home,Kansas City Royals,118,W
+52,633894,Home,Philadelphia Phillies,143,W
+53,633892,Home,Philadelphia Phillies,143,W
+54,633898,Away,New York Yankees,147,W
+55,633861,Away,New York Yankees,147,L
+56,633882,Away,New York Yankees,147,L
+57,633819,Away,New York Yankees,147,W
+58,633830,Away,Texas Rangers,140,L
+59,633839,Away,Texas Rangers,140,W
+60,633802,Away,Texas Rangers,140,W
+61,633766,Home,Washington Nationals,120,W
+62,633767,Home,Washington Nationals,120,L
+63,633781,Home,Baltimore Orioles,110,W
+64,633699,Home,Baltimore Orioles,110,W
+65,633737,Home,Baltimore Orioles,110,W
+66,633673,Away,Chicago White Sox,145,W
+67,633676,Away,Chicago White Sox,145,L
+68,633634,Away,Chicago White Sox,145,L
+69,633697,Away,Seattle Mariners,136,L
+70,633615,Away,Seattle Mariners,136,L
+71,633661,Away,Seattle Mariners,136,L
+72,633554,Away,Seattle Mariners,136,L
+73,633519,Home,Boston Red Sox,111,L
+74,633524,Home,Boston Red Sox,111,W
+75,633517,Home,Boston Red Sox,111,W
+76,633535,Home,Los Angeles Angels,108,W
+77,633525,Home,Los Angeles Angels,108,W
+78,633459,Home,Los Angeles Angels,108,L
+79,633443,Away,Washington Nationals,120,L
+80,633427,Away,Washington Nationals,120,L
+81,633464,Away,Toronto Blue Jays,141,L
+82,633403,Away,Toronto Blue Jays,141,L
+83,633408,Away,Toronto Blue Jays,141,W
+84,633353,Home,Cleveland Indians,114,W
+85,633339,Home,Cleveland Indians,114,W
+86,633360,Home,Cleveland Indians,114,W
+87,633338,Home,Toronto Blue Jays,141,W
+88,633293,Home,Toronto Blue Jays,141,W
+89,633270,Home,Toronto Blue Jays,141,L
+90,633265,Away,Atlanta Braves,144,W
+91,633303,Away,Atlanta Braves,144,L
+92,633237,Away,Atlanta Braves,144,W
+93,633236,Home,Baltimore Orioles,110,L
+94,633257,Home,Baltimore Orioles,110,W
+95,633225,Home,Baltimore Orioles,110,W
+96,633180,Away,Cleveland Indians,114,W
+97,633211,Away,Cleveland Indians,114,W
+98,633185,Away,Cleveland Indians,114,W
+99,633194,Away,Cleveland Indians,114,L
+100,633143,Home,New York Yankees,147,L
+101,633122,Home,New York Yankees,147,L
+102,633104,Home,New York Yankees,147,W
+103,633165,Home,Boston Red Sox,111,W
+104,633090,Home,Boston Red Sox,111,W
+105,633089,Home,Boston Red Sox,111,W
+106,633070,Home,Seattle Mariners,136,L
+107,633005,Home,Seattle Mariners,136,L
+108,633027,Home,Seattle Mariners,136,W
+109,633006,Away,Baltimore Orioles,110,W
+110,633014,Away,Baltimore Orioles,110,W
+111,632971,Away,Baltimore Orioles,110,W
+112,632996,Away,Boston Red Sox,111,W
+113,632931,Away,Boston Red Sox,111,L
+114,632903,Away,Boston Red Sox,111,W
+115,632926,Away,Minnesota Twins,142,W
+116,632913,Away,Minnesota Twins,142,L
+117,632866,Away,Minnesota Twins,142,L
+118,632890,Home,Baltimore Orioles,110,W
+119,632864,Home,Baltimore Orioles,110,W
+120,632849,Home,Baltimore Orioles,110,W
+121,632833,Home,Baltimore Orioles,110,W
+122,632836,Home,Chicago White Sox,145,L
+123,632804,Home,Chicago White Sox,145,W
+124,632785,Home,Chicago White Sox,145,W
+125,632777,Away,Philadelphia Phillies,143,W
+126,632727,Away,Philadelphia Phillies,143,W
+127,632720,Away,Baltimore Orioles,110,W
+128,632721,Away,Baltimore Orioles,110,W
+129,632736,Away,Baltimore Orioles,110,W
+130,632664,Home,Boston Red Sox,111,W
+131,632669,Home,Boston Red Sox,111,W
+132,632653,Home,Boston Red Sox,111,L
+133,632630,Home,Boston Red Sox,111,L
+134,632627,Home,Minnesota Twins,142,W
+135,632600,Home,Minnesota Twins,142,W
+136,632605,Home,Minnesota Twins,142,L
+137,632603,Away,Boston Red Sox,111,W
+138,632588,Away,Boston Red Sox,111,W
+139,632575,Away,Boston Red Sox,111,L
+140,632543,Away,Detroit Tigers,116,L
+141,632515,Away,Detroit Tigers,116,W
+142,632512,Away,Detroit Tigers,116,L
+143,632489,Away,Toronto Blue Jays,141,L
+144,632497,Away,Toronto Blue Jays,141,W
+145,632483,Away,Toronto Blue Jays,141,L
+146,632474,Home,Detroit Tigers,116,W
+147,632440,Home,Detroit Tigers,116,W
+148,632427,Home,Detroit Tigers,116,L
+149,632421,Home,Detroit Tigers,116,L
+150,632406,Home,Toronto Blue Jays,141,W
+151,632391,Home,Toronto Blue Jays,141,L
+152,632377,Home,Toronto Blue Jays,141,W
+153,632358,Home,Miami Marlins,146,W
+154,632335,Home,Miami Marlins,146,W
+155,632290,Home,Miami Marlins,146,W
+156,632316,Away,Houston Astros,117,L
+157,632305,Away,Houston Astros,117,W
+158,632292,Away,Houston Astros,117,L
+159,632282,Away,New York Yankees,147,W
+160,632259,Away,New York Yankees,147,W
+161,632239,Away,New York Yankees,147,L

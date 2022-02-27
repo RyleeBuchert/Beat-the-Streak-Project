@@ -1,0 +1,164 @@
+,game_id,home/away,opp_name,opp_code,result
+0,634625,Home,San Francisco Giants,137,W
+1,634578,Home,San Francisco Giants,137,L
+2,634639,Home,San Francisco Giants,137,W
+3,634551,Home,Chicago White Sox,145,L
+4,634609,Home,Chicago White Sox,145,L
+5,634592,Home,Chicago White Sox,145,W
+6,634550,Away,Minnesota Twins,142,L
+7,632205,Away,Minnesota Twins,142,W
+8,632215,Away,Minnesota Twins,142,W
+9,632213,Away,Baltimore Orioles,110,W
+10,632224,Away,Baltimore Orioles,110,L
+11,634571,Away,Baltimore Orioles,110,W
+12,634472,Away,Baltimore Orioles,110,W
+13,634517,Home,Houston Astros,117,W
+14,634447,Home,Houston Astros,117,L
+15,634538,Home,Houston Astros,117,W
+16,634421,Home,Los Angeles Dodgers,119,W
+17,634417,Home,Los Angeles Dodgers,119,L
+18,634508,Away,Boston Red Sox,111,W
+19,634386,Away,Boston Red Sox,111,L
+20,634373,Away,Boston Red Sox,111,W
+21,634355,Away,Boston Red Sox,111,L
+22,634382,Away,Houston Astros,117,L
+23,634333,Away,Houston Astros,117,L
+24,634360,Away,Houston Astros,117,L
+25,634353,Away,Houston Astros,117,W
+26,634287,Home,Los Angeles Angels,108,W
+27,634272,Home,Los Angeles Angels,108,L
+28,634340,Home,Los Angeles Angels,108,W
+29,634242,Home,Baltimore Orioles,110,L
+30,634265,Home,Baltimore Orioles,110,W
+31,634220,Home,Baltimore Orioles,110,L
+32,634253,Away,Texas Rangers,140,W
+33,634171,Away,Texas Rangers,140,L
+34,634182,Away,Texas Rangers,140,L
+35,634142,Away,Los Angeles Dodgers,119,L
+36,634140,Away,Los Angeles Dodgers,119,L
+37,634135,Home,Cleveland Indians,114,L
+38,634110,Home,Cleveland Indians,114,W
+39,634084,Home,Cleveland Indians,114,W
+40,634087,Home,Cleveland Indians,114,W
+41,634082,Home,Detroit Tigers,116,L
+42,634115,Home,Detroit Tigers,116,L
+43,634046,Home,Detroit Tigers,116,L
+44,634019,Away,San Diego Padres,135,L
+45,633991,Away,San Diego Padres,135,L
+46,633996,Away,San Diego Padres,135,L
+47,633955,Away,Oakland Athletics,133,W
+48,633945,Away,Oakland Athletics,133,W
+49,634074,Away,Oakland Athletics,133,L
+50,633934,Home,Texas Rangers,140,W
+51,633997,Home,Texas Rangers,140,W
+52,633947,Home,Texas Rangers,140,W
+53,633968,Home,Texas Rangers,140,W
+54,633849,Home,Oakland Athletics,133,W
+55,633871,Home,Oakland Athletics,133,L
+56,633954,Home,Oakland Athletics,133,L
+57,633832,Away,Los Angeles Angels,108,W
+58,633837,Away,Los Angeles Angels,108,L
+59,633845,Away,Los Angeles Angels,108,L
+60,633843,Away,Los Angeles Angels,108,W
+61,633822,Away,Detroit Tigers,116,L
+62,633759,Away,Detroit Tigers,116,W
+63,633754,Away,Detroit Tigers,116,L
+64,633743,Away,Cleveland Indians,114,L
+65,633725,Away,Cleveland Indians,114,L
+66,633690,Away,Cleveland Indians,114,W
+67,633716,Home,Minnesota Twins,142,W
+68,633626,Home,Minnesota Twins,142,W
+69,633658,Home,Minnesota Twins,142,L
+70,633697,Home,Tampa Bay Rays,139,W
+71,633615,Home,Tampa Bay Rays,139,W
+72,633661,Home,Tampa Bay Rays,139,W
+73,633554,Home,Tampa Bay Rays,139,W
+74,633528,Home,Colorado Rockies,115,W
+75,633614,Home,Colorado Rockies,115,L
+76,633620,Away,Chicago White Sox,145,W
+77,633501,Away,Chicago White Sox,145,W
+78,633501,Away,Chicago White Sox,145,W
+79,633499,Away,Chicago White Sox,145,L
+80,633497,Away,Toronto Blue Jays,141,L
+81,633445,Away,Toronto Blue Jays,141,W
+82,633456,Away,Toronto Blue Jays,141,W
+83,633511,Home,Texas Rangers,140,W
+84,633379,Home,Texas Rangers,140,L
+85,633425,Home,Texas Rangers,140,W
+86,633382,Home,New York Yankees,147,L
+87,633371,Home,New York Yankees,147,L
+88,633315,Home,New York Yankees,147,W
+89,633341,Home,Los Angeles Angels,108,W
+90,633288,Home,Los Angeles Angels,108,W
+91,633318,Home,Los Angeles Angels,108,L
+92,633323,Away,Los Angeles Angels,108,W
+93,633286,Away,Los Angeles Angels,108,L
+94,633284,Away,Los Angeles Angels,108,W
+95,633245,Away,Colorado Rockies,115,W
+96,633190,Away,Colorado Rockies,115,L
+97,633231,Home,Oakland Athletics,133,L
+98,633229,Home,Oakland Athletics,133,W
+99,633140,Home,Oakland Athletics,133,W
+100,633169,Home,Oakland Athletics,133,W
+101,633206,Home,Houston Astros,117,W
+102,633158,Home,Houston Astros,117,L
+103,633146,Home,Houston Astros,117,L
+104,633116,Away,Texas Rangers,140,W
+105,633106,Away,Texas Rangers,140,L
+106,633075,Away,Texas Rangers,140,L
+107,633070,Away,Tampa Bay Rays,139,W
+108,633005,Away,Tampa Bay Rays,139,W
+109,633027,Away,Tampa Bay Rays,139,L
+110,633013,Away,New York Yankees,147,L
+111,633062,Away,New York Yankees,147,L
+112,632950,Away,New York Yankees,147,L
+113,632953,Away,New York Yankees,147,W
+114,632955,Home,Texas Rangers,140,L
+115,632952,Home,Texas Rangers,140,W
+116,632947,Home,Texas Rangers,140,W
+117,632954,Home,Toronto Blue Jays,141,W
+118,632907,Home,Toronto Blue Jays,141,W
+119,632857,Home,Toronto Blue Jays,141,L
+120,632853,Away,Texas Rangers,140,W
+121,632855,Away,Texas Rangers,140,W
+122,632838,Away,Texas Rangers,140,W
+123,632774,Away,Houston Astros,117,L
+124,632834,Away,Houston Astros,117,L
+125,632793,Away,Houston Astros,117,W
+126,632758,Away,Oakland Athletics,133,W
+127,632769,Away,Oakland Athletics,133,W
+128,632739,Home,Kansas City Royals,118,L
+129,632753,Home,Kansas City Royals,118,L
+130,632713,Home,Kansas City Royals,118,L
+131,632693,Home,Kansas City Royals,118,W
+132,632665,Home,Houston Astros,117,L
+133,632657,Home,Houston Astros,117,W
+134,632648,Home,Houston Astros,117,W
+135,632708,Away,Arizona Diamondbacks,109,W
+136,632623,Away,Arizona Diamondbacks,109,W
+137,632601,Away,Arizona Diamondbacks,109,W
+138,632596,Away,Houston Astros,117,L
+139,632590,Away,Houston Astros,117,L
+140,632580,Away,Houston Astros,117,W
+141,632528,Home,Arizona Diamondbacks,109,W
+142,632517,Home,Arizona Diamondbacks,109,L
+143,632524,Home,Arizona Diamondbacks,109,L
+144,632507,Home,Boston Red Sox,111,W
+145,632480,Home,Boston Red Sox,111,L
+146,632481,Home,Boston Red Sox,111,L
+147,632445,Away,Kansas City Royals,118,W
+148,632449,Away,Kansas City Royals,118,L
+149,632416,Away,Kansas City Royals,118,W
+150,632412,Away,Oakland Athletics,133,W
+151,632401,Away,Oakland Athletics,133,W
+152,632383,Away,Oakland Athletics,133,W
+153,632368,Away,Oakland Athletics,133,W
+154,632359,Away,Los Angeles Angels,108,W
+155,632344,Away,Los Angeles Angels,108,L
+156,632327,Away,Los Angeles Angels,108,W
+157,632323,Home,Oakland Athletics,133,W
+158,632312,Home,Oakland Athletics,133,W
+159,632299,Home,Oakland Athletics,133,W
+160,632270,Home,Los Angeles Angels,108,L
+161,632255,Home,Los Angeles Angels,108,W
+162,632237,Home,Los Angeles Angels,108,L

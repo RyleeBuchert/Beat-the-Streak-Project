@@ -1,0 +1,163 @@
+,game_id,home/away,opp_name,opp_code,result
+0,634645,Away,Detroit Tigers,116,L
+1,634573,Away,Detroit Tigers,116,L
+2,634611,Away,Detroit Tigers,116,W
+3,634616,Home,Kansas City Royals,118,L
+4,634589,Home,Kansas City Royals,118,W
+5,634505,Home,Detroit Tigers,116,W
+6,632218,Home,Detroit Tigers,116,W
+7,632228,Home,Detroit Tigers,116,W
+8,632216,Away,Chicago White Sox,145,L
+9,632199,Away,Chicago White Sox,145,W
+10,634516,Away,Chicago White Sox,145,L
+11,634501,Away,Chicago White Sox,145,W
+12,634482,Away,Cincinnati Reds,113,L
+13,634460,Away,Cincinnati Reds,113,L
+14,634487,Away,Cincinnati Reds,113,W
+15,634397,Home,Chicago White Sox,145,L
+16,634436,Home,New York Yankees,147,L
+17,634437,Home,New York Yankees,147,L
+18,634486,Home,New York Yankees,147,L
+19,634372,Home,New York Yankees,147,W
+20,634394,Home,Minnesota Twins,142,W
+21,634339,Home,Minnesota Twins,142,W
+22,634371,Home,Minnesota Twins,142,L
+23,634288,Away,Chicago White Sox,145,W
+24,634326,Away,Chicago White Sox,145,L
+25,634302,Away,Chicago White Sox,145,W
+26,634258,Away,Kansas City Royals,118,W
+27,634277,Away,Kansas City Royals,118,W
+28,634226,Away,Kansas City Royals,118,W
+29,634233,Away,Kansas City Royals,118,W
+30,634203,Home,Cincinnati Reds,113,L
+31,634187,Home,Cincinnati Reds,113,W
+32,634189,Home,Chicago Cubs,112,W
+33,634129,Home,Chicago Cubs,112,W
+34,634135,Away,Seattle Mariners,136,W
+35,634110,Away,Seattle Mariners,136,L
+36,634084,Away,Seattle Mariners,136,L
+37,634087,Away,Seattle Mariners,136,L
+38,634101,Away,Los Angeles Angels,108,L
+39,634102,Away,Los Angeles Angels,108,W
+40,634029,Away,Los Angeles Angels,108,W
+41,634015,Home,Minnesota Twins,142,L
+42,634038,Home,Minnesota Twins,142,W
+43,634007,Home,Minnesota Twins,142,L
+44,633981,Away,Detroit Tigers,116,W
+45,633970,Away,Detroit Tigers,116,W
+46,633986,Away,Detroit Tigers,116,L
+47,633943,Away,Detroit Tigers,116,W
+48,633966,Home,Toronto Blue Jays,141,L
+49,633935,Home,Toronto Blue Jays,141,L
+50,634042,Home,Toronto Blue Jays,141,W
+51,633884,Home,Chicago White Sox,145,L
+52,634452,Home,Chicago White Sox,145,W
+53,633877,Home,Chicago White Sox,145,W
+54,633818,Away,Baltimore Orioles,110,L
+55,633807,Away,Baltimore Orioles,110,W
+56,633814,Away,Baltimore Orioles,110,L
+57,633778,Away,St. Louis Cardinals,138,W
+58,633775,Away,St. Louis Cardinals,138,L
+59,633743,Home,Seattle Mariners,136,W
+60,633725,Home,Seattle Mariners,136,W
+61,633690,Home,Seattle Mariners,136,L
+62,633705,Home,Baltimore Orioles,110,W
+63,633769,Home,Baltimore Orioles,110,W
+64,633659,Home,Baltimore Orioles,110,W
+65,633641,Home,Baltimore Orioles,110,W
+66,633584,Away,Pittsburgh Pirates,134,L
+67,633590,Away,Pittsburgh Pirates,134,L
+68,633550,Away,Pittsburgh Pirates,134,W
+69,633542,Away,Chicago Cubs,112,W
+70,633537,Away,Chicago Cubs,112,L
+71,633538,Away,Minnesota Twins,142,W
+72,633555,Away,Minnesota Twins,142,L
+73,633473,Away,Minnesota Twins,142,L
+74,633466,Home,Detroit Tigers,116,W
+75,633432,Home,Detroit Tigers,116,L
+76,633506,Home,Detroit Tigers,116,L
+77,633469,Home,Houston Astros,117,L
+78,633451,Home,Houston Astros,117,L
+79,633429,Home,Houston Astros,117,L
+80,633414,Home,Houston Astros,117,L
+81,633353,Away,Tampa Bay Rays,139,L
+82,633339,Away,Tampa Bay Rays,139,L
+83,633360,Away,Tampa Bay Rays,139,L
+84,633409,Home,Kansas City Royals,118,W
+85,633373,Home,Kansas City Royals,118,W
+86,633317,Home,Kansas City Royals,118,W
+87,633264,Away,Oakland Athletics,133,L
+88,633306,Away,Oakland Athletics,133,W
+89,633238,Away,Oakland Athletics,133,W
+90,633277,Away,Houston Astros,117,L
+91,633200,Away,Houston Astros,117,L
+92,633222,Away,Houston Astros,117,W
+93,633180,Home,Tampa Bay Rays,139,L
+94,633211,Home,Tampa Bay Rays,139,L
+95,633185,Home,Tampa Bay Rays,139,L
+96,633194,Home,Tampa Bay Rays,139,W
+97,633189,Home,St. Louis Cardinals,138,L
+98,633123,Home,St. Louis Cardinals,138,W
+99,633128,Away,Chicago White Sox,145,L
+100,633058,Away,Chicago White Sox,145,W
+101,633047,Away,Chicago White Sox,145,L
+102,633041,Away,Toronto Blue Jays,141,W
+103,633036,Away,Toronto Blue Jays,141,L
+104,633011,Away,Toronto Blue Jays,141,L
+105,633003,Away,Toronto Blue Jays,141,L
+106,632990,Home,Detroit Tigers,116,W
+107,632993,Home,Detroit Tigers,116,L
+108,632991,Home,Detroit Tigers,116,W
+109,634173,Home,Cincinnati Reds,113,W
+110,632978,Home,Oakland Athletics,133,L
+111,632937,Home,Oakland Athletics,133,L
+112,632900,Home,Oakland Athletics,133,L
+113,632920,Away,Detroit Tigers,116,W
+114,632819,Away,Detroit Tigers,116,L
+115,632910,Away,Detroit Tigers,116,W
+116,632873,Away,Minnesota Twins,142,L
+117,632880,Away,Minnesota Twins,142,W
+118,632831,Away,Minnesota Twins,142,L
+119,632837,Home,Los Angeles Angels,108,W
+120,632780,Home,Los Angeles Angels,108,W
+121,632812,Home,Los Angeles Angels,108,W
+122,632783,Home,Texas Rangers,140,L
+123,632766,Home,Texas Rangers,140,W
+124,632788,Home,Texas Rangers,140,W
+125,632735,Home,Boston Red Sox,111,L
+126,632737,Home,Boston Red Sox,111,L
+127,632704,Home,Boston Red Sox,111,W
+128,632676,Away,Kansas City Royals,118,W
+129,632662,Away,Kansas City Royals,118,W
+130,632635,Away,Kansas City Royals,118,W
+131,632639,Away,Boston Red Sox,111,L
+132,632634,Away,Boston Red Sox,111,L
+133,632592,Away,Boston Red Sox,111,W
+134,632591,Home,Minnesota Twins,142,L
+135,632586,Home,Minnesota Twins,142,L
+136,632579,Home,Minnesota Twins,142,L
+137,632561,Home,Minnesota Twins,142,W
+138,632557,Home,Milwaukee Brewers,158,L
+139,632533,Home,Milwaukee Brewers,158,L
+140,632510,Home,Milwaukee Brewers,158,L
+141,633581,Away,Minnesota Twins,142,W
+142,632493,Away,Minnesota Twins,142,L
+143,632463,Away,Minnesota Twins,142,W
+144,632458,Away,New York Yankees,147,L
+145,632441,Away,New York Yankees,147,W
+146,632380,Away,New York Yankees,147,W
+147,632437,Home,Kansas City Royals,118,L
+148,633394,Home,Kansas City Royals,118,L
+149,632398,Home,Kansas City Royals,118,W
+150,633866,Home,Chicago White Sox,145,L
+151,632372,Home,Chicago White Sox,145,W
+152,632363,Home,Chicago White Sox,145,L
+153,632348,Home,Chicago White Sox,145,W
+154,632330,Home,Chicago White Sox,145,L
+155,632409,Home,Kansas City Royals,118,W
+156,632315,Away,Kansas City Royals,118,L
+157,632302,Away,Kansas City Royals,118,L
+158,632284,Away,Kansas City Royals,118,W
+159,632248,Away,Texas Rangers,140,W
+160,632251,Away,Texas Rangers,140,L
+161,632236,Away,Texas Rangers,140,W

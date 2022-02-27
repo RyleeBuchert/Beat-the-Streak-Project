@@ -1,0 +1,163 @@
+,game_id,home/away,opp_name,opp_code,result
+0,490107,Home,Philadelphia Phillies,143,L
+1,490129,Home,Philadelphia Phillies,143,W
+2,490142,Home,Philadelphia Phillies,143,W
+3,490151,Away,St. Louis Cardinals,138,W
+4,490166,Away,St. Louis Cardinals,138,L
+5,490181,Away,St. Louis Cardinals,138,W
+6,490195,Away,Pittsburgh Pirates,134,W
+7,490207,Away,Pittsburgh Pirates,134,W
+8,490219,Away,Pittsburgh Pirates,134,W
+9,490234,Home,Milwaukee Brewers,158,L
+10,490247,Home,Milwaukee Brewers,158,L
+11,490262,Home,Milwaukee Brewers,158,W
+12,490277,Home,Milwaukee Brewers,158,L
+13,490296,Home,Baltimore Orioles,110,W
+14,490311,Home,Baltimore Orioles,110,L
+15,490326,Home,Baltimore Orioles,110,L
+16,490338,Home,Chicago Cubs,112,L
+17,490353,Home,Chicago Cubs,112,L
+18,490368,Home,Chicago Cubs,112,W
+19,490382,Away,Milwaukee Brewers,158,L
+20,490392,Away,Milwaukee Brewers,158,L
+21,490407,Away,Milwaukee Brewers,158,L
+22,490434,Away,St. Louis Cardinals,138,L
+23,490464,Away,St. Louis Cardinals,138,W
+24,490481,Home,Pittsburgh Pirates,134,W
+25,490496,Home,Pittsburgh Pirates,134,L
+26,490512,Home,Pittsburgh Pirates,134,W
+27,490527,Home,Pittsburgh Pirates,134,W
+28,490539,Home,San Francisco Giants,137,W
+29,490554,Home,San Francisco Giants,137,W
+30,490569,Home,San Francisco Giants,137,W
+31,490578,Home,New York Yankees,147,L
+32,490591,Home,New York Yankees,147,W
+33,490614,Away,San Francisco Giants,137,W
+34,490627,Away,San Francisco Giants,137,L
+35,490642,Away,San Francisco Giants,137,L
+36,490657,Away,San Francisco Giants,137,L
+37,490681,Away,Chicago Cubs,112,L
+38,490695,Away,Chicago Cubs,112,L
+39,490710,Away,Chicago Cubs,112,L
+40,490722,Home,Colorado Rockies,115,L
+41,490737,Home,Colorado Rockies,115,W
+42,490752,Home,Colorado Rockies,115,L
+43,490764,Home,Cleveland Indians,114,W
+44,490773,Home,Cleveland Indians,114,L
+45,490788,Away,Cleveland Indians,114,W
+46,490818,Away,Philadelphia Phillies,143,W
+47,490833,Away,Philadelphia Phillies,143,L
+48,490848,Away,Philadelphia Phillies,143,W
+49,490863,Away,Toronto Blue Jays,141,L
+50,490878,Away,Toronto Blue Jays,141,L
+51,490893,Away,Toronto Blue Jays,141,L
+52,490913,Home,Atlanta Braves,144,W
+53,490928,Home,Atlanta Braves,144,L
+54,490943,Home,Atlanta Braves,144,L
+55,490961,Home,St. Louis Cardinals,138,W
+56,490976,Home,St. Louis Cardinals,138,W
+57,490991,Home,St. Louis Cardinals,138,W
+58,491004,Home,St. Louis Cardinals,138,W
+59,491007,Away,Los Angeles Dodgers,119,L
+60,491022,Away,Los Angeles Dodgers,119,L
+61,491038,Away,Los Angeles Dodgers,119,L
+62,491054,Away,San Diego Padres,135,L
+63,491064,Away,San Diego Padres,135,L
+64,491080,Away,San Diego Padres,135,L
+65,491106,Home,Los Angeles Dodgers,119,L
+66,491121,Home,Los Angeles Dodgers,119,L
+67,491136,Home,Los Angeles Dodgers,119,L
+68,491146,Away,Tampa Bay Rays,139,W
+69,491159,Away,Tampa Bay Rays,139,L
+70,491174,Away,Tampa Bay Rays,139,L
+71,491200,Away,Washington Nationals,120,L
+72,491215,Away,Washington Nationals,120,L
+73,491230,Away,Washington Nationals,120,W
+74,490449,Away,St. Louis Cardinals,138,L
+75,491256,Home,Milwaukee Brewers,158,W
+76,491271,Home,Milwaukee Brewers,158,W
+77,491285,Home,Milwaukee Brewers,158,L
+78,491295,Home,Chicago Cubs,112,W
+79,491310,Home,Chicago Cubs,112,W
+80,491325,Home,Chicago Cubs,112,L
+81,491341,Away,Colorado Rockies,115,L
+82,491352,Away,Colorado Rockies,115,W
+83,491367,Away,Colorado Rockies,115,L
+84,491382,Away,Colorado Rockies,115,W
+85,491393,Away,Arizona Diamondbacks,109,L
+86,491408,Away,Arizona Diamondbacks,109,W
+87,491423,Away,Arizona Diamondbacks,109,W
+88,491449,Home,Washington Nationals,120,L
+89,491464,Home,Washington Nationals,120,L
+90,491479,Home,Washington Nationals,120,L
+91,491492,Home,Washington Nationals,120,L
+92,491493,Home,Arizona Diamondbacks,109,L
+93,491508,Home,Arizona Diamondbacks,109,W
+94,491523,Home,Arizona Diamondbacks,109,L
+95,491537,Home,Miami Marlins,146,L
+96,491552,Home,Miami Marlins,146,L
+97,491567,Home,Miami Marlins,146,W
+98,490803,Away,Cleveland Indians,114,L
+99,491593,Away,New York Yankees,147,L
+100,491608,Away,New York Yankees,147,L
+101,491621,Away,Miami Marlins,146,L
+102,491631,Away,Miami Marlins,146,L
+103,491646,Away,Miami Marlins,146,L
+104,491661,Away,Miami Marlins,146,W
+105,491682,Away,Pittsburgh Pirates,134,W
+106,491697,Away,Pittsburgh Pirates,134,W
+107,491713,Away,Pittsburgh Pirates,134,L
+108,491735,Home,St. Louis Cardinals,138,W
+109,491750,Home,St. Louis Cardinals,138,L
+110,491765,Home,St. Louis Cardinals,138,L
+111,491774,Home,San Diego Padres,135,W
+112,491787,Home,San Diego Padres,135,L
+113,491803,Home,San Diego Padres,135,W
+114,491817,Home,San Diego Padres,135,W
+115,491822,Away,Milwaukee Brewers,158,W
+116,491837,Away,Milwaukee Brewers,158,L
+117,491852,Away,Milwaukee Brewers,158,L
+118,491865,Away,Chicago Cubs,112,L
+119,491876,Away,Chicago Cubs,112,W
+120,491892,Away,Chicago Cubs,112,L
+121,491906,Away,Chicago Cubs,112,W
+122,491915,Away,Atlanta Braves,144,W
+123,491930,Away,Atlanta Braves,144,W
+124,491945,Away,Atlanta Braves,144,L
+125,491968,Home,Chicago Cubs,112,L
+126,491983,Home,Chicago Cubs,112,L
+127,491998,Home,Chicago Cubs,112,W
+128,492017,Home,Pittsburgh Pirates,134,W
+129,492032,Home,Pittsburgh Pirates,134,L
+130,492047,Home,Pittsburgh Pirates,134,L
+131,492070,Home,New York Mets,121,W
+132,492085,Home,New York Mets,121,L
+133,492097,Home,New York Mets,121,W
+134,492106,Away,Pittsburgh Pirates,134,W
+135,492121,Away,Pittsburgh Pirates,134,L
+136,492136,Away,Pittsburgh Pirates,134,L
+137,492154,Home,Milwaukee Brewers,158,W
+138,492169,Home,Milwaukee Brewers,158,W
+139,492184,Home,Milwaukee Brewers,158,W
+140,492194,Away,New York Mets,121,L
+141,492202,Away,New York Mets,121,L
+142,492217,Away,New York Mets,121,L
+143,492232,Away,New York Mets,121,W
+144,492257,Away,St. Louis Cardinals,138,L
+145,492272,Away,St. Louis Cardinals,138,W
+146,492287,Away,St. Louis Cardinals,138,L
+147,492305,Home,Pittsburgh Pirates,134,W
+148,492320,Home,Pittsburgh Pirates,134,W
+149,492335,Home,Pittsburgh Pirates,134,W
+150,492360,Home,St. Louis Cardinals,138,L
+151,492375,Home,St. Louis Cardinals,138,L
+152,492385,Home,St. Louis Cardinals,138,L
+153,492389,Home,Boston Red Sox,111,L
+154,492404,Home,Boston Red Sox,111,L
+155,492419,Home,Boston Red Sox,111,L
+156,492447,Away,Milwaukee Brewers,158,L
+157,492462,Away,Milwaukee Brewers,158,W
+158,492476,Away,Milwaukee Brewers,158,L
+159,492488,Away,Chicago Cubs,112,L
+160,492503,Away,Chicago Cubs,112,L
+161,492518,Away,Chicago Cubs,112,W

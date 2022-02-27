@@ -1,0 +1,61 @@
+,game_id,home/away,opp_name,opp_code,result
+0,630989,Away,St. Louis Cardinals,138,L
+1,630992,Away,St. Louis Cardinals,138,L
+2,630993,Away,St. Louis Cardinals,138,W
+3,631130,Home,Milwaukee Brewers,158,L
+4,631132,Home,Milwaukee Brewers,158,W
+5,631137,Home,Milwaukee Brewers,158,L
+6,631647,Away,Chicago Cubs,112,L
+7,631622,Away,Chicago Cubs,112,L
+8,631606,Away,Chicago Cubs,112,L
+9,631275,Away,Minnesota Twins,142,L
+10,631276,Away,Minnesota Twins,142,L
+11,631140,Home,Minnesota Twins,142,L
+12,631148,Home,Minnesota Twins,142,W
+13,631105,Home,Detroit Tigers,116,L
+14,631106,Home,Detroit Tigers,116,L
+15,631110,Home,Detroit Tigers,116,L
+16,631600,Away,Cincinnati Reds,113,W
+17,631601,Away,Cincinnati Reds,113,L
+18,631114,Home,Cleveland Indians,114,L
+19,631120,Home,Cleveland Indians,114,L
+20,631118,Home,Cleveland Indians,114,L
+21,631103,Home,Milwaukee Brewers,158,W
+22,631104,Home,Milwaukee Brewers,158,W
+23,631107,Home,Milwaukee Brewers,158,W
+24,631499,Away,Chicago White Sox,145,L
+25,631500,Away,Chicago White Sox,145,L
+26,630999,Away,St. Louis Cardinals,138,W
+27,631000,Away,St. Louis Cardinals,138,W
+28,631291,Away,Milwaukee Brewers,158,L
+29,631277,Away,Milwaukee Brewers,158,L
+30,631278,Away,Milwaukee Brewers,158,W
+31,631281,Away,Milwaukee Brewers,158,L
+32,631109,Home,Chicago Cubs,112,L
+33,631111,Home,Chicago Cubs,112,L
+34,631112,Home,Chicago Cubs,112,W
+35,631113,Home,Cincinnati Reds,113,L
+36,631602,Away,Cincinnati Reds,113,W
+37,631115,Home,Cincinnati Reds,113,L
+38,631116,Home,Cincinnati Reds,113,W
+39,631096,Home,Chicago White Sox,145,W
+40,631100,Home,Chicago White Sox,145,L
+41,631399,Away,Kansas City Royals,118,L
+42,631400,Away,Kansas City Royals,118,L
+43,631401,Away,Kansas City Royals,118,L
+44,631588,Away,Cincinnati Reds,113,L
+45,631590,Away,Cincinnati Reds,113,L
+46,631574,Away,Cincinnati Reds,113,L
+47,631575,Away,Cincinnati Reds,113,L
+48,631101,Home,St. Louis Cardinals,138,W
+49,631102,Home,St. Louis Cardinals,138,L
+50,630987,Away,St. Louis Cardinals,138,L
+51,631147,Home,St. Louis Cardinals,138,L
+52,631086,Home,St. Louis Cardinals,138,L
+53,631087,Home,Chicago Cubs,112,L
+54,631088,Home,Chicago Cubs,112,W
+55,631089,Home,Chicago Cubs,112,W
+56,631099,Home,Chicago Cubs,112,W
+57,631536,Away,Cleveland Indians,114,L
+58,631537,Away,Cleveland Indians,114,W
+59,631538,Away,Cleveland Indians,114,L

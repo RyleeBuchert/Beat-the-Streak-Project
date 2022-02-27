@@ -1,0 +1,62 @@
+,game_id,home/away,opp_name,opp_code,result
+0,630851,Home,New York Yankees,147,L
+1,630899,Home,New York Yankees,147,W
+2,630856,Home,New York Yankees,147,L
+3,630861,Home,Toronto Blue Jays,141,L
+4,630866,Home,Toronto Blue Jays,141,L
+5,630916,Away,Toronto Blue Jays,141,W
+6,630917,Away,Toronto Blue Jays,141,W
+7,630874,Home,New York Mets,121,W
+8,630878,Home,New York Mets,121,L
+9,630879,Home,Baltimore Orioles,110,L
+10,630880,Home,Baltimore Orioles,110,L
+11,630882,Home,Baltimore Orioles,110,L
+12,631233,Away,New York Mets,121,W
+13,631243,Away,New York Mets,121,W
+14,631232,Away,New York Mets,121,L
+15,631231,Away,New York Mets,121,L
+16,630882,Home,Baltimore Orioles,110,L
+17,631683,Away,Baltimore Orioles,110,W
+18,630568,Away,Baltimore Orioles,110,L
+19,631679,Away,Baltimore Orioles,110,W
+20,630316,Away,Atlanta Braves,144,L
+21,630322,Away,Atlanta Braves,144,W
+22,630886,Home,Miami Marlins,146,L
+23,630890,Home,Miami Marlins,146,W
+24,631341,Away,Miami Marlins,146,L
+25,630897,Home,Miami Marlins,146,W
+26,630898,Home,Miami Marlins,146,L
+27,630855,Home,Philadelphia Phillies,143,L
+28,630853,Home,Philadelphia Phillies,143,L
+29,631653,Away,Boston Red Sox,111,W
+30,631654,Away,Boston Red Sox,111,L
+31,631655,Away,Boston Red Sox,111,L
+32,631143,Away,Philadelphia Phillies,143,L
+33,631153,Away,Philadelphia Phillies,143,L
+34,631145,Away,Philadelphia Phillies,143,L
+35,631146,Away,Philadelphia Phillies,143,L
+36,630371,Away,Atlanta Braves,144,L
+37,630323,Away,Atlanta Braves,144,W
+38,630383,Away,Atlanta Braves,144,W
+39,630491,Away,Atlanta Braves,144,L
+40,630857,Home,Tampa Bay Rays,139,W
+41,630867,Home,Tampa Bay Rays,139,W
+42,630869,Home,Atlanta Braves,144,L
+43,630873,Home,Atlanta Braves,144,W
+44,630877,Home,Atlanta Braves,144,L
+45,630883,Home,Atlanta Braves,144,L
+46,630936,Away,Tampa Bay Rays,139,L
+47,630937,Away,Tampa Bay Rays,139,W
+48,631316,Away,Miami Marlins,146,W
+49,631342,Away,Miami Marlins,146,L
+50,631317,Away,Miami Marlins,146,L
+51,631305,Away,Miami Marlins,146,L
+52,631329,Away,Miami Marlins,146,W
+53,630884,Home,Philadelphia Phillies,143,W
+54,630888,Home,Philadelphia Phillies,143,W
+55,630896,Home,Philadelphia Phillies,143,W
+56,630892,Home,Philadelphia Phillies,143,L
+57,630893,Home,New York Mets,121,L
+58,630895,Home,New York Mets,121,W
+59,630894,Home,New York Mets,121,W
+60,630854,Home,New York Mets,121,W

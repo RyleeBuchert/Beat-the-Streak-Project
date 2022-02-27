@@ -1,0 +1,163 @@
+,game_id,home/away,opp_name,opp_code,result
+0,529416,Home,Philadelphia Phillies,143,W
+1,529428,Home,Philadelphia Phillies,143,L
+2,529440,Home,Philadelphia Phillies,143,W
+3,529470,Home,Washington Nationals,120,L
+4,529483,Home,Washington Nationals,120,W
+5,529496,Home,Washington Nationals,120,W
+6,529508,Away,Colorado Rockies,115,W
+7,529518,Away,Colorado Rockies,115,L
+8,529533,Away,Colorado Rockies,115,W
+9,529548,Away,Washington Nationals,120,L
+10,529561,Away,Washington Nationals,120,L
+11,529575,Away,Washington Nationals,120,W
+12,529598,Away,Chicago Cubs,112,W
+13,529613,Away,Chicago Cubs,112,L
+14,529650,Home,Philadelphia Phillies,143,W
+15,529664,Home,Philadelphia Phillies,143,L
+16,529678,Home,Philadelphia Phillies,143,W
+17,529687,Home,New York Mets,121,W
+18,529699,Home,New York Mets,121,L
+19,529714,Home,New York Mets,121,W
+20,529736,Away,Cincinnati Reds,113,L
+21,529746,Away,Cincinnati Reds,113,L
+22,529761,Away,Cincinnati Reds,113,W
+23,529776,Away,Cincinnati Reds,113,W
+24,529786,Away,Philadelphia Phillies,143,L
+25,529801,Away,Philadelphia Phillies,143,W
+26,529816,Away,Philadelphia Phillies,143,W
+27,529841,Away,New York Mets,121,W
+28,529856,Away,New York Mets,121,W
+29,529871,Away,New York Mets,121,W
+30,529893,Home,San Francisco Giants,137,L
+31,529909,Home,San Francisco Giants,137,L
+32,529924,Home,San Francisco Giants,137,L
+33,529934,Away,Tampa Bay Rays,139,W
+34,529949,Away,Tampa Bay Rays,139,W
+35,529962,Away,Miami Marlins,146,W
+36,529972,Away,Miami Marlins,146,L
+37,529987,Away,Miami Marlins,146,W
+38,530002,Away,Miami Marlins,146,W
+39,529628,Away,Chicago Cubs,112,W
+40,530024,Home,Chicago Cubs,112,L
+41,530039,Home,Chicago Cubs,112,W
+42,530069,Home,Miami Marlins,146,L
+43,530084,Home,Miami Marlins,146,W
+44,530099,Home,Miami Marlins,146,W
+45,530108,Away,Philadelphia Phillies,143,L
+46,530117,Away,Philadelphia Phillies,143,W
+47,530132,Away,Philadelphia Phillies,143,L
+48,530155,Away,Boston Red Sox,111,L
+49,530170,Away,Boston Red Sox,111,L
+50,530185,Away,Boston Red Sox,111,W
+51,530206,Home,New York Mets,121,W
+52,529729,Home,New York Mets,121,L
+53,530221,Home,New York Mets,121,W
+54,530236,Home,New York Mets,121,L
+55,530254,Home,Washington Nationals,120,W
+56,530269,Home,Washington Nationals,120,W
+57,530284,Home,Washington Nationals,120,L
+58,530299,Home,Washington Nationals,120,W
+59,530301,Away,San Diego Padres,135,L
+60,530304,Away,San Diego Padres,135,W
+61,530319,Away,San Diego Padres,135,L
+62,530344,Away,Los Angeles Dodgers,119,L
+63,530359,Away,Los Angeles Dodgers,119,W
+64,530374,Away,Los Angeles Dodgers,119,L
+65,530404,Home,New York Mets,121,W
+66,530419,Home,New York Mets,121,W
+67,530432,Home,San Diego Padres,135,W
+68,530446,Home,San Diego Padres,135,L
+69,530461,Home,San Diego Padres,135,W
+70,530476,Home,San Diego Padres,135,W
+71,530490,Away,Toronto Blue Jays,141,W
+72,530504,Away,Toronto Blue Jays,141,L
+73,530529,Home,Baltimore Orioles,110,L
+74,530544,Home,Baltimore Orioles,110,L
+75,530559,Home,Baltimore Orioles,110,W
+76,530575,Home,Cincinnati Reds,113,W
+77,530586,Home,Cincinnati Reds,113,L
+78,530601,Home,Cincinnati Reds,113,L
+79,530623,Away,St. Louis Cardinals,138,W
+80,530638,Away,St. Louis Cardinals,138,W
+81,530653,Away,St. Louis Cardinals,138,W
+82,530668,Away,New York Yankees,147,W
+83,530678,Away,New York Yankees,147,L
+84,530693,Away,New York Yankees,147,L
+85,530708,Away,Milwaukee Brewers,158,L
+86,530716,Away,Milwaukee Brewers,158,L
+87,530731,Away,Milwaukee Brewers,158,W
+88,530746,Away,Milwaukee Brewers,158,L
+89,530785,Home,Toronto Blue Jays,141,L
+90,530800,Home,Toronto Blue Jays,141,W
+91,530811,Home,Arizona Diamondbacks,109,L
+92,530826,Home,Arizona Diamondbacks,109,L
+93,530841,Home,Arizona Diamondbacks,109,W
+94,530858,Away,Washington Nationals,120,W
+95,530888,Away,Washington Nationals,120,L
+96,530904,Away,Miami Marlins,146,W
+97,530917,Away,Miami Marlins,146,L
+98,530948,Home,Los Angeles Dodgers,119,L
+99,530960,Home,Los Angeles Dodgers,119,L
+100,530975,Home,Los Angeles Dodgers,119,L
+101,530990,Home,Los Angeles Dodgers,119,W
+102,531004,Home,Miami Marlins,146,W
+103,531018,Home,Miami Marlins,146,W
+104,531037,Away,New York Mets,121,W
+105,531049,Away,New York Mets,121,W
+106,531064,Away,New York Mets,121,L
+107,531079,Away,New York Mets,121,W
+108,530873,Away,Washington Nationals,120,L
+109,531104,Away,Washington Nationals,120,W
+110,531119,Away,Washington Nationals,120,W
+111,531133,Away,Washington Nationals,120,L
+112,531146,Home,Milwaukee Brewers,158,W
+113,531161,Home,Milwaukee Brewers,158,L
+114,531176,Home,Milwaukee Brewers,158,W
+115,531033,Home,Miami Marlins,146,W
+116,531190,Home,Miami Marlins,146,W
+117,531201,Home,Miami Marlins,146,W
+118,531216,Home,Miami Marlins,146,W
+119,531227,Home,Colorado Rockies,115,L
+120,531237,Home,Colorado Rockies,115,L
+121,531252,Home,Colorado Rockies,115,L
+122,531267,Home,Colorado Rockies,115,L
+123,531279,Away,Pittsburgh Pirates,134,W
+124,531288,Away,Pittsburgh Pirates,134,W
+125,531303,Away,Pittsburgh Pirates,134,W
+126,531318,Away,Miami Marlins,146,W
+127,531327,Away,Miami Marlins,146,L
+128,531342,Away,Miami Marlins,146,L
+129,531357,Away,Miami Marlins,146,W
+130,531391,Home,Tampa Bay Rays,139,W
+131,531405,Home,Tampa Bay Rays,139,L
+132,530053,Home,Chicago Cubs,112,L
+133,531428,Home,Pittsburgh Pirates,134,L
+134,531443,Home,Pittsburgh Pirates,134,W
+135,531458,Home,Pittsburgh Pirates,134,W
+136,531463,Home,Boston Red Sox,111,L
+137,531478,Home,Boston Red Sox,111,L
+138,531493,Home,Boston Red Sox,111,L
+139,531506,Away,Arizona Diamondbacks,109,W
+140,531510,Away,Arizona Diamondbacks,109,L
+141,531525,Away,Arizona Diamondbacks,109,W
+142,531540,Away,Arizona Diamondbacks,109,W
+143,531556,Away,San Francisco Giants,137,W
+144,531568,Away,San Francisco Giants,137,W
+145,531583,Away,San Francisco Giants,137,W
+146,531618,Home,Washington Nationals,120,W
+147,531633,Home,Washington Nationals,120,L
+148,531648,Home,Washington Nationals,120,L
+149,531657,Home,St. Louis Cardinals,138,L
+150,531672,Home,St. Louis Cardinals,138,L
+151,531687,Home,St. Louis Cardinals,138,W
+152,531696,Home,Philadelphia Phillies,143,W
+153,531708,Home,Philadelphia Phillies,143,W
+154,531723,Home,Philadelphia Phillies,143,W
+155,531738,Home,Philadelphia Phillies,143,W
+156,531755,Away,New York Mets,121,W
+157,531770,Away,New York Mets,121,L
+158,531785,Away,New York Mets,121,L
+159,531794,Away,Philadelphia Phillies,143,W
+160,531809,Away,Philadelphia Phillies,143,L
+161,531824,Away,Philadelphia Phillies,143,L

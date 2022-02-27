@@ -1,0 +1,61 @@
+,game_id,home/away,opp_name,opp_code,result
+0,631438,Home,Seattle Mariners,136,W
+1,631453,Home,Seattle Mariners,136,W
+2,631441,Home,Seattle Mariners,136,L
+3,631442,Home,Seattle Mariners,136,W
+4,631443,Home,Los Angeles Dodgers,119,L
+5,631444,Home,Los Angeles Dodgers,119,L
+6,631391,Away,Los Angeles Angels,108,W
+7,631392,Away,Los Angeles Angels,108,L
+8,631393,Away,Los Angeles Angels,108,W
+9,630109,Away,Arizona Diamondbacks,109,W
+10,630110,Away,Arizona Diamondbacks,109,L
+11,630111,Away,Arizona Diamondbacks,109,L
+12,631176,Away,Oakland Athletics,133,L
+13,631177,Away,Oakland Athletics,133,L
+14,631178,Away,Oakland Athletics,133,L
+15,631445,Home,San Francisco Giants,137,W
+16,631446,Home,San Francisco Giants,137,L
+17,631447,Home,San Francisco Giants,137,W
+18,631448,Home,Seattle Mariners,136,W
+19,631449,Home,Seattle Mariners,136,W
+20,631450,Home,Seattle Mariners,136,W
+21,631451,Home,Colorado Rockies,115,W
+22,631452,Home,Colorado Rockies,115,W
+23,631522,Away,Colorado Rockies,115,W
+24,631523,Away,Colorado Rockies,115,W
+25,631078,Away,San Diego Padres,135,L
+26,631079,Away,San Diego Padres,135,L
+27,631080,Away,San Diego Padres,135,L
+28,631439,Home,Los Angeles Angels,108,W
+29,631423,Home,Los Angeles Angels,108,W
+30,631426,Home,Los Angeles Angels,108,L
+31,631428,Home,Oakland Athletics,133,W
+32,631427,Home,Oakland Athletics,133,W
+33,631430,Home,Texas Rangers,140,L
+34,631431,Home,Texas Rangers,140,W
+35,631432,Home,Texas Rangers,140,W
+36,631357,Away,Los Angeles Angels,108,L
+37,631388,Away,Los Angeles Angels,108,L
+38,631440,Home,Los Angeles Angels,108,L
+39,631359,Away,Los Angeles Angels,108,L
+40,631159,Away,Oakland Athletics,133,L
+41,631429,Home,Oakland Athletics,133,L
+42,631160,Away,Oakland Athletics,133,W
+43,631161,Away,Oakland Athletics,133,L
+44,631162,Away,Oakland Athletics,133,L
+45,631331,Away,Los Angeles Dodgers,119,W
+46,631332,Away,Los Angeles Dodgers,119,L
+47,631433,Home,Texas Rangers,140,W
+48,631434,Home,Texas Rangers,140,L
+49,631435,Home,Texas Rangers,140,W
+50,631436,Home,Arizona Diamondbacks,109,L
+51,631437,Home,Arizona Diamondbacks,109,W
+52,631424,Home,Arizona Diamondbacks,109,W
+53,631038,Away,Seattle Mariners,136,L
+54,631039,Away,Seattle Mariners,136,W
+55,631035,Away,Seattle Mariners,136,L
+56,630912,Away,Texas Rangers,140,W
+57,630913,Away,Texas Rangers,140,L
+58,630914,Away,Texas Rangers,140,L
+59,630915,Away,Texas Rangers,140,L
