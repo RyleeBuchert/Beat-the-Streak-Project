@@ -1,0 +1,1459 @@
+batterID,batterName,Hits,AB,battingSpot,Avg,pitcherID,pitcherName,pitcherERA,pitcherAvg
+592273,Brandon Drury,1,4,1,0.25,519455,Jordan Zimmermann,0.0,0.045
+545341,Randal Grichuk,0,4,2,0.0,519455,Jordan Zimmermann,0.0,0.045
+606192,Teoscar Hernandez,1,4,3,0.25,519455,Jordan Zimmermann,0.0,0.045
+475253,Justin Smoak,0,4,4,0.0,519455,Jordan Zimmermann,0.0,0.045
+666971,Lourdes Gurriel Jr.,0,4,5,0.0,519455,Jordan Zimmermann,0.0,0.045
+607680,Kevin Pillar,0,4,6,0.0,519455,Jordan Zimmermann,0.0,0.045
+642133,Rowdy Tellez,0,3,7,0.0,519455,Jordan Zimmermann,0.0,0.045
+643376,Danny Jansen,0,3,8,0.0,519455,Jordan Zimmermann,0.0,0.045
+520471,Freddy Galvis,0,3,9,0.0,519455,Jordan Zimmermann,0.0,0.045
+592273,Brandon Drury,1,4,1,0.25,571510,Matthew Boyd,5.4,0.25
+545341,Randal Grichuk,0,4,2,0.0,571510,Matthew Boyd,5.4,0.25
+475253,Justin Smoak,2,4,3,0.25,571510,Matthew Boyd,5.4,0.25
+606192,Teoscar Hernandez,1,4,4,0.25,571510,Matthew Boyd,5.4,0.25
+666971,Lourdes Gurriel Jr.,0,4,5,0.0,571510,Matthew Boyd,5.4,0.25
+607680,Kevin Pillar,0,4,6,0.0,571510,Matthew Boyd,5.4,0.25
+641856,Billy McKinney,1,4,7,0.25,571510,Matthew Boyd,5.4,0.25
+520471,Freddy Galvis,2,3,8,0.333,571510,Matthew Boyd,5.4,0.25
+571912,Luke Maile,0,3,9,0.0,571510,Matthew Boyd,5.4,0.25
+592273,Brandon Drury,1,4,1,0.25,605513,Spencer Turnbull,5.4,0.222
+641856,Billy McKinney,1,4,2,0.286,605513,Spencer Turnbull,5.4,0.222
+606192,Teoscar Hernandez,0,4,3,0.2,605513,Spencer Turnbull,5.4,0.222
+475253,Justin Smoak,1,4,4,0.273,605513,Spencer Turnbull,5.4,0.222
+643376,Danny Jansen,1,4,5,0.143,605513,Spencer Turnbull,5.4,0.222
+545341,Randal Grichuk,0,1,6,0.0,605513,Spencer Turnbull,5.4,0.222
+607680,Kevin Pillar,0,4,7,0.0,605513,Spencer Turnbull,5.4,0.222
+520471,Freddy Galvis,1,4,8,0.3,605513,Spencer Turnbull,5.4,0.222
+620446,Richard Urena,1,2,9,0.5,605513,Spencer Turnbull,5.4,0.222
+643376,Danny Jansen,1,5,1,0.167,519043,Matt Moore,0.0,0.091
+592273,Brandon Drury,1,5,2,0.235,519043,Matt Moore,0.0,0.091
+475253,Justin Smoak,0,4,3,0.2,519043,Matt Moore,0.0,0.091
+545341,Randal Grichuk,0,5,4,0.0,519043,Matt Moore,0.0,0.091
+606192,Teoscar Hernandez,0,5,5,0.133,519043,Matt Moore,0.0,0.091
+666971,Lourdes Gurriel Jr.,0,4,6,0.0,519043,Matt Moore,0.0,0.091
+607680,Kevin Pillar,1,4,7,0.063,519043,Matt Moore,0.0,0.091
+620446,Richard Urena,3,4,8,0.667,519043,Matt Moore,0.0,0.091
+623381,Thomas Pannone,0,0,9,0.0,519043,Matt Moore,0.0,0.091
+641856,Billy McKinney,0,4,1,0.2,605276,David Hess,0.0,0.04
+592273,Brandon Drury,1,4,2,0.238,605276,David Hess,0.0,0.04
+475253,Justin Smoak,0,4,3,0.167,605276,David Hess,0.0,0.04
+545341,Randal Grichuk,2,4,4,0.125,605276,David Hess,0.0,0.04
+607680,Kevin Pillar,0,0,5,0.063,605276,David Hess,0.0,0.04
+606192,Teoscar Hernandez,1,4,6,0.158,605276,David Hess,0.0,0.04
+666971,Lourdes Gurriel Jr.,0,4,7,0.0,605276,David Hess,0.0,0.04
+643376,Danny Jansen,0,3,8,0.133,605276,David Hess,0.0,0.04
+520471,Freddy Galvis,1,3,9,0.357,605276,David Hess,0.0,0.04
+592273,Brandon Drury,1,4,1,0.24,488768,Andrew Cashner,5.4,0.27
+641856,Billy McKinney,0,4,2,0.143,488768,Andrew Cashner,5.4,0.27
+606192,Teoscar Hernandez,0,4,3,0.143,488768,Andrew Cashner,5.4,0.27
+475253,Justin Smoak,2,4,4,0.227,488768,Andrew Cashner,5.4,0.27
+643376,Danny Jansen,0,4,5,0.111,488768,Andrew Cashner,5.4,0.27
+642133,Rowdy Tellez,1,4,6,0.3,488768,Andrew Cashner,5.4,0.27
+545341,Randal Grichuk,0,1,7,0.118,488768,Andrew Cashner,5.4,0.27
+520471,Freddy Galvis,1,4,8,0.333,488768,Andrew Cashner,5.4,0.27
+620446,Richard Urena,1,3,9,0.556,488768,Andrew Cashner,5.4,0.27
+641856,Billy McKinney,0,4,1,0.111,501992,Nate Karns,0.0,0.286
+545341,Randal Grichuk,3,4,2,0.238,501992,Nate Karns,0.0,0.286
+475253,Justin Smoak,0,4,3,0.2,501992,Nate Karns,0.0,0.286
+606192,Teoscar Hernandez,1,4,4,0.167,501992,Nate Karns,0.0,0.286
+642133,Rowdy Tellez,1,4,5,0.286,501992,Nate Karns,0.0,0.286
+666971,Lourdes Gurriel Jr.,2,4,6,0.105,501992,Nate Karns,0.0,0.286
+520471,Freddy Galvis,0,3,7,0.286,501992,Nate Karns,0.0,0.286
+620446,Richard Urena,1,3,8,0.5,501992,Nate Karns,0.0,0.286
+571912,Luke Maile,2,3,9,0.286,501992,Nate Karns,0.0,0.286
+592273,Brandon Drury,0,5,1,0.207,545333,Trevor Bauer,0.64,0.024
+606192,Teoscar Hernandez,1,1,2,0.2,545333,Trevor Bauer,0.64,0.024
+545341,Randal Grichuk,0,5,3,0.2,545333,Trevor Bauer,0.64,0.024
+642133,Rowdy Tellez,0,4,4,0.222,545333,Trevor Bauer,0.64,0.024
+643376,Danny Jansen,0,4,5,0.095,545333,Trevor Bauer,0.64,0.024
+641856,Billy McKinney,0,4,6,0.1,545333,Trevor Bauer,0.64,0.024
+666971,Lourdes Gurriel Jr.,0,4,7,0.087,545333,Trevor Bauer,0.64,0.024
+520471,Freddy Galvis,1,4,8,0.318,545333,Trevor Bauer,0.64,0.024
+593700,Alen Hanson,1,3,9,0.333,545333,Trevor Bauer,0.64,0.024
+593647,Socrates Brito,0,4,1,0.0,669456,Shane Bieber,3.38,0.148
+606192,Teoscar Hernandez,0,4,2,0.179,669456,Shane Bieber,3.38,0.148
+593700,Alen Hanson,0,1,3,0.25,669456,Shane Bieber,3.38,0.148
+545341,Randal Grichuk,0,4,4,0.172,669456,Shane Bieber,3.38,0.148
+642133,Rowdy Tellez,0,4,5,0.19,669456,Shane Bieber,3.38,0.148
+592273,Brandon Drury,1,4,6,0.212,669456,Shane Bieber,3.38,0.148
+520471,Freddy Galvis,1,3,7,0.32,669456,Shane Bieber,3.38,0.148
+620446,Richard Urena,1,3,8,0.467,669456,Shane Bieber,3.38,0.148
+571912,Luke Maile,0,3,9,0.2,669456,Shane Bieber,3.38,0.148
+520471,Freddy Galvis,2,5,1,0.333,471911,Carlos Carrasco,7.71,0.372
+606192,Teoscar Hernandez,2,5,2,0.212,471911,Carlos Carrasco,7.71,0.372
+475253,Justin Smoak,1,5,3,0.2,471911,Carlos Carrasco,7.71,0.372
+545341,Randal Grichuk,1,4,4,0.182,471911,Carlos Carrasco,7.71,0.372
+593700,Alen Hanson,0,1,5,0.2,471911,Carlos Carrasco,7.71,0.372
+592273,Brandon Drury,0,4,6,0.189,471911,Carlos Carrasco,7.71,0.372
+643376,Danny Jansen,1,4,7,0.12,471911,Carlos Carrasco,7.71,0.372
+641856,Billy McKinney,2,4,8,0.154,471911,Carlos Carrasco,7.71,0.372
+666971,Lourdes Gurriel Jr.,0,3,9,0.077,471911,Carlos Carrasco,7.71,0.372
+666971,Lourdes Gurriel Jr.,0,1,1,0.074,605182,Mike Clevinger,0.0,0.053
+520471,Freddy Galvis,1,4,2,0.324,605182,Mike Clevinger,0.0,0.053
+545341,Randal Grichuk,0,4,3,0.162,605182,Mike Clevinger,0.0,0.053
+592273,Brandon Drury,0,2,4,0.179,605182,Mike Clevinger,0.0,0.053
+606192,Teoscar Hernandez,0,3,5,0.194,605182,Mike Clevinger,0.0,0.053
+641856,Billy McKinney,1,3,6,0.172,605182,Mike Clevinger,0.0,0.053
+593700,Alen Hanson,0,3,7,0.125,605182,Mike Clevinger,0.0,0.053
+620446,Richard Urena,0,3,8,0.412,605182,Mike Clevinger,0.0,0.053
+643376,Danny Jansen,1,3,9,0.143,605182,Mike Clevinger,0.0,0.053
+520471,Freddy Galvis,2,5,1,0.333,519242,Chris Sale,9.0,0.308
+606192,Teoscar Hernandez,0,4,2,0.179,519242,Chris Sale,9.0,0.308
+592273,Brandon Drury,0,5,3,0.163,519242,Chris Sale,9.0,0.308
+545341,Randal Grichuk,2,5,4,0.19,519242,Chris Sale,9.0,0.308
+643376,Danny Jansen,1,4,5,0.156,519242,Chris Sale,9.0,0.308
+666971,Lourdes Gurriel Jr.,2,4,6,0.129,519242,Chris Sale,9.0,0.308
+620446,Richard Urena,0,3,7,0.35,519242,Chris Sale,9.0,0.308
+593700,Alen Hanson,1,4,8,0.167,519242,Chris Sale,9.0,0.308
+641856,Billy McKinney,2,3,9,0.219,519242,Chris Sale,9.0,0.308
+641856,Billy McKinney,0,5,1,0.189,543135,Nathan Eovaldi,8.4,0.316
+520471,Freddy Galvis,4,4,2,0.395,543135,Nathan Eovaldi,8.4,0.316
+475253,Justin Smoak,1,4,3,0.212,543135,Nathan Eovaldi,8.4,0.316
+545341,Randal Grichuk,0,4,4,0.178,543135,Nathan Eovaldi,8.4,0.316
+642133,Rowdy Tellez,2,4,5,0.241,543135,Nathan Eovaldi,8.4,0.316
+643376,Danny Jansen,0,3,6,0.147,543135,Nathan Eovaldi,8.4,0.316
+592273,Brandon Drury,0,4,7,0.149,543135,Nathan Eovaldi,8.4,0.316
+666971,Lourdes Gurriel Jr.,1,4,8,0.152,543135,Nathan Eovaldi,8.4,0.316
+593647,Socrates Brito,0,4,9,0.0,543135,Nathan Eovaldi,8.4,0.316
+643376,Danny Jansen,0,1,1,0.143,592773,Ryne Stanek,1.13,0.111
+520471,Freddy Galvis,1,5,2,0.375,592773,Ryne Stanek,1.13,0.111
+475253,Justin Smoak,0,5,3,0.194,592773,Ryne Stanek,1.13,0.111
+545341,Randal Grichuk,1,4,4,0.188,592773,Ryne Stanek,1.13,0.111
+606192,Teoscar Hernandez,2,4,5,0.209,592773,Ryne Stanek,1.13,0.111
+642133,Rowdy Tellez,0,1,6,0.233,592773,Ryne Stanek,1.13,0.111
+620446,Richard Urena,1,4,7,0.333,592773,Ryne Stanek,1.13,0.111
+593700,Alen Hanson,1,4,8,0.2,592773,Ryne Stanek,1.13,0.111
+571912,Luke Maile,2,4,9,0.286,592773,Ryne Stanek,1.13,0.111
+520471,Freddy Galvis,0,4,1,0.346,605483,Blake Snell,2.16,0.176
+475253,Justin Smoak,1,4,2,0.211,605483,Blake Snell,2.16,0.176
+606192,Teoscar Hernandez,1,4,3,0.213,605483,Blake Snell,2.16,0.176
+545341,Randal Grichuk,1,4,4,0.192,605483,Blake Snell,2.16,0.176
+666971,Lourdes Gurriel Jr.,1,3,5,0.179,605483,Blake Snell,2.16,0.176
+592273,Brandon Drury,0,3,6,0.14,605483,Blake Snell,2.16,0.176
+642133,Rowdy Tellez,0,3,7,0.212,605483,Blake Snell,2.16,0.176
+593647,Socrates Brito,0,0,8,0.0,605483,Blake Snell,2.16,0.176
+571912,Luke Maile,1,3,9,0.313,605483,Blake Snell,2.16,0.176
+641856,Billy McKinney,3,5,1,0.217,450203,Charlie Morton,2.18,0.194
+520471,Freddy Galvis,2,5,2,0.351,450203,Charlie Morton,2.18,0.194
+475253,Justin Smoak,1,4,3,0.225,450203,Charlie Morton,2.18,0.194
+545341,Randal Grichuk,1,5,4,0.193,450203,Charlie Morton,2.18,0.194
+606192,Teoscar Hernandez,0,2,5,0.204,450203,Charlie Morton,2.18,0.194
+593700,Alen Hanson,1,3,6,0.19,450203,Charlie Morton,2.18,0.194
+593647,Socrates Brito,0,4,7,0.0,450203,Charlie Morton,2.18,0.194
+592273,Brandon Drury,0,4,8,0.13,450203,Charlie Morton,2.18,0.194
+643376,Danny Jansen,0,4,9,0.132,450203,Charlie Morton,2.18,0.194
+641856,Billy McKinney,0,5,1,0.196,527048,Martin Perez,5.02,0.316
+520471,Freddy Galvis,1,5,2,0.339,527048,Martin Perez,5.02,0.316
+545341,Randal Grichuk,3,4,3,0.23,527048,Martin Perez,5.02,0.316
+593647,Socrates Brito,0,0,4,0.0,527048,Martin Perez,5.02,0.316
+606192,Teoscar Hernandez,3,4,5,0.245,527048,Martin Perez,5.02,0.316
+592273,Brandon Drury,1,4,6,0.14,527048,Martin Perez,5.02,0.316
+593700,Alen Hanson,0,3,7,0.167,527048,Martin Perez,5.02,0.316
+643376,Danny Jansen,1,4,8,0.143,527048,Martin Perez,5.02,0.316
+571912,Luke Maile,0,4,9,0.25,527048,Martin Perez,5.02,0.316
+519299,Eric Sogard,3,5,1,0.6,502043,Kyle Gibson,7.36,0.295
+520471,Freddy Galvis,1,5,2,0.328,502043,Kyle Gibson,7.36,0.295
+545341,Randal Grichuk,0,5,3,0.222,502043,Kyle Gibson,7.36,0.295
+475253,Justin Smoak,1,5,4,0.261,502043,Kyle Gibson,7.36,0.295
+606192,Teoscar Hernandez,1,4,5,0.25,502043,Kyle Gibson,7.36,0.295
+642133,Rowdy Tellez,1,4,6,0.205,502043,Kyle Gibson,7.36,0.295
+593700,Alen Hanson,1,4,7,0.179,502043,Kyle Gibson,7.36,0.295
+593647,Socrates Brito,0,4,8,0.0,502043,Kyle Gibson,7.36,0.295
+643376,Danny Jansen,1,4,9,0.152,502043,Kyle Gibson,7.36,0.295
+519299,Eric Sogard,1,4,1,0.5,543606,Jake Odorizzi,4.76,0.172
+520471,Freddy Galvis,2,4,2,0.338,543606,Jake Odorizzi,4.76,0.172
+545341,Randal Grichuk,1,4,3,0.224,543606,Jake Odorizzi,4.76,0.172
+475253,Justin Smoak,1,4,4,0.26,543606,Jake Odorizzi,4.76,0.172
+606192,Teoscar Hernandez,1,4,5,0.25,543606,Jake Odorizzi,4.76,0.172
+642133,Rowdy Tellez,0,4,6,0.186,543606,Jake Odorizzi,4.76,0.172
+592273,Brandon Drury,1,4,7,0.148,543606,Jake Odorizzi,4.76,0.172
+641856,Billy McKinney,1,3,8,0.204,543606,Jake Odorizzi,4.76,0.172
+571912,Luke Maile,0,3,9,0.217,543606,Jake Odorizzi,4.76,0.172
+519299,Eric Sogard,2,4,1,0.5,501381,Michael Pineda,5.3,0.278
+520471,Freddy Galvis,0,4,2,0.32,501381,Michael Pineda,5.3,0.278
+545341,Randal Grichuk,2,4,3,0.239,501381,Michael Pineda,5.3,0.278
+475253,Justin Smoak,1,4,4,0.259,501381,Michael Pineda,5.3,0.278
+606192,Teoscar Hernandez,1,4,5,0.25,501381,Michael Pineda,5.3,0.278
+642133,Rowdy Tellez,1,4,6,0.191,501381,Michael Pineda,5.3,0.278
+592273,Brandon Drury,0,4,7,0.141,501381,Michael Pineda,5.3,0.278
+641856,Billy McKinney,1,4,8,0.207,501381,Michael Pineda,5.3,0.278
+643376,Danny Jansen,1,4,9,0.16,501381,Michael Pineda,5.3,0.278
+519299,Eric Sogard,1,4,1,0.438,605156,Aaron Brooks,5.32,0.241
+520471,Freddy Galvis,0,4,2,0.304,605156,Aaron Brooks,5.32,0.241
+545341,Randal Grichuk,0,4,3,0.227,605156,Aaron Brooks,5.32,0.241
+475253,Justin Smoak,1,4,4,0.259,605156,Aaron Brooks,5.32,0.241
+606192,Teoscar Hernandez,0,4,5,0.239,605156,Aaron Brooks,5.32,0.241
+641856,Billy McKinney,2,4,6,0.226,605156,Aaron Brooks,5.32,0.241
+592273,Brandon Drury,1,4,7,0.147,605156,Aaron Brooks,5.32,0.241
+593647,Socrates Brito,1,4,8,0.042,605156,Aaron Brooks,5.32,0.241
+643376,Danny Jansen,1,4,9,0.17,605156,Aaron Brooks,5.32,0.241
+519299,Eric Sogard,2,6,1,0.409,571666,Mike Fiers,8.28,0.314
+520471,Freddy Galvis,2,5,2,0.31,571666,Mike Fiers,8.28,0.314
+545341,Randal Grichuk,0,5,3,0.213,571666,Mike Fiers,8.28,0.314
+593700,Alen Hanson,0,1,4,0.172,571666,Mike Fiers,8.28,0.314
+593647,Socrates Brito,0,1,5,0.042,571666,Mike Fiers,8.28,0.314
+642133,Rowdy Tellez,3,5,6,0.231,571666,Mike Fiers,8.28,0.314
+592273,Brandon Drury,3,4,7,0.181,571666,Mike Fiers,8.28,0.314
+641856,Billy McKinney,2,4,8,0.242,571666,Mike Fiers,8.28,0.314
+571912,Luke Maile,0,4,9,0.192,571666,Mike Fiers,8.28,0.314
+593700,Alen Hanson,1,5,1,0.176,474463,Brett Anderson,3.04,0.24
+620446,Richard Urena,0,0,2,0.333,474463,Brett Anderson,3.04,0.24
+545341,Randal Grichuk,1,5,3,0.212,474463,Brett Anderson,3.04,0.24
+475253,Justin Smoak,4,5,4,0.313,474463,Brett Anderson,3.04,0.24
+606192,Teoscar Hernandez,0,5,5,0.227,474463,Brett Anderson,3.04,0.24
+592273,Brandon Drury,2,4,6,0.197,474463,Brett Anderson,3.04,0.24
+642133,Rowdy Tellez,1,3,7,0.241,474463,Brett Anderson,3.04,0.24
+643376,Danny Jansen,1,4,8,0.179,474463,Brett Anderson,3.04,0.24
+641856,Billy McKinney,1,3,9,0.246,474463,Brett Anderson,3.04,0.24
+519299,Eric Sogard,1,5,1,0.385,502188,Jeff Samardzija,3.0,0.224
+620446,Richard Urena,2,5,2,0.345,502188,Jeff Samardzija,3.0,0.224
+545341,Randal Grichuk,2,4,3,0.225,502188,Jeff Samardzija,3.0,0.224
+475253,Justin Smoak,0,4,4,0.3,502188,Jeff Samardzija,3.0,0.224
+642133,Rowdy Tellez,2,4,5,0.259,502188,Jeff Samardzija,3.0,0.224
+592273,Brandon Drury,0,4,6,0.188,502188,Jeff Samardzija,3.0,0.224
+641856,Billy McKinney,1,4,7,0.247,502188,Jeff Samardzija,3.0,0.224
+606192,Teoscar Hernandez,0,1,8,0.224,502188,Jeff Samardzija,3.0,0.224
+520471,Freddy Galvis,0,1,9,0.311,502188,Jeff Samardzija,3.0,0.224
+519299,Eric Sogard,1,4,1,0.367,519141,Drew Pomeranz,3.65,0.258
+592273,Brandon Drury,0,4,2,0.179,519141,Drew Pomeranz,3.65,0.258
+475253,Justin Smoak,0,4,3,0.284,519141,Drew Pomeranz,3.65,0.258
+545341,Randal Grichuk,0,3,4,0.217,519141,Drew Pomeranz,3.65,0.258
+642133,Rowdy Tellez,0,3,5,0.25,519141,Drew Pomeranz,3.65,0.258
+606192,Teoscar Hernandez,1,3,6,0.228,519141,Drew Pomeranz,3.65,0.258
+643376,Danny Jansen,0,3,7,0.169,519141,Drew Pomeranz,3.65,0.258
+620446,Richard Urena,0,3,8,0.313,519141,Drew Pomeranz,3.65,0.258
+593700,Alen Hanson,0,3,9,0.167,519141,Drew Pomeranz,3.65,0.258
+519299,Eric Sogard,2,4,1,0.394,571666,Mike Fiers,7.03,0.295
+475253,Justin Smoak,1,4,2,0.282,571666,Mike Fiers,7.03,0.295
+545341,Randal Grichuk,1,4,3,0.219,571666,Mike Fiers,7.03,0.295
+642133,Rowdy Tellez,0,4,4,0.234,571666,Mike Fiers,7.03,0.295
+593700,Alen Hanson,0,0,5,0.167,571666,Mike Fiers,7.03,0.295
+641856,Billy McKinney,0,3,6,0.237,571666,Mike Fiers,7.03,0.295
+606192,Teoscar Hernandez,1,4,7,0.229,571666,Mike Fiers,7.03,0.295
+592273,Brandon Drury,1,4,8,0.182,571666,Mike Fiers,7.03,0.295
+643376,Danny Jansen,1,3,9,0.177,571666,Mike Fiers,7.03,0.295
+519299,Eric Sogard,1,4,1,0.4,474463,Brett Anderson,4.35,0.279
+475253,Justin Smoak,1,5,2,0.28,474463,Brett Anderson,4.35,0.279
+545341,Randal Grichuk,3,5,3,0.238,474463,Brett Anderson,4.35,0.279
+665489,Vladimir Guerrero Jr.,1,5,4,0.25,474463,Brett Anderson,4.35,0.279
+606192,Teoscar Hernandez,0,5,5,0.216,474463,Brett Anderson,4.35,0.279
+592273,Brandon Drury,3,4,6,0.209,474463,Brett Anderson,4.35,0.279
+642133,Rowdy Tellez,1,4,7,0.235,474463,Brett Anderson,4.35,0.279
+643376,Danny Jansen,1,3,8,0.185,474463,Brett Anderson,4.35,0.279
+593647,Socrates Brito,0,0,9,0.074,474463,Brett Anderson,4.35,0.279
+519299,Eric Sogard,3,6,1,0.415,605135,Chris Bassitt,0.75,0.119
+475253,Justin Smoak,1,6,2,0.273,605135,Chris Bassitt,0.75,0.119
+545341,Randal Grichuk,1,5,3,0.236,605135,Chris Bassitt,0.75,0.119
+642133,Rowdy Tellez,1,5,4,0.233,605135,Chris Bassitt,0.75,0.119
+593700,Alen Hanson,0,1,5,0.175,605135,Chris Bassitt,0.75,0.119
+641856,Billy McKinney,1,5,6,0.235,605135,Chris Bassitt,0.75,0.119
+592273,Brandon Drury,2,5,7,0.219,605135,Chris Bassitt,0.75,0.119
+520471,Freddy Galvis,1,2,8,0.315,605135,Chris Bassitt,0.75,0.119
+643376,Danny Jansen,0,2,9,0.182,605135,Chris Bassitt,0.75,0.119
+641856,Billy McKinney,0,2,1,0.229,656288,Griffin Canning,6.23,0.235
+520471,Freddy Galvis,1,4,2,0.313,656288,Griffin Canning,6.23,0.235
+545341,Randal Grichuk,2,4,3,0.245,656288,Griffin Canning,6.23,0.235
+475253,Justin Smoak,0,4,4,0.264,656288,Griffin Canning,6.23,0.235
+593700,Alen Hanson,0,0,5,0.175,656288,Griffin Canning,6.23,0.235
+642133,Rowdy Tellez,0,4,6,0.221,656288,Griffin Canning,6.23,0.235
+592273,Brandon Drury,1,4,7,0.22,656288,Griffin Canning,6.23,0.235
+606192,Teoscar Hernandez,1,3,8,0.217,656288,Griffin Canning,6.23,0.235
+571912,Luke Maile,0,3,9,0.147,656288,Griffin Canning,6.23,0.235
+520471,Freddy Galvis,0,5,1,0.297,572703,Luke Bard,3.09,0.214
+545341,Randal Grichuk,1,4,2,0.246,572703,Luke Bard,3.09,0.214
+475253,Justin Smoak,1,4,3,0.263,572703,Luke Bard,3.09,0.214
+642133,Rowdy Tellez,2,4,4,0.238,572703,Luke Bard,3.09,0.214
+665489,Vladimir Guerrero Jr.,0,4,5,0.167,572703,Luke Bard,3.09,0.214
+592273,Brandon Drury,0,4,6,0.212,572703,Luke Bard,3.09,0.214
+641856,Billy McKinney,0,4,7,0.218,572703,Luke Bard,3.09,0.214
+606192,Teoscar Hernandez,0,4,8,0.208,572703,Luke Bard,3.09,0.214
+643376,Danny Jansen,2,4,9,0.2,572703,Luke Bard,3.09,0.214
+519299,Eric Sogard,0,4,1,0.37,572140,Tyler Skaggs,3.12,0.25
+520471,Freddy Galvis,0,4,2,0.286,572140,Tyler Skaggs,3.12,0.25
+545341,Randal Grichuk,2,4,3,0.254,572140,Tyler Skaggs,3.12,0.25
+475253,Justin Smoak,1,4,4,0.265,572140,Tyler Skaggs,3.12,0.25
+592273,Brandon Drury,1,4,5,0.213,572140,Tyler Skaggs,3.12,0.25
+642133,Rowdy Tellez,2,4,6,0.25,572140,Tyler Skaggs,3.12,0.25
+606192,Teoscar Hernandez,0,4,7,0.202,572140,Tyler Skaggs,3.12,0.25
+641856,Billy McKinney,0,1,8,0.216,572140,Tyler Skaggs,3.12,0.25
+593700,Alen Hanson,0,3,9,0.163,572140,Tyler Skaggs,3.12,0.25
+519299,Eric Sogard,2,5,1,0.38,501985,Mike Minor,2.4,0.19
+520471,Freddy Galvis,2,6,2,0.291,501985,Mike Minor,2.4,0.19
+545341,Randal Grichuk,2,6,3,0.258,501985,Mike Minor,2.4,0.19
+475253,Justin Smoak,0,6,4,0.252,501985,Mike Minor,2.4,0.19
+665489,Vladimir Guerrero Jr.,1,5,5,0.174,501985,Mike Minor,2.4,0.19
+642133,Rowdy Tellez,1,5,6,0.247,501985,Mike Minor,2.4,0.19
+592273,Brandon Drury,2,5,7,0.221,501985,Mike Minor,2.4,0.19
+606192,Teoscar Hernandez,1,5,8,0.202,501985,Mike Minor,2.4,0.19
+643376,Danny Jansen,0,0,9,0.192,501985,Mike Minor,2.4,0.19
+519299,Eric Sogard,1,5,1,0.377,458681,Lance Lynn,5.75,0.294
+520471,Freddy Galvis,1,5,2,0.287,458681,Lance Lynn,5.75,0.294
+475253,Justin Smoak,0,3,3,0.248,458681,Lance Lynn,5.75,0.294
+545341,Randal Grichuk,0,4,4,0.252,458681,Lance Lynn,5.75,0.294
+665489,Vladimir Guerrero Jr.,1,4,5,0.192,458681,Lance Lynn,5.75,0.294
+642133,Rowdy Tellez,2,4,6,0.258,458681,Lance Lynn,5.75,0.294
+641856,Billy McKinney,2,4,7,0.228,458681,Lance Lynn,5.75,0.294
+643376,Danny Jansen,1,4,8,0.195,458681,Lance Lynn,5.75,0.294
+593647,Socrates Brito,1,4,9,0.088,458681,Lance Lynn,5.75,0.294
+519299,Eric Sogard,1,4,1,0.375,592767,Drew Smyly,6.63,0.273
+520471,Freddy Galvis,0,4,2,0.277,592767,Drew Smyly,6.63,0.273
+593647,Socrates Brito,0,1,3,0.086,592767,Drew Smyly,6.63,0.273
+641856,Billy McKinney,1,1,4,0.237,592767,Drew Smyly,6.63,0.273
+665489,Vladimir Guerrero Jr.,0,4,5,0.167,592767,Drew Smyly,6.63,0.273
+642133,Rowdy Tellez,1,4,6,0.258,592767,Drew Smyly,6.63,0.273
+592273,Brandon Drury,0,3,7,0.216,592767,Drew Smyly,6.63,0.273
+606192,Teoscar Hernandez,1,3,8,0.206,592767,Drew Smyly,6.63,0.273
+643376,Danny Jansen,0,3,9,0.188,592767,Drew Smyly,6.63,0.273
+519299,Eric Sogard,0,4,1,0.35,527048,Martin Perez,2.83,0.237
+593647,Socrates Brito,0,1,2,0.083,527048,Martin Perez,2.83,0.237
+545341,Randal Grichuk,1,4,3,0.256,527048,Martin Perez,2.83,0.237
+475253,Justin Smoak,0,4,4,0.245,527048,Martin Perez,2.83,0.237
+665489,Vladimir Guerrero Jr.,0,3,5,0.152,527048,Martin Perez,2.83,0.237
+642133,Rowdy Tellez,1,3,6,0.26,527048,Martin Perez,2.83,0.237
+592273,Brandon Drury,0,3,7,0.21,527048,Martin Perez,2.83,0.237
+606192,Teoscar Hernandez,0,3,8,0.2,527048,Martin Perez,2.83,0.237
+643376,Danny Jansen,0,3,9,0.183,527048,Martin Perez,2.83,0.237
+520471,Freddy Galvis,0,4,1,0.27,621244,Jose Berrios,2.53,0.209
+475253,Justin Smoak,1,4,2,0.246,621244,Jose Berrios,2.53,0.209
+545341,Randal Grichuk,1,4,3,0.255,621244,Jose Berrios,2.53,0.209
+642133,Rowdy Tellez,0,4,4,0.25,621244,Jose Berrios,2.53,0.209
+665489,Vladimir Guerrero Jr.,1,4,5,0.162,621244,Jose Berrios,2.53,0.209
+641856,Billy McKinney,1,4,6,0.237,621244,Jose Berrios,2.53,0.209
+592273,Brandon Drury,1,3,7,0.213,621244,Jose Berrios,2.53,0.209
+606192,Teoscar Hernandez,0,3,8,0.195,621244,Jose Berrios,2.53,0.209
+571912,Luke Maile,1,3,9,0.15,621244,Jose Berrios,2.53,0.209
+519299,Eric Sogard,0,4,1,0.333,502043,Kyle Gibson,4.19,0.236
+520471,Freddy Galvis,1,4,2,0.269,502043,Kyle Gibson,4.19,0.236
+545341,Randal Grichuk,0,4,3,0.248,502043,Kyle Gibson,4.19,0.236
+475253,Justin Smoak,0,4,4,0.239,502043,Kyle Gibson,4.19,0.236
+642133,Rowdy Tellez,0,3,5,0.243,502043,Kyle Gibson,4.19,0.236
+641856,Billy McKinney,1,3,6,0.24,502043,Kyle Gibson,4.19,0.236
+592273,Brandon Drury,0,3,7,0.208,502043,Kyle Gibson,4.19,0.236
+593647,Socrates Brito,0,3,8,0.077,502043,Kyle Gibson,4.19,0.236
+571912,Luke Maile,0,3,9,0.14,502043,Kyle Gibson,4.19,0.236
+519299,Eric Sogard,1,4,1,0.328,592229,Dylan Covey,5.91,0.244
+665489,Vladimir Guerrero Jr.,0,4,2,0.146,592229,Dylan Covey,5.91,0.244
+475253,Justin Smoak,0,4,3,0.239,592229,Dylan Covey,5.91,0.244
+642133,Rowdy Tellez,1,4,4,0.245,592229,Dylan Covey,5.91,0.244
+545341,Randal Grichuk,1,4,5,0.248,592229,Dylan Covey,5.91,0.244
+520471,Freddy Galvis,0,4,6,0.261,592229,Dylan Covey,5.91,0.244
+606192,Teoscar Hernandez,1,4,7,0.2,592229,Dylan Covey,5.91,0.244
+643376,Danny Jansen,0,4,8,0.174,592229,Dylan Covey,5.91,0.244
+641505,Jonathan Davis,0,3,9,0.0,592229,Dylan Covey,5.91,0.244
+519299,Eric Sogard,0,4,1,0.31,467100,Ivan Nova,6.29,0.33
+665489,Vladimir Guerrero Jr.,2,4,2,0.186,467100,Ivan Nova,6.29,0.33
+475253,Justin Smoak,0,4,3,0.231,467100,Ivan Nova,6.29,0.33
+642133,Rowdy Tellez,0,4,4,0.237,467100,Ivan Nova,6.29,0.33
+545341,Randal Grichuk,2,4,5,0.255,467100,Ivan Nova,6.29,0.33
+520471,Freddy Galvis,2,4,6,0.27,467100,Ivan Nova,6.29,0.33
+606192,Teoscar Hernandez,0,4,7,0.193,467100,Ivan Nova,6.29,0.33
+641856,Billy McKinney,1,4,8,0.24,467100,Ivan Nova,6.29,0.33
+571912,Luke Maile,1,3,9,0.152,467100,Ivan Nova,6.29,0.33
+520471,Freddy Galvis,1,4,1,0.27,608337,Lucas Giolito,3.55,0.212
+665489,Vladimir Guerrero Jr.,1,4,2,0.191,608337,Lucas Giolito,3.55,0.212
+475253,Justin Smoak,0,4,3,0.224,608337,Lucas Giolito,3.55,0.212
+642133,Rowdy Tellez,1,4,4,0.237,608337,Lucas Giolito,3.55,0.212
+545341,Randal Grichuk,0,4,5,0.25,608337,Lucas Giolito,3.55,0.212
+592273,Brandon Drury,0,3,6,0.203,608337,Lucas Giolito,3.55,0.212
+606192,Teoscar Hernandez,1,3,7,0.197,608337,Lucas Giolito,3.55,0.212
+643376,Danny Jansen,0,3,8,0.169,608337,Lucas Giolito,3.55,0.212
+641505,Jonathan Davis,0,3,9,0.0,608337,Lucas Giolito,3.55,0.212
+519299,Eric Sogard,2,4,1,0.32,543883,Nick Vincent,3.24,0.255
+665489,Vladimir Guerrero Jr.,3,5,2,0.235,543883,Nick Vincent,3.24,0.255
+475253,Justin Smoak,0,5,3,0.219,543883,Nick Vincent,3.24,0.255
+545341,Randal Grichuk,1,5,4,0.25,543883,Nick Vincent,3.24,0.255
+520471,Freddy Galvis,1,5,5,0.267,543883,Nick Vincent,3.24,0.255
+641856,Billy McKinney,1,5,6,0.241,543883,Nick Vincent,3.24,0.255
+641505,Jonathan Davis,0,5,7,0.0,543883,Nick Vincent,3.24,0.255
+643376,Danny Jansen,0,4,8,0.163,543883,Nick Vincent,3.24,0.255
+571704,Ken Giles,0,0,9,0.0,543883,Nick Vincent,3.24,0.255
+592273,Brandon Drury,1,4,1,0.206,641312,Shaun Anderson,3.6,0.111
+665489,Vladimir Guerrero Jr.,0,4,2,0.222,641312,Shaun Anderson,3.6,0.111
+641505,Jonathan Davis,0,0,3,0.0,641312,Shaun Anderson,3.6,0.111
+545341,Randal Grichuk,1,4,4,0.252,641312,Shaun Anderson,3.6,0.111
+520471,Freddy Galvis,2,4,5,0.273,641312,Shaun Anderson,3.6,0.111
+606192,Teoscar Hernandez,0,4,6,0.189,641312,Shaun Anderson,3.6,0.111
+641856,Billy McKinney,0,4,7,0.232,641312,Shaun Anderson,3.6,0.111
+475253,Justin Smoak,0,1,8,0.217,641312,Shaun Anderson,3.6,0.111
+543339,Daniel Hudson,0,0,9,0.0,641312,Shaun Anderson,3.6,0.111
+519299,Eric Sogard,0,3,1,0.308,592229,Dylan Covey,4.41,0.197
+665489,Vladimir Guerrero Jr.,0,4,2,0.207,592229,Dylan Covey,4.41,0.197
+475253,Justin Smoak,0,4,3,0.214,592229,Dylan Covey,4.41,0.197
+545341,Randal Grichuk,0,4,4,0.245,592229,Dylan Covey,4.41,0.197
+520471,Freddy Galvis,1,4,5,0.273,592229,Dylan Covey,4.41,0.197
+592273,Brandon Drury,1,4,6,0.207,592229,Dylan Covey,4.41,0.197
+641856,Billy McKinney,0,4,7,0.224,592229,Dylan Covey,4.41,0.197
+641505,Jonathan Davis,0,3,8,0.0,592229,Dylan Covey,4.41,0.197
+643376,Danny Jansen,0,3,9,0.16,592229,Dylan Covey,4.41,0.197
+519299,Eric Sogard,2,6,1,0.313,467100,Ivan Nova,7.42,0.343
+620446,Richard Urena,0,1,2,0.303,467100,Ivan Nova,7.42,0.343
+475253,Justin Smoak,1,5,3,0.218,467100,Ivan Nova,7.42,0.343
+642133,Rowdy Tellez,1,5,4,0.236,467100,Ivan Nova,7.42,0.343
+545341,Randal Grichuk,2,5,5,0.25,467100,Ivan Nova,7.42,0.343
+520471,Freddy Galvis,1,5,6,0.27,467100,Ivan Nova,7.42,0.343
+592273,Brandon Drury,1,4,7,0.209,467100,Ivan Nova,7.42,0.343
+641856,Billy McKinney,4,5,8,0.248,467100,Ivan Nova,7.42,0.343
+643376,Danny Jansen,2,5,9,0.173,467100,Ivan Nova,7.42,0.343
+641856,Billy McKinney,0,3,1,0.242,608337,Lucas Giolito,3.35,0.208
+665489,Vladimir Guerrero Jr.,1,2,2,0.219,608337,Lucas Giolito,3.35,0.208
+475253,Justin Smoak,0,2,3,0.215,608337,Lucas Giolito,3.35,0.208
+642133,Rowdy Tellez,1,2,4,0.242,608337,Lucas Giolito,3.35,0.208
+545341,Randal Grichuk,0,2,5,0.249,608337,Lucas Giolito,3.35,0.208
+520471,Freddy Galvis,1,2,6,0.273,608337,Lucas Giolito,3.35,0.208
+592273,Brandon Drury,0,2,7,0.206,608337,Lucas Giolito,3.35,0.208
+620446,Richard Urena,0,2,8,0.286,608337,Lucas Giolito,3.35,0.208
+571912,Luke Maile,0,2,9,0.137,608337,Lucas Giolito,3.35,0.208
+519299,Eric Sogard,0,5,1,0.295,625643,Reynaldo Lopez,5.14,0.271
+665489,Vladimir Guerrero Jr.,2,4,2,0.235,625643,Reynaldo Lopez,5.14,0.271
+475253,Justin Smoak,1,4,3,0.217,625643,Reynaldo Lopez,5.14,0.271
+642133,Rowdy Tellez,1,4,4,0.242,625643,Reynaldo Lopez,5.14,0.271
+545341,Randal Grichuk,0,4,5,0.243,625643,Reynaldo Lopez,5.14,0.271
+520471,Freddy Galvis,0,4,6,0.268,625643,Reynaldo Lopez,5.14,0.271
+641856,Billy McKinney,1,4,7,0.242,625643,Reynaldo Lopez,5.14,0.271
+643376,Danny Jansen,2,4,8,0.186,625643,Reynaldo Lopez,5.14,0.271
+641505,Jonathan Davis,1,4,9,0.056,625643,Reynaldo Lopez,5.14,0.271
+641505,Jonathan Davis,1,4,1,0.091,456034,David Price,3.29,0.225
+592273,Brandon Drury,0,4,2,0.2,456034,David Price,3.29,0.225
+475253,Justin Smoak,1,4,3,0.218,456034,David Price,3.29,0.225
+545341,Randal Grichuk,0,4,4,0.237,456034,David Price,3.29,0.225
+520471,Freddy Galvis,0,4,5,0.263,456034,David Price,3.29,0.225
+643376,Danny Jansen,0,3,6,0.181,456034,David Price,3.29,0.225
+641856,Billy McKinney,0,3,7,0.237,456034,David Price,3.29,0.225
+620446,Richard Urena,0,3,8,0.263,456034,David Price,3.29,0.225
+571912,Luke Maile,1,3,9,0.148,456034,David Price,3.29,0.225
+641505,Jonathan Davis,1,5,1,0.111,593958,Eduardo Rodriguez,5.43,0.28
+665489,Vladimir Guerrero Jr.,2,5,2,0.247,593958,Eduardo Rodriguez,5.43,0.28
+475253,Justin Smoak,0,4,3,0.214,593958,Eduardo Rodriguez,5.43,0.28
+642133,Rowdy Tellez,2,5,4,0.248,593958,Eduardo Rodriguez,5.43,0.28
+545341,Randal Grichuk,2,4,5,0.243,593958,Eduardo Rodriguez,5.43,0.28
+520471,Freddy Galvis,1,4,6,0.266,593958,Eduardo Rodriguez,5.43,0.28
+641856,Billy McKinney,0,4,7,0.231,593958,Eduardo Rodriguez,5.43,0.28
+643376,Danny Jansen,1,4,8,0.183,593958,Eduardo Rodriguez,5.43,0.28
+592273,Brandon Drury,2,4,9,0.209,593958,Eduardo Rodriguez,5.43,0.28
+519299,Eric Sogard,0,6,1,0.277,519144,Rick Porcello,4.45,0.249
+665489,Vladimir Guerrero Jr.,2,6,2,0.253,519144,Rick Porcello,4.45,0.249
+620446,Richard Urena,0,1,3,0.256,519144,Rick Porcello,4.45,0.249
+642133,Rowdy Tellez,2,6,4,0.254,519144,Rick Porcello,4.45,0.249
+545341,Randal Grichuk,1,6,5,0.241,519144,Rick Porcello,4.45,0.249
+520471,Freddy Galvis,1,6,6,0.263,519144,Rick Porcello,4.45,0.249
+592273,Brandon Drury,2,6,7,0.214,519144,Rick Porcello,4.45,0.249
+641856,Billy McKinney,0,4,8,0.226,519144,Rick Porcello,4.45,0.249
+643376,Danny Jansen,1,2,9,0.189,519144,Rick Porcello,4.45,0.249
+519299,Eric Sogard,0,4,1,0.265,543901,Ryan Weber,1.29,0.208
+665489,Vladimir Guerrero Jr.,0,4,2,0.241,543901,Ryan Weber,1.29,0.208
+475253,Justin Smoak,1,4,3,0.221,543901,Ryan Weber,1.29,0.208
+642133,Rowdy Tellez,1,3,4,0.255,543901,Ryan Weber,1.29,0.208
+592273,Brandon Drury,2,4,5,0.222,543901,Ryan Weber,1.29,0.208
+620446,Richard Urena,0,1,6,0.25,543901,Ryan Weber,1.29,0.208
+641856,Billy McKinney,0,3,7,0.221,543901,Ryan Weber,1.29,0.208
+643376,Danny Jansen,0,3,8,0.184,543901,Ryan Weber,1.29,0.208
+641505,Jonathan Davis,0,3,9,0.094,543901,Ryan Weber,1.29,0.208
+592273,Brandon Drury,0,4,1,0.216,664192,Joey Lucchesi,4.25,0.241
+665489,Vladimir Guerrero Jr.,0,4,2,0.23,664192,Joey Lucchesi,4.25,0.241
+475253,Justin Smoak,0,3,3,0.217,664192,Joey Lucchesi,4.25,0.241
+642133,Rowdy Tellez,0,4,4,0.248,664192,Joey Lucchesi,4.25,0.241
+545341,Randal Grichuk,0,4,5,0.237,664192,Joey Lucchesi,4.25,0.241
+520471,Freddy Galvis,2,3,6,0.271,664192,Joey Lucchesi,4.25,0.241
+666971,Lourdes Gurriel Jr.,1,3,7,0.186,664192,Joey Lucchesi,4.25,0.241
+624415,Cavan Biggio,0,3,8,0.0,664192,Joey Lucchesi,4.25,0.241
+643376,Danny Jansen,0,3,9,0.179,664192,Joey Lucchesi,4.25,0.241
+520471,Freddy Galvis,1,4,1,0.27,615698,Cal Quantrill,5.14,0.284
+665489,Vladimir Guerrero Jr.,0,4,2,0.222,615698,Cal Quantrill,5.14,0.284
+475253,Justin Smoak,1,4,3,0.219,615698,Cal Quantrill,5.14,0.284
+643376,Danny Jansen,0,1,4,0.178,615698,Cal Quantrill,5.14,0.284
+545341,Randal Grichuk,0,4,5,0.232,615698,Cal Quantrill,5.14,0.284
+666971,Lourdes Gurriel Jr.,1,3,6,0.196,615698,Cal Quantrill,5.14,0.284
+624415,Cavan Biggio,0,3,7,0.0,615698,Cal Quantrill,5.14,0.284
+641505,Jonathan Davis,1,3,8,0.114,615698,Cal Quantrill,5.14,0.284
+571912,Luke Maile,0,3,9,0.136,615698,Cal Quantrill,5.14,0.284
+519299,Eric Sogard,2,5,1,0.272,572362,Robbie Erlin,3.7,0.258
+665489,Vladimir Guerrero Jr.,3,5,2,0.242,572362,Robbie Erlin,3.7,0.258
+475253,Justin Smoak,2,5,3,0.224,572362,Robbie Erlin,3.7,0.258
+545341,Randal Grichuk,2,5,4,0.237,572362,Robbie Erlin,3.7,0.258
+520471,Freddy Galvis,0,5,5,0.263,572362,Robbie Erlin,3.7,0.258
+666971,Lourdes Gurriel Jr.,4,4,6,0.26,572362,Robbie Erlin,3.7,0.258
+624415,Cavan Biggio,3,4,7,0.3,572362,Robbie Erlin,3.7,0.258
+592273,Brandon Drury,1,4,8,0.217,572362,Robbie Erlin,3.7,0.258
+643376,Danny Jansen,0,4,9,0.172,572362,Robbie Erlin,3.7,0.258
+519299,Eric Sogard,0,4,1,0.264,630023,Yonny Chirinos,2.91,0.193
+665489,Vladimir Guerrero Jr.,0,4,2,0.235,630023,Yonny Chirinos,2.91,0.193
+642133,Rowdy Tellez,0,4,3,0.237,630023,Yonny Chirinos,2.91,0.193
+545341,Randal Grichuk,0,4,4,0.233,630023,Yonny Chirinos,2.91,0.193
+520471,Freddy Galvis,1,4,5,0.264,630023,Yonny Chirinos,2.91,0.193
+666971,Lourdes Gurriel Jr.,1,4,6,0.264,630023,Yonny Chirinos,2.91,0.193
+624415,Cavan Biggio,0,4,7,0.231,630023,Yonny Chirinos,2.91,0.193
+641505,Jonathan Davis,1,4,8,0.128,630023,Yonny Chirinos,2.91,0.193
+571912,Luke Maile,1,3,9,0.145,630023,Yonny Chirinos,2.91,0.193
+519299,Eric Sogard,0,4,1,0.257,592773,Ryne Stanek,2.67,0.191
+665489,Vladimir Guerrero Jr.,0,4,2,0.225,592773,Ryne Stanek,2.67,0.191
+475253,Justin Smoak,2,4,3,0.231,592773,Ryne Stanek,2.67,0.191
+642133,Rowdy Tellez,1,4,4,0.238,592773,Ryne Stanek,2.67,0.191
+545341,Randal Grichuk,1,4,5,0.233,592773,Ryne Stanek,2.67,0.191
+666971,Lourdes Gurriel Jr.,1,4,6,0.263,592773,Ryne Stanek,2.67,0.191
+592273,Brandon Drury,1,3,7,0.22,592773,Ryne Stanek,2.67,0.191
+643376,Danny Jansen,0,4,8,0.167,592773,Ryne Stanek,2.67,0.191
+641505,Jonathan Davis,0,3,9,0.119,592773,Ryne Stanek,2.67,0.191
+519299,Eric Sogard,2,6,1,0.261,605483,Blake Snell,3.06,0.214
+666971,Lourdes Gurriel Jr.,2,6,2,0.27,605483,Blake Snell,3.06,0.214
+624415,Cavan Biggio,0,1,3,0.214,605483,Blake Snell,3.06,0.214
+642133,Rowdy Tellez,1,5,4,0.238,605483,Blake Snell,3.06,0.214
+545341,Randal Grichuk,0,5,5,0.23,605483,Blake Snell,3.06,0.214
+520471,Freddy Galvis,1,5,6,0.263,605483,Blake Snell,3.06,0.214
+592273,Brandon Drury,2,5,7,0.225,605483,Blake Snell,3.06,0.214
+643376,Danny Jansen,0,5,8,0.163,605483,Blake Snell,3.06,0.214
+665489,Vladimir Guerrero Jr.,1,3,9,0.229,605483,Blake Snell,3.06,0.214
+571882,Derek Law,0,0,1,0.0,608566,German Marquez,3.48,0.246
+665489,Vladimir Guerrero Jr.,3,5,2,0.248,608566,German Marquez,3.48,0.246
+592273,Brandon Drury,1,2,3,0.229,608566,German Marquez,3.48,0.246
+666971,Lourdes Gurriel Jr.,1,5,4,0.265,608566,German Marquez,3.48,0.246
+545341,Randal Grichuk,1,4,5,0.23,608566,German Marquez,3.48,0.246
+624415,Cavan Biggio,2,4,6,0.278,608566,German Marquez,3.48,0.246
+641505,Jonathan Davis,1,4,7,0.152,608566,German Marquez,3.48,0.246
+571912,Luke Maile,1,4,8,0.154,608566,German Marquez,3.48,0.246
+519299,Eric Sogard,1,2,9,0.265,608566,German Marquez,3.48,0.246
+520471,Freddy Galvis,0,4,1,0.252,592351,Jon Gray,4.11,0.248
+665489,Vladimir Guerrero Jr.,1,4,2,0.248,592351,Jon Gray,4.11,0.248
+475253,Justin Smoak,1,4,3,0.237,592351,Jon Gray,4.11,0.248
+666971,Lourdes Gurriel Jr.,1,4,4,0.264,592351,Jon Gray,4.11,0.248
+545341,Randal Grichuk,0,4,5,0.226,592351,Jon Gray,4.11,0.248
+624415,Cavan Biggio,0,4,6,0.25,592351,Jon Gray,4.11,0.248
+643376,Danny Jansen,1,4,7,0.167,592351,Jon Gray,4.11,0.248
+642133,Rowdy Tellez,0,1,8,0.234,592351,Jon Gray,4.11,0.248
+571704,Ken Giles,0,0,9,0.0,592351,Jon Gray,4.11,0.248
+519299,Eric Sogard,2,5,1,0.268,622608,Antonio Senzatela,5.33,0.296
+665489,Vladimir Guerrero Jr.,1,4,2,0.248,622608,Antonio Senzatela,5.33,0.296
+475253,Justin Smoak,1,4,3,0.24,622608,Antonio Senzatela,5.33,0.296
+545341,Randal Grichuk,0,4,4,0.222,622608,Antonio Senzatela,5.33,0.296
+624415,Cavan Biggio,0,4,5,0.217,622608,Antonio Senzatela,5.33,0.296
+592273,Brandon Drury,0,4,6,0.225,622608,Antonio Senzatela,5.33,0.296
+520471,Freddy Galvis,0,4,7,0.248,622608,Antonio Senzatela,5.33,0.296
+571912,Luke Maile,2,4,8,0.174,622608,Antonio Senzatela,5.33,0.296
+666971,Lourdes Gurriel Jr.,0,1,9,0.26,622608,Antonio Senzatela,5.33,0.296
+519299,Eric Sogard,3,4,1,0.283,547888,Masahiro Tanaka,3.42,0.247
+665489,Vladimir Guerrero Jr.,1,4,2,0.248,547888,Masahiro Tanaka,3.42,0.247
+475253,Justin Smoak,1,4,3,0.242,547888,Masahiro Tanaka,3.42,0.247
+642133,Rowdy Tellez,1,4,4,0.233,547888,Masahiro Tanaka,3.42,0.247
+545341,Randal Grichuk,1,4,5,0.222,547888,Masahiro Tanaka,3.42,0.247
+641505,Jonathan Davis,0,0,6,0.143,547888,Masahiro Tanaka,3.42,0.247
+666971,Lourdes Gurriel Jr.,0,3,7,0.25,547888,Masahiro Tanaka,3.42,0.247
+520471,Freddy Galvis,1,3,8,0.249,547888,Masahiro Tanaka,3.42,0.247
+643376,Danny Jansen,0,3,9,0.163,547888,Masahiro Tanaka,3.42,0.247
+666971,Lourdes Gurriel Jr.,0,5,1,0.241,572020,James Paxton,3.11,0.213
+665489,Vladimir Guerrero Jr.,2,5,2,0.256,572020,James Paxton,3.11,0.213
+475253,Justin Smoak,0,5,3,0.235,572020,James Paxton,3.11,0.213
+545341,Randal Grichuk,2,4,4,0.227,572020,James Paxton,3.11,0.213
+592273,Brandon Drury,2,5,5,0.23,572020,James Paxton,3.11,0.213
+606192,Teoscar Hernandez,2,5,6,0.197,572020,James Paxton,3.11,0.213
+624415,Cavan Biggio,1,4,7,0.214,572020,James Paxton,3.11,0.213
+520471,Freddy Galvis,0,4,8,0.244,572020,James Paxton,3.11,0.213
+571912,Luke Maile,0,0,9,0.174,572020,James Paxton,3.11,0.213
+519299,Eric Sogard,2,4,1,0.29,457918,J.A. Happ,4.48,0.245
+665489,Vladimir Guerrero Jr.,0,4,2,0.248,457918,J.A. Happ,4.48,0.245
+475253,Justin Smoak,1,4,3,0.236,457918,J.A. Happ,4.48,0.245
+545341,Randal Grichuk,2,4,4,0.232,457918,J.A. Happ,4.48,0.245
+666971,Lourdes Gurriel Jr.,1,4,5,0.241,457918,J.A. Happ,4.48,0.245
+606192,Teoscar Hernandez,0,4,6,0.191,457918,J.A. Happ,4.48,0.245
+520471,Freddy Galvis,0,4,7,0.24,457918,J.A. Happ,4.48,0.245
+592273,Brandon Drury,1,3,8,0.231,457918,J.A. Happ,4.48,0.245
+571912,Luke Maile,1,3,9,0.181,457918,J.A. Happ,4.48,0.245
+519299,Eric Sogard,0,4,1,0.281,518876,Merrill Kelly,4.12,0.265
+665489,Vladimir Guerrero Jr.,0,4,2,0.241,518876,Merrill Kelly,4.12,0.265
+642133,Rowdy Tellez,0,4,3,0.227,518876,Merrill Kelly,4.12,0.265
+545341,Randal Grichuk,1,4,4,0.232,518876,Merrill Kelly,4.12,0.265
+666971,Lourdes Gurriel Jr.,2,4,5,0.253,518876,Merrill Kelly,4.12,0.265
+624415,Cavan Biggio,0,4,6,0.194,518876,Merrill Kelly,4.12,0.265
+606192,Teoscar Hernandez,1,3,7,0.194,518876,Merrill Kelly,4.12,0.265
+520471,Freddy Galvis,1,3,8,0.241,518876,Merrill Kelly,4.12,0.265
+643376,Danny Jansen,0,3,9,0.164,518876,Merrill Kelly,4.12,0.265
+624415,Cavan Biggio,0,4,1,0.176,425844,Zack Greinke,2.87,0.214
+665489,Vladimir Guerrero Jr.,2,4,2,0.248,425844,Zack Greinke,2.87,0.214
+475253,Justin Smoak,1,4,3,0.237,425844,Zack Greinke,2.87,0.214
+545341,Randal Grichuk,0,4,4,0.228,425844,Zack Greinke,2.87,0.214
+666971,Lourdes Gurriel Jr.,1,4,5,0.253,425844,Zack Greinke,2.87,0.214
+642133,Rowdy Tellez,0,4,6,0.222,425844,Zack Greinke,2.87,0.214
+606192,Teoscar Hernandez,1,4,7,0.196,425844,Zack Greinke,2.87,0.214
+592273,Brandon Drury,0,3,8,0.229,425844,Zack Greinke,2.87,0.214
+571912,Luke Maile,0,3,9,0.173,425844,Zack Greinke,2.87,0.214
+519299,Eric Sogard,0,4,1,0.273,592662,Robbie Ray,3.54,0.232
+666971,Lourdes Gurriel Jr.,2,4,2,0.263,592662,Robbie Ray,3.54,0.232
+545341,Randal Grichuk,0,4,3,0.224,592662,Robbie Ray,3.54,0.232
+475253,Justin Smoak,1,4,4,0.237,592662,Robbie Ray,3.54,0.232
+606192,Teoscar Hernandez,1,4,5,0.197,592662,Robbie Ray,3.54,0.232
+624415,Cavan Biggio,0,4,6,0.158,592662,Robbie Ray,3.54,0.232
+520471,Freddy Galvis,1,4,7,0.241,592662,Robbie Ray,3.54,0.232
+643376,Danny Jansen,2,4,8,0.175,592662,Robbie Ray,3.54,0.232
+592273,Brandon Drury,0,3,9,0.225,592662,Robbie Ray,3.54,0.232
+519299,Eric Sogard,2,4,1,0.28,607644,John Means,2.6,0.22
+665489,Vladimir Guerrero Jr.,0,4,2,0.243,607644,John Means,2.6,0.22
+666971,Lourdes Gurriel Jr.,0,4,3,0.255,607644,John Means,2.6,0.22
+545341,Randal Grichuk,1,4,4,0.226,607644,John Means,2.6,0.22
+475253,Justin Smoak,0,4,5,0.233,607644,John Means,2.6,0.22
+606192,Teoscar Hernandez,1,4,6,0.199,607644,John Means,2.6,0.22
+520471,Freddy Galvis,1,4,7,0.241,607644,John Means,2.6,0.22
+643376,Danny Jansen,0,4,8,0.17,607644,John Means,2.6,0.22
+592273,Brandon Drury,0,3,9,0.223,607644,John Means,2.6,0.22
+624415,Cavan Biggio,0,5,1,0.146,605276,David Hess,6.78,0.278
+665489,Vladimir Guerrero Jr.,3,5,2,0.255,605276,David Hess,6.78,0.278
+666971,Lourdes Gurriel Jr.,2,5,3,0.265,605276,David Hess,6.78,0.278
+545341,Randal Grichuk,0,5,4,0.221,605276,David Hess,6.78,0.278
+475253,Justin Smoak,0,5,5,0.229,605276,David Hess,6.78,0.278
+606192,Teoscar Hernandez,2,5,6,0.205,605276,David Hess,6.78,0.278
+642133,Rowdy Tellez,2,5,7,0.227,605276,David Hess,6.78,0.278
+520471,Freddy Galvis,0,5,8,0.236,605276,David Hess,6.78,0.278
+571912,Luke Maile,1,4,9,0.179,605276,David Hess,6.78,0.278
+519299,Eric Sogard,2,6,1,0.282,593679,Gabriel Ynoa,5.02,0.275
+592273,Brandon Drury,0,1,2,0.222,593679,Gabriel Ynoa,5.02,0.275
+666971,Lourdes Gurriel Jr.,3,5,3,0.28,593679,Gabriel Ynoa,5.02,0.275
+475253,Justin Smoak,1,5,4,0.229,593679,Gabriel Ynoa,5.02,0.275
+642133,Rowdy Tellez,1,5,5,0.226,593679,Gabriel Ynoa,5.02,0.275
+606192,Teoscar Hernandez,1,5,6,0.206,593679,Gabriel Ynoa,5.02,0.275
+624415,Cavan Biggio,2,5,7,0.178,593679,Gabriel Ynoa,5.02,0.275
+520471,Freddy Galvis,1,5,8,0.238,593679,Gabriel Ynoa,5.02,0.275
+643376,Danny Jansen,3,5,9,0.184,593679,Gabriel Ynoa,5.02,0.275
+624415,Cavan Biggio,1,4,1,0.184,543037,Gerrit Cole,3.67,0.202
+519299,Eric Sogard,0,3,2,0.276,543037,Gerrit Cole,3.67,0.202
+666971,Lourdes Gurriel Jr.,1,4,3,0.279,543037,Gerrit Cole,3.67,0.202
+642133,Rowdy Tellez,0,4,4,0.222,543037,Gerrit Cole,3.67,0.202
+475253,Justin Smoak,0,4,5,0.225,543037,Gerrit Cole,3.67,0.202
+545341,Randal Grichuk,0,4,6,0.218,543037,Gerrit Cole,3.67,0.202
+520471,Freddy Galvis,2,4,7,0.243,543037,Gerrit Cole,3.67,0.202
+592273,Brandon Drury,0,4,8,0.217,543037,Gerrit Cole,3.67,0.202
+571912,Luke Maile,1,3,9,0.185,543037,Gerrit Cole,3.67,0.202
+519299,Eric Sogard,2,3,1,0.284,664285,Framber Valdez,2.77,0.217
+545341,Randal Grichuk,0,4,2,0.215,664285,Framber Valdez,2.77,0.217
+666971,Lourdes Gurriel Jr.,0,4,3,0.27,664285,Framber Valdez,2.77,0.217
+606192,Teoscar Hernandez,0,4,4,0.204,664285,Framber Valdez,2.77,0.217
+642133,Rowdy Tellez,0,4,5,0.217,664285,Framber Valdez,2.77,0.217
+520471,Freddy Galvis,2,4,6,0.247,664285,Framber Valdez,2.77,0.217
+624415,Cavan Biggio,1,4,7,0.189,664285,Framber Valdez,2.77,0.217
+643376,Danny Jansen,0,3,8,0.181,664285,Framber Valdez,2.77,0.217
+592273,Brandon Drury,1,3,9,0.219,664285,Framber Valdez,2.77,0.217
+519299,Eric Sogard,2,5,1,0.291,502748,Brad Peacock,3.67,0.216
+665489,Vladimir Guerrero Jr.,1,5,2,0.266,502748,Brad Peacock,3.67,0.216
+666971,Lourdes Gurriel Jr.,2,4,3,0.277,502748,Brad Peacock,3.67,0.216
+642133,Rowdy Tellez,1,5,4,0.217,502748,Brad Peacock,3.67,0.216
+606192,Teoscar Hernandez,2,5,5,0.211,502748,Brad Peacock,3.67,0.216
+624415,Cavan Biggio,2,5,6,0.207,502748,Brad Peacock,3.67,0.216
+545341,Randal Grichuk,1,5,7,0.215,502748,Brad Peacock,3.67,0.216
+520471,Freddy Galvis,3,5,8,0.254,502748,Brad Peacock,3.67,0.216
+643376,Danny Jansen,0,5,9,0.175,502748,Brad Peacock,3.67,0.216
+519299,Eric Sogard,2,5,1,0.294,472610,Luis Garcia,4.85,0.242
+624415,Cavan Biggio,2,4,2,0.233,472610,Luis Garcia,4.85,0.242
+665489,Vladimir Guerrero Jr.,0,4,3,0.259,472610,Luis Garcia,4.85,0.242
+642133,Rowdy Tellez,0,4,4,0.213,472610,Luis Garcia,4.85,0.242
+666971,Lourdes Gurriel Jr.,0,2,5,0.275,472610,Luis Garcia,4.85,0.242
+545341,Randal Grichuk,2,4,6,0.219,472610,Luis Garcia,4.85,0.242
+520471,Freddy Galvis,2,4,7,0.258,472610,Luis Garcia,4.85,0.242
+592273,Brandon Drury,0,4,8,0.215,472610,Luis Garcia,4.85,0.242
+571912,Luke Maile,0,4,9,0.176,472610,Luis Garcia,4.85,0.242
+519299,Eric Sogard,0,4,1,0.287,572140,Tyler Skaggs,4.61,0.25
+665489,Vladimir Guerrero Jr.,0,4,2,0.253,572140,Tyler Skaggs,4.61,0.25
+666971,Lourdes Gurriel Jr.,1,3,3,0.276,572140,Tyler Skaggs,4.61,0.25
+624415,Cavan Biggio,0,3,4,0.222,572140,Tyler Skaggs,4.61,0.25
+545341,Randal Grichuk,1,3,5,0.221,572140,Tyler Skaggs,4.61,0.25
+642133,Rowdy Tellez,1,3,6,0.214,572140,Tyler Skaggs,4.61,0.25
+520471,Freddy Galvis,0,3,7,0.255,572140,Tyler Skaggs,4.61,0.25
+643376,Danny Jansen,0,3,8,0.172,572140,Tyler Skaggs,4.61,0.25
+592273,Brandon Drury,0,3,9,0.212,572140,Tyler Skaggs,4.61,0.25
+519299,Eric Sogard,2,5,1,0.291,571760,Andrew Heaney,5.68,0.198
+665489,Vladimir Guerrero Jr.,1,5,2,0.255,571760,Andrew Heaney,5.68,0.198
+666971,Lourdes Gurriel Jr.,0,5,3,0.268,571760,Andrew Heaney,5.68,0.198
+545341,Randal Grichuk,0,5,4,0.217,571760,Andrew Heaney,5.68,0.198
+520471,Freddy Galvis,1,4,5,0.255,571760,Andrew Heaney,5.68,0.198
+624415,Cavan Biggio,0,4,6,0.212,571760,Andrew Heaney,5.68,0.198
+643376,Danny Jansen,0,4,7,0.17,571760,Andrew Heaney,5.68,0.198
+642133,Rowdy Tellez,2,4,8,0.22,571760,Andrew Heaney,5.68,0.198
+592273,Brandon Drury,0,4,9,0.208,571760,Andrew Heaney,5.68,0.198
+519299,Eric Sogard,3,5,1,0.303,660761,Jose Suarez,5.57,0.275
+665489,Vladimir Guerrero Jr.,0,5,2,0.249,660761,Jose Suarez,5.57,0.275
+666971,Lourdes Gurriel Jr.,3,5,3,0.28,660761,Jose Suarez,5.57,0.275
+624415,Cavan Biggio,0,4,4,0.203,660761,Jose Suarez,5.57,0.275
+606192,Teoscar Hernandez,1,5,5,0.208,660761,Jose Suarez,5.57,0.275
+545341,Randal Grichuk,2,5,6,0.221,660761,Jose Suarez,5.57,0.275
+641856,Billy McKinney,1,1,7,0.227,660761,Jose Suarez,5.57,0.275
+520471,Freddy Galvis,2,4,8,0.258,660761,Jose Suarez,5.57,0.275
+571912,Luke Maile,0,4,9,0.169,660761,Jose Suarez,5.57,0.275
+519299,Eric Sogard,4,6,1,0.315,519242,Chris Sale,3.59,0.209
+665489,Vladimir Guerrero Jr.,1,5,2,0.247,519242,Chris Sale,3.59,0.209
+666971,Lourdes Gurriel Jr.,0,5,3,0.27,519242,Chris Sale,3.59,0.209
+606192,Teoscar Hernandez,0,5,4,0.205,519242,Chris Sale,3.59,0.209
+545341,Randal Grichuk,3,5,5,0.228,519242,Chris Sale,3.59,0.209
+520471,Freddy Galvis,2,5,6,0.261,519242,Chris Sale,3.59,0.209
+624415,Cavan Biggio,0,1,7,0.203,519242,Chris Sale,3.59,0.209
+641856,Billy McKinney,0,4,8,0.221,519242,Chris Sale,3.59,0.209
+571912,Luke Maile,0,0,9,0.169,519242,Chris Sale,3.59,0.209
+519299,Eric Sogard,0,5,1,0.308,598271,Brian Johnson,6.43,0.349
+665489,Vladimir Guerrero Jr.,2,5,2,0.253,598271,Brian Johnson,6.43,0.349
+666971,Lourdes Gurriel Jr.,2,5,3,0.275,598271,Brian Johnson,6.43,0.349
+545341,Randal Grichuk,0,5,4,0.224,598271,Brian Johnson,6.43,0.349
+606192,Teoscar Hernandez,2,5,5,0.21,598271,Brian Johnson,6.43,0.349
+624415,Cavan Biggio,2,5,6,0.216,598271,Brian Johnson,6.43,0.349
+520471,Freddy Galvis,1,4,7,0.261,598271,Brian Johnson,6.43,0.349
+642133,Rowdy Tellez,1,4,8,0.219,598271,Brian Johnson,6.43,0.349
+643376,Danny Jansen,0,0,9,0.166,598271,Brian Johnson,6.43,0.349
+519299,Eric Sogard,1,5,1,0.305,519144,Rick Porcello,4.52,0.261
+665489,Vladimir Guerrero Jr.,0,5,2,0.246,519144,Rick Porcello,4.52,0.261
+666971,Lourdes Gurriel Jr.,3,5,3,0.286,519144,Rick Porcello,4.52,0.261
+624415,Cavan Biggio,1,5,4,0.218,519144,Rick Porcello,4.52,0.261
+520471,Freddy Galvis,1,5,5,0.262,519144,Rick Porcello,4.52,0.261
+545341,Randal Grichuk,0,4,6,0.221,519144,Rick Porcello,4.52,0.261
+606192,Teoscar Hernandez,0,0,7,0.21,519144,Rick Porcello,4.52,0.261
+592273,Brandon Drury,1,4,8,0.21,519144,Rick Porcello,4.52,0.261
+643376,Danny Jansen,1,4,9,0.168,519144,Rick Porcello,4.52,0.261
+519299,Eric Sogard,1,5,1,0.306,282332,CC Sabathia,4.04,0.256
+665489,Vladimir Guerrero Jr.,3,5,2,0.255,282332,CC Sabathia,4.04,0.256
+666971,Lourdes Gurriel Jr.,2,5,3,0.289,282332,CC Sabathia,4.04,0.256
+624415,Cavan Biggio,1,5,4,0.217,282332,CC Sabathia,4.04,0.256
+545341,Randal Grichuk,3,5,5,0.227,282332,CC Sabathia,4.04,0.256
+642133,Rowdy Tellez,2,4,6,0.23,282332,CC Sabathia,4.04,0.256
+520471,Freddy Galvis,2,5,7,0.264,282332,CC Sabathia,4.04,0.256
+641856,Billy McKinney,0,4,8,0.215,282332,CC Sabathia,4.04,0.256
+571912,Luke Maile,0,4,9,0.158,282332,CC Sabathia,4.04,0.256
+519299,Eric Sogard,0,3,1,0.301,643338,Chad Green,6.49,0.312
+665489,Vladimir Guerrero Jr.,1,4,2,0.255,643338,Chad Green,6.49,0.312
+666971,Lourdes Gurriel Jr.,2,4,3,0.295,643338,Chad Green,6.49,0.312
+624415,Cavan Biggio,1,3,4,0.221,643338,Chad Green,6.49,0.312
+606192,Teoscar Hernandez,0,4,5,0.205,643338,Chad Green,6.49,0.312
+642133,Rowdy Tellez,0,4,6,0.226,643338,Chad Green,6.49,0.312
+545341,Randal Grichuk,1,4,7,0.228,643338,Chad Green,6.49,0.312
+520471,Freddy Galvis,1,4,8,0.264,643338,Chad Green,6.49,0.312
+643376,Danny Jansen,1,3,9,0.17,643338,Chad Green,6.49,0.312
+624415,Cavan Biggio,3,5,1,0.244,572020,James Paxton,4.34,0.258
+665489,Vladimir Guerrero Jr.,0,5,2,0.25,572020,James Paxton,4.34,0.258
+666971,Lourdes Gurriel Jr.,3,5,3,0.304,572020,James Paxton,4.34,0.258
+545341,Randal Grichuk,1,5,4,0.228,572020,James Paxton,4.34,0.258
+642133,Rowdy Tellez,1,4,5,0.226,572020,James Paxton,4.34,0.258
+606192,Teoscar Hernandez,0,4,6,0.201,572020,James Paxton,4.34,0.258
+520471,Freddy Galvis,1,4,7,0.264,572020,James Paxton,4.34,0.258
+592273,Brandon Drury,1,4,8,0.211,572020,James Paxton,4.34,0.258
+571912,Luke Maile,0,0,9,0.158,572020,James Paxton,4.34,0.258
+519299,Eric Sogard,2,4,1,0.305,518633,Danny Duffy,4.43,0.257
+665489,Vladimir Guerrero Jr.,1,4,2,0.25,518633,Danny Duffy,4.43,0.257
+666971,Lourdes Gurriel Jr.,2,4,3,0.309,518633,Danny Duffy,4.43,0.257
+624415,Cavan Biggio,0,4,4,0.237,518633,Danny Duffy,4.43,0.257
+606192,Teoscar Hernandez,0,4,5,0.197,518633,Danny Duffy,4.43,0.257
+475253,Justin Smoak,1,4,6,0.227,518633,Danny Duffy,4.43,0.257
+545341,Randal Grichuk,1,4,7,0.228,518633,Danny Duffy,4.43,0.257
+520471,Freddy Galvis,1,4,8,0.264,518633,Danny Duffy,4.43,0.257
+643376,Danny Jansen,1,3,9,0.187,518633,Danny Duffy,4.43,0.257
+519299,Eric Sogard,2,4,1,0.31,456701,Homer Bailey,4.87,0.255
+665489,Vladimir Guerrero Jr.,1,4,2,0.251,456701,Homer Bailey,4.87,0.255
+666971,Lourdes Gurriel Jr.,1,4,3,0.31,456701,Homer Bailey,4.87,0.255
+624415,Cavan Biggio,1,4,4,0.24,456701,Homer Bailey,4.87,0.255
+475253,Justin Smoak,0,4,5,0.223,456701,Homer Bailey,4.87,0.255
+520471,Freddy Galvis,0,4,6,0.26,456701,Homer Bailey,4.87,0.255
+545341,Randal Grichuk,0,4,7,0.227,456701,Homer Bailey,4.87,0.255
+642133,Rowdy Tellez,0,1,8,0.226,456701,Homer Bailey,4.87,0.255
+643376,Danny Jansen,1,4,9,0.188,456701,Homer Bailey,4.87,0.255
+519299,Eric Sogard,2,5,1,0.313,641745,Brad Keller,4.63,0.25
+475253,Justin Smoak,2,5,2,0.227,641745,Brad Keller,4.63,0.25
+666971,Lourdes Gurriel Jr.,1,4,3,0.308,641745,Brad Keller,4.63,0.25
+624415,Cavan Biggio,0,4,4,0.23,641745,Brad Keller,4.63,0.25
+606192,Teoscar Hernandez,1,4,5,0.198,641745,Brad Keller,4.63,0.25
+642133,Rowdy Tellez,1,4,6,0.226,641745,Brad Keller,4.63,0.25
+520471,Freddy Galvis,0,4,7,0.257,641745,Brad Keller,4.63,0.25
+665489,Vladimir Guerrero Jr.,0,1,8,0.251,641745,Brad Keller,4.63,0.25
+571912,Luke Maile,1,3,9,0.163,641745,Brad Keller,4.63,0.25
+519299,Eric Sogard,1,5,1,0.311,642098,Glenn Sparkman,5.09,0.278
+665489,Vladimir Guerrero Jr.,1,5,2,0.252,642098,Glenn Sparkman,5.09,0.278
+666971,Lourdes Gurriel Jr.,3,5,3,0.318,642098,Glenn Sparkman,5.09,0.278
+624415,Cavan Biggio,3,5,4,0.248,642098,Glenn Sparkman,5.09,0.278
+545341,Randal Grichuk,4,5,5,0.236,642098,Glenn Sparkman,5.09,0.278
+642133,Rowdy Tellez,1,5,6,0.225,642098,Glenn Sparkman,5.09,0.278
+606192,Teoscar Hernandez,2,5,7,0.203,642098,Glenn Sparkman,5.09,0.278
+520471,Freddy Galvis,3,4,8,0.264,642098,Glenn Sparkman,5.09,0.278
+643376,Danny Jansen,0,4,9,0.184,642098,Glenn Sparkman,5.09,0.278
+519299,Eric Sogard,0,5,1,0.307,456034,David Price,3.33,0.236
+665489,Vladimir Guerrero Jr.,1,5,2,0.252,456034,David Price,3.33,0.236
+666971,Lourdes Gurriel Jr.,0,4,3,0.315,456034,David Price,3.33,0.236
+475253,Justin Smoak,0,5,4,0.222,456034,David Price,3.33,0.236
+545341,Randal Grichuk,1,4,5,0.236,456034,David Price,3.33,0.236
+624415,Cavan Biggio,2,4,6,0.257,456034,David Price,3.33,0.236
+520471,Freddy Galvis,1,4,7,0.264,456034,David Price,3.33,0.236
+592273,Brandon Drury,0,4,8,0.204,456034,David Price,3.33,0.236
+643376,Danny Jansen,3,4,9,0.196,456034,David Price,3.33,0.236
+520471,Freddy Galvis,3,4,1,0.271,519242,Chris Sale,4.04,0.222
+665489,Vladimir Guerrero Jr.,0,5,2,0.248,519242,Chris Sale,4.04,0.222
+666971,Lourdes Gurriel Jr.,1,5,3,0.311,519242,Chris Sale,4.04,0.222
+624415,Cavan Biggio,0,4,4,0.25,519242,Chris Sale,4.04,0.222
+545341,Randal Grichuk,0,4,5,0.233,519242,Chris Sale,4.04,0.222
+475253,Justin Smoak,1,3,6,0.224,519242,Chris Sale,4.04,0.222
+643376,Danny Jansen,1,4,7,0.197,519242,Chris Sale,4.04,0.222
+642133,Rowdy Tellez,2,4,8,0.231,519242,Chris Sale,4.04,0.222
+592273,Brandon Drury,3,4,9,0.214,519242,Chris Sale,4.04,0.222
+519299,Eric Sogard,1,5,1,0.305,584171,Hector Velazquez,5.65,0.258
+520471,Freddy Galvis,2,5,2,0.273,584171,Hector Velazquez,5.65,0.258
+666971,Lourdes Gurriel Jr.,0,5,3,0.303,584171,Hector Velazquez,5.65,0.258
+624415,Cavan Biggio,0,5,4,0.246,584171,Hector Velazquez,5.65,0.258
+475253,Justin Smoak,1,5,5,0.226,584171,Hector Velazquez,5.65,0.258
+642133,Rowdy Tellez,1,5,6,0.23,584171,Hector Velazquez,5.65,0.258
+665489,Vladimir Guerrero Jr.,0,1,7,0.247,584171,Hector Velazquez,5.65,0.258
+643376,Danny Jansen,3,4,8,0.208,584171,Hector Velazquez,5.65,0.258
+592273,Brandon Drury,2,4,9,0.218,584171,Hector Velazquez,5.65,0.258
+519299,Eric Sogard,0,4,1,0.299,605164,Dylan Bundy,4.65,0.244
+520471,Freddy Galvis,1,4,2,0.272,605164,Dylan Bundy,4.65,0.244
+665489,Vladimir Guerrero Jr.,0,4,3,0.243,605164,Dylan Bundy,4.65,0.244
+624415,Cavan Biggio,0,4,4,0.237,605164,Dylan Bundy,4.65,0.244
+643376,Danny Jansen,1,4,5,0.209,605164,Dylan Bundy,4.65,0.244
+475253,Justin Smoak,0,4,6,0.222,605164,Dylan Bundy,4.65,0.244
+592273,Brandon Drury,1,3,7,0.221,605164,Dylan Bundy,4.65,0.244
+642133,Rowdy Tellez,0,3,8,0.227,605164,Dylan Bundy,4.65,0.244
+606192,Teoscar Hernandez,1,3,9,0.206,605164,Dylan Bundy,4.65,0.244
+520471,Freddy Galvis,0,4,1,0.269,488768,Andrew Cashner,3.83,0.234
+641505,Jonathan Davis,0,1,2,0.14,488768,Andrew Cashner,3.83,0.234
+666971,Lourdes Gurriel Jr.,0,4,3,0.298,488768,Andrew Cashner,3.83,0.234
+624415,Cavan Biggio,1,4,4,0.238,488768,Andrew Cashner,3.83,0.234
+643376,Danny Jansen,0,3,5,0.206,488768,Andrew Cashner,3.83,0.234
+475253,Justin Smoak,0,3,6,0.219,488768,Andrew Cashner,3.83,0.234
+592273,Brandon Drury,0,3,7,0.218,488768,Andrew Cashner,3.83,0.234
+606192,Teoscar Hernandez,0,3,8,0.203,488768,Andrew Cashner,3.83,0.234
+571912,Luke Maile,1,3,9,0.168,488768,Andrew Cashner,3.83,0.234
+519299,Eric Sogard,0,4,1,0.294,592879,Asher Wojciechowski,6.52,0.237
+520471,Freddy Galvis,1,4,2,0.27,592879,Asher Wojciechowski,6.52,0.237
+666971,Lourdes Gurriel Jr.,2,4,3,0.303,592879,Asher Wojciechowski,6.52,0.237
+624415,Cavan Biggio,0,4,4,0.232,592879,Asher Wojciechowski,6.52,0.237
+665489,Vladimir Guerrero Jr.,2,4,5,0.249,592879,Asher Wojciechowski,6.52,0.237
+475253,Justin Smoak,0,4,6,0.217,592879,Asher Wojciechowski,6.52,0.237
+643376,Danny Jansen,2,4,7,0.211,592879,Asher Wojciechowski,6.52,0.237
+642133,Rowdy Tellez,1,4,8,0.228,592879,Asher Wojciechowski,6.52,0.237
+606192,Teoscar Hernandez,1,4,9,0.204,592879,Asher Wojciechowski,6.52,0.237
+519299,Eric Sogard,2,4,1,0.297,593334,Domingo German,3.4,0.214
+520471,Freddy Galvis,1,4,2,0.269,593334,Domingo German,3.4,0.214
+666971,Lourdes Gurriel Jr.,0,4,3,0.296,593334,Domingo German,3.4,0.214
+624415,Cavan Biggio,1,4,4,0.233,593334,Domingo German,3.4,0.214
+665489,Vladimir Guerrero Jr.,1,4,5,0.249,593334,Domingo German,3.4,0.214
+475253,Justin Smoak,0,3,6,0.215,593334,Domingo German,3.4,0.214
+545341,Randal Grichuk,0,3,7,0.231,593334,Domingo German,3.4,0.214
+643376,Danny Jansen,1,3,8,0.213,593334,Domingo German,3.4,0.214
+606192,Teoscar Hernandez,0,3,9,0.201,593334,Domingo German,3.4,0.214
+519299,Eric Sogard,1,5,1,0.295,457918,J.A. Happ,4.93,0.261
+520471,Freddy Galvis,0,4,2,0.267,457918,J.A. Happ,4.93,0.261
+666971,Lourdes Gurriel Jr.,1,4,3,0.296,457918,J.A. Happ,4.93,0.261
+624415,Cavan Biggio,1,4,4,0.235,457918,J.A. Happ,4.93,0.261
+665489,Vladimir Guerrero Jr.,1,4,5,0.249,457918,J.A. Happ,4.93,0.261
+545341,Randal Grichuk,2,4,6,0.234,457918,J.A. Happ,4.93,0.261
+606192,Teoscar Hernandez,0,0,7,0.201,457918,J.A. Happ,4.93,0.261
+592273,Brandon Drury,1,4,8,0.219,457918,J.A. Happ,4.93,0.261
+571912,Luke Maile,0,4,9,0.162,457918,J.A. Happ,4.93,0.261
+519299,Eric Sogard,1,4,1,0.296,547888,Masahiro Tanaka,3.81,0.241
+520471,Freddy Galvis,1,4,2,0.267,547888,Masahiro Tanaka,3.81,0.241
+666971,Lourdes Gurriel Jr.,1,4,3,0.295,547888,Masahiro Tanaka,3.81,0.241
+624415,Cavan Biggio,0,4,4,0.228,547888,Masahiro Tanaka,3.81,0.241
+665489,Vladimir Guerrero Jr.,0,4,5,0.245,547888,Masahiro Tanaka,3.81,0.241
+475253,Justin Smoak,0,4,6,0.211,547888,Masahiro Tanaka,3.81,0.241
+545341,Randal Grichuk,1,4,7,0.234,547888,Masahiro Tanaka,3.81,0.241
+643376,Danny Jansen,2,4,8,0.218,547888,Masahiro Tanaka,3.81,0.241
+592273,Brandon Drury,0,1,9,0.218,547888,Masahiro Tanaka,3.81,0.241
+519299,Eric Sogard,3,5,1,0.302,519144,Rick Porcello,5.37,0.276
+520471,Freddy Galvis,2,5,2,0.269,519144,Rick Porcello,5.37,0.276
+666971,Lourdes Gurriel Jr.,0,5,3,0.288,519144,Rick Porcello,5.37,0.276
+624415,Cavan Biggio,1,5,4,0.227,519144,Rick Porcello,5.37,0.276
+545341,Randal Grichuk,2,4,5,0.238,519144,Rick Porcello,5.37,0.276
+475253,Justin Smoak,1,5,6,0.211,519144,Rick Porcello,5.37,0.276
+643376,Danny Jansen,1,4,7,0.219,519144,Rick Porcello,5.37,0.276
+641856,Billy McKinney,2,4,8,0.222,519144,Rick Porcello,5.37,0.276
+592273,Brandon Drury,1,3,9,0.219,519144,Rick Porcello,5.37,0.276
+519299,Eric Sogard,2,5,1,0.304,488768,Andrew Cashner,4.09,0.241
+665489,Vladimir Guerrero Jr.,1,5,2,0.245,488768,Andrew Cashner,4.09,0.241
+666971,Lourdes Gurriel Jr.,3,5,3,0.295,488768,Andrew Cashner,4.09,0.241
+545341,Randal Grichuk,1,5,4,0.237,488768,Andrew Cashner,4.09,0.241
+643376,Danny Jansen,1,4,5,0.219,488768,Andrew Cashner,4.09,0.241
+475253,Justin Smoak,2,5,6,0.216,488768,Andrew Cashner,4.09,0.241
+520471,Freddy Galvis,2,4,7,0.271,488768,Andrew Cashner,4.09,0.241
+606192,Teoscar Hernandez,1,4,8,0.2,488768,Andrew Cashner,4.09,0.241
+641856,Billy McKinney,1,4,9,0.223,488768,Andrew Cashner,4.09,0.241
+519299,Eric Sogard,0,5,1,0.299,593958,Eduardo Rodriguez,4.34,0.256
+665489,Vladimir Guerrero Jr.,0,5,2,0.24,593958,Eduardo Rodriguez,4.34,0.256
+666971,Lourdes Gurriel Jr.,2,5,3,0.297,593958,Eduardo Rodriguez,4.34,0.256
+545341,Randal Grichuk,0,4,4,0.235,593958,Eduardo Rodriguez,4.34,0.256
+624415,Cavan Biggio,0,4,5,0.224,593958,Eduardo Rodriguez,4.34,0.256
+475253,Justin Smoak,1,4,6,0.217,593958,Eduardo Rodriguez,4.34,0.256
+520471,Freddy Galvis,0,4,7,0.268,593958,Eduardo Rodriguez,4.34,0.256
+606192,Teoscar Hernandez,2,4,8,0.207,593958,Eduardo Rodriguez,4.34,0.256
+643376,Danny Jansen,0,2,9,0.218,593958,Eduardo Rodriguez,4.34,0.256
+520471,Freddy Galvis,0,4,1,0.265,519242,Chris Sale,4.05,0.222
+545341,Randal Grichuk,0,4,2,0.232,519242,Chris Sale,4.05,0.222
+666971,Lourdes Gurriel Jr.,0,4,3,0.292,519242,Chris Sale,4.05,0.222
+475253,Justin Smoak,1,4,4,0.217,519242,Chris Sale,4.05,0.222
+643376,Danny Jansen,0,2,5,0.216,519242,Chris Sale,4.05,0.222
+665489,Vladimir Guerrero Jr.,0,3,6,0.238,519242,Chris Sale,4.05,0.222
+606192,Teoscar Hernandez,0,3,7,0.204,519242,Chris Sale,4.05,0.222
+624415,Cavan Biggio,0,3,8,0.221,519242,Chris Sale,4.05,0.222
+592273,Brandon Drury,1,3,9,0.22,519242,Chris Sale,4.05,0.222
+519299,Eric Sogard,3,6,1,0.304,519455,Jordan Zimmermann,7.51,0.322
+592273,Brandon Drury,0,1,2,0.22,519455,Jordan Zimmermann,7.51,0.322
+666971,Lourdes Gurriel Jr.,1,5,3,0.29,519455,Jordan Zimmermann,7.51,0.322
+475253,Justin Smoak,0,5,4,0.215,519455,Jordan Zimmermann,7.51,0.322
+665489,Vladimir Guerrero Jr.,3,5,5,0.245,519455,Jordan Zimmermann,7.51,0.322
+624415,Cavan Biggio,1,5,6,0.221,519455,Jordan Zimmermann,7.51,0.322
+643376,Danny Jansen,1,5,7,0.216,519455,Jordan Zimmermann,7.51,0.322
+641856,Billy McKinney,1,5,8,0.224,519455,Jordan Zimmermann,7.51,0.322
+606192,Teoscar Hernandez,2,5,9,0.209,519455,Jordan Zimmermann,7.51,0.322
+519299,Eric Sogard,2,5,1,0.306,596057,Daniel Norris,5.02,0.295
+520471,Freddy Galvis,3,5,2,0.274,596057,Daniel Norris,5.02,0.295
+666971,Lourdes Gurriel Jr.,1,5,3,0.288,596057,Daniel Norris,5.02,0.295
+545341,Randal Grichuk,1,4,4,0.233,596057,Daniel Norris,5.02,0.295
+665489,Vladimir Guerrero Jr.,2,4,5,0.249,596057,Daniel Norris,5.02,0.295
+643376,Danny Jansen,0,4,6,0.213,596057,Daniel Norris,5.02,0.295
+624415,Cavan Biggio,0,4,7,0.217,596057,Daniel Norris,5.02,0.295
+606192,Teoscar Hernandez,2,4,8,0.214,596057,Daniel Norris,5.02,0.295
+592273,Brandon Drury,1,4,9,0.22,596057,Daniel Norris,5.02,0.295
+519299,Eric Sogard,1,4,1,0.305,641302,Tyler Alexander,2.25,0.186
+520471,Freddy Galvis,1,4,2,0.274,641302,Tyler Alexander,2.25,0.186
+666971,Lourdes Gurriel Jr.,2,4,3,0.292,641302,Tyler Alexander,2.25,0.186
+545341,Randal Grichuk,0,4,4,0.231,641302,Tyler Alexander,2.25,0.186
+665489,Vladimir Guerrero Jr.,0,4,5,0.246,641302,Tyler Alexander,2.25,0.186
+475253,Justin Smoak,0,4,6,0.212,641302,Tyler Alexander,2.25,0.186
+606192,Teoscar Hernandez,1,4,7,0.215,641302,Tyler Alexander,2.25,0.186
+592273,Brandon Drury,0,4,8,0.217,641302,Tyler Alexander,2.25,0.186
+643376,Danny Jansen,0,1,9,0.212,641302,Tyler Alexander,2.25,0.186
+519299,Eric Sogard,1,4,1,0.304,605182,Mike Clevinger,3.61,0.196
+520471,Freddy Galvis,0,4,2,0.271,605182,Mike Clevinger,3.61,0.196
+666971,Lourdes Gurriel Jr.,0,4,3,0.288,605182,Mike Clevinger,3.61,0.196
+624415,Cavan Biggio,0,4,4,0.212,605182,Mike Clevinger,3.61,0.196
+665489,Vladimir Guerrero Jr.,2,3,5,0.251,605182,Mike Clevinger,3.61,0.196
+475253,Justin Smoak,1,3,6,0.215,605182,Mike Clevinger,3.61,0.196
+545341,Randal Grichuk,0,3,7,0.229,605182,Mike Clevinger,3.61,0.196
+643376,Danny Jansen,0,2,8,0.21,605182,Mike Clevinger,3.61,0.196
+641856,Billy McKinney,1,3,9,0.224,605182,Mike Clevinger,3.61,0.196
+519299,Eric Sogard,0,5,1,0.3,545333,Trevor Bauer,3.49,0.211
+520471,Freddy Galvis,1,5,2,0.27,545333,Trevor Bauer,3.49,0.211
+475253,Justin Smoak,2,5,3,0.218,545333,Trevor Bauer,3.49,0.211
+624415,Cavan Biggio,0,4,4,0.208,545333,Trevor Bauer,3.49,0.211
+665489,Vladimir Guerrero Jr.,2,4,5,0.256,545333,Trevor Bauer,3.49,0.211
+545341,Randal Grichuk,1,4,6,0.229,545333,Trevor Bauer,3.49,0.211
+606192,Teoscar Hernandez,1,4,7,0.216,545333,Trevor Bauer,3.49,0.211
+643376,Danny Jansen,0,1,8,0.209,545333,Trevor Bauer,3.49,0.211
+666971,Lourdes Gurriel Jr.,1,2,9,0.29,545333,Trevor Bauer,3.49,0.211
+519299,Eric Sogard,1,4,1,0.299,669456,Shane Bieber,3.44,0.209
+520471,Freddy Galvis,0,4,2,0.268,669456,Shane Bieber,3.44,0.209
+666971,Lourdes Gurriel Jr.,0,2,3,0.287,669456,Shane Bieber,3.44,0.209
+665489,Vladimir Guerrero Jr.,0,3,4,0.254,669456,Shane Bieber,3.44,0.209
+475253,Justin Smoak,0,3,5,0.216,669456,Shane Bieber,3.44,0.209
+545341,Randal Grichuk,0,3,6,0.227,669456,Shane Bieber,3.44,0.209
+643376,Danny Jansen,0,3,7,0.206,669456,Shane Bieber,3.44,0.209
+606192,Teoscar Hernandez,0,3,8,0.214,669456,Shane Bieber,3.44,0.209
+592273,Brandon Drury,0,3,9,0.214,669456,Shane Bieber,3.44,0.209
+624415,Cavan Biggio,0,4,1,0.202,650895,Diego Castillo,3.86,0.233
+665489,Vladimir Guerrero Jr.,0,4,2,0.251,650895,Diego Castillo,3.86,0.233
+666971,Lourdes Gurriel Jr.,0,4,3,0.283,650895,Diego Castillo,3.86,0.233
+475253,Justin Smoak,1,4,4,0.217,650895,Diego Castillo,3.86,0.233
+545341,Randal Grichuk,1,4,5,0.227,650895,Diego Castillo,3.86,0.233
+520471,Freddy Galvis,1,4,6,0.267,650895,Diego Castillo,3.86,0.233
+643376,Danny Jansen,0,3,7,0.205,650895,Diego Castillo,3.86,0.233
+592273,Brandon Drury,1,3,8,0.216,650895,Diego Castillo,3.86,0.233
+606192,Teoscar Hernandez,0,3,9,0.211,650895,Diego Castillo,3.86,0.233
+519299,Eric Sogard,2,6,1,0.3,552640,Andrew Kittredge,3.05,0.259
+520471,Freddy Galvis,1,6,2,0.266,552640,Andrew Kittredge,3.05,0.259
+666971,Lourdes Gurriel Jr.,3,6,3,0.288,552640,Andrew Kittredge,3.05,0.259
+545341,Randal Grichuk,1,6,4,0.227,552640,Andrew Kittredge,3.05,0.259
+665489,Vladimir Guerrero Jr.,2,6,5,0.253,552640,Andrew Kittredge,3.05,0.259
+624415,Cavan Biggio,1,6,6,0.205,552640,Andrew Kittredge,3.05,0.259
+624512,Reese McGuire,0,0,7,0.0,552640,Andrew Kittredge,3.05,0.259
+592273,Brandon Drury,4,6,8,0.225,552640,Andrew Kittredge,3.05,0.259
+606192,Teoscar Hernandez,2,6,9,0.214,552640,Andrew Kittredge,3.05,0.259
+624415,Cavan Biggio,1,5,1,0.205,630023,Yonny Chirinos,3.7,0.229
+520471,Freddy Galvis,1,5,2,0.265,630023,Yonny Chirinos,3.7,0.229
+666971,Lourdes Gurriel Jr.,2,5,3,0.29,630023,Yonny Chirinos,3.7,0.229
+545341,Randal Grichuk,0,0,4,0.227,630023,Yonny Chirinos,3.7,0.229
+665489,Vladimir Guerrero Jr.,3,5,5,0.259,630023,Yonny Chirinos,3.7,0.229
+592273,Brandon Drury,0,5,6,0.222,630023,Yonny Chirinos,3.7,0.229
+641856,Billy McKinney,1,5,7,0.221,630023,Yonny Chirinos,3.7,0.229
+606192,Teoscar Hernandez,2,5,8,0.219,630023,Yonny Chirinos,3.7,0.229
+624512,Reese McGuire,1,5,9,0.2,630023,Yonny Chirinos,3.7,0.229
+624415,Cavan Biggio,3,5,1,0.216,641745,Brad Keller,4.01,0.248
+545341,Randal Grichuk,3,5,2,0.232,641745,Brad Keller,4.01,0.248
+665489,Vladimir Guerrero Jr.,1,5,3,0.259,641745,Brad Keller,4.01,0.248
+475253,Justin Smoak,0,5,4,0.215,641745,Brad Keller,4.01,0.248
+666971,Lourdes Gurriel Jr.,0,0,5,0.29,641745,Brad Keller,4.01,0.248
+666182,Bo Bichette,1,4,6,0.25,641745,Brad Keller,4.01,0.248
+641856,Billy McKinney,0,4,7,0.216,641745,Brad Keller,4.01,0.248
+606192,Teoscar Hernandez,1,4,8,0.221,641745,Brad Keller,4.01,0.248
+643376,Danny Jansen,1,4,9,0.202,641745,Brad Keller,4.01,0.248
+666182,Bo Bichette,2,5,1,0.375,543557,Mike Montgomery,6.34,0.34
+520471,Freddy Galvis,2,5,2,0.267,543557,Mike Montgomery,6.34,0.34
+666971,Lourdes Gurriel Jr.,1,4,3,0.291,543557,Mike Montgomery,6.34,0.34
+545341,Randal Grichuk,1,5,4,0.231,543557,Mike Montgomery,6.34,0.34
+665489,Vladimir Guerrero Jr.,2,5,5,0.261,543557,Mike Montgomery,6.34,0.34
+624415,Cavan Biggio,0,5,6,0.211,543557,Mike Montgomery,6.34,0.34
+606192,Teoscar Hernandez,1,5,7,0.22,543557,Mike Montgomery,6.34,0.34
+592273,Brandon Drury,0,5,8,0.219,543557,Mike Montgomery,6.34,0.34
+643376,Danny Jansen,1,4,9,0.203,543557,Mike Montgomery,6.34,0.34
+666182,Bo Bichette,3,5,1,0.462,596001,Jakob Junis,5.03,0.267
+624415,Cavan Biggio,1,5,2,0.213,596001,Jakob Junis,5.03,0.267
+606192,Teoscar Hernandez,1,3,3,0.221,596001,Jakob Junis,5.03,0.267
+475253,Justin Smoak,1,4,4,0.216,596001,Jakob Junis,5.03,0.267
+545341,Randal Grichuk,0,4,5,0.229,596001,Jakob Junis,5.03,0.267
+520471,Freddy Galvis,1,4,6,0.267,596001,Jakob Junis,5.03,0.267
+641856,Billy McKinney,0,4,7,0.211,596001,Jakob Junis,5.03,0.267
+592273,Brandon Drury,1,4,8,0.219,596001,Jakob Junis,5.03,0.267
+624512,Reese McGuire,1,4,9,0.222,596001,Jakob Junis,5.03,0.267
+666182,Bo Bichette,2,6,1,0.444,592879,Asher Wojciechowski,4.15,0.202
+624415,Cavan Biggio,2,6,2,0.217,592879,Asher Wojciechowski,4.15,0.202
+665489,Vladimir Guerrero Jr.,3,5,3,0.267,592879,Asher Wojciechowski,4.15,0.202
+475253,Justin Smoak,0,5,4,0.213,592879,Asher Wojciechowski,4.15,0.202
+605233,Derek Fisher,0,0,5,0.226,592879,Asher Wojciechowski,4.15,0.202
+520471,Freddy Galvis,0,5,6,0.264,592879,Asher Wojciechowski,4.15,0.202
+606192,Teoscar Hernandez,0,4,7,0.219,592879,Asher Wojciechowski,4.15,0.202
+641856,Billy McKinney,2,5,8,0.216,592879,Asher Wojciechowski,4.15,0.202
+643376,Danny Jansen,3,5,9,0.211,592879,Asher Wojciechowski,4.15,0.202
+666182,Bo Bichette,1,5,1,0.409,605156,Aaron Brooks,5.45,0.263
+606192,Teoscar Hernandez,0,1,2,0.218,605156,Aaron Brooks,5.45,0.263
+666971,Lourdes Gurriel Jr.,1,4,3,0.289,605156,Aaron Brooks,5.45,0.263
+665489,Vladimir Guerrero Jr.,1,4,4,0.268,605156,Aaron Brooks,5.45,0.263
+475253,Justin Smoak,0,4,5,0.212,605156,Aaron Brooks,5.45,0.263
+520471,Freddy Galvis,3,4,6,0.269,605156,Aaron Brooks,5.45,0.263
+592273,Brandon Drury,1,4,7,0.22,605156,Aaron Brooks,5.45,0.263
+605233,Derek Fisher,1,4,8,0.228,605156,Aaron Brooks,5.45,0.263
+643376,Danny Jansen,0,4,9,0.207,605156,Aaron Brooks,5.45,0.263
+666182,Bo Bichette,2,5,1,0.407,605164,Dylan Bundy,5.15,0.26
+520471,Freddy Galvis,2,3,2,0.271,605164,Dylan Bundy,5.15,0.26
+666971,Lourdes Gurriel Jr.,1,4,3,0.288,605164,Dylan Bundy,5.15,0.26
+665489,Vladimir Guerrero Jr.,3,4,4,0.274,605164,Dylan Bundy,5.15,0.26
+475253,Justin Smoak,0,4,5,0.209,605164,Dylan Bundy,5.15,0.26
+545341,Randal Grichuk,0,4,6,0.229,605164,Dylan Bundy,5.15,0.26
+592273,Brandon Drury,1,4,7,0.221,605164,Dylan Bundy,5.15,0.26
+606192,Teoscar Hernandez,2,4,8,0.222,605164,Dylan Bundy,5.15,0.26
+624512,Reese McGuire,1,4,9,0.231,605164,Dylan Bundy,5.15,0.26
+666182,Bo Bichette,2,5,1,0.406,642231,Jimmy Yacabonis,7.15,0.312
+624415,Cavan Biggio,1,5,2,0.213,642231,Jimmy Yacabonis,7.15,0.312
+666971,Lourdes Gurriel Jr.,0,5,3,0.285,642231,Jimmy Yacabonis,7.15,0.312
+665489,Vladimir Guerrero Jr.,3,5,4,0.279,642231,Jimmy Yacabonis,7.15,0.312
+520471,Freddy Galvis,0,1,5,0.271,642231,Jimmy Yacabonis,7.15,0.312
+545341,Randal Grichuk,4,5,6,0.236,642231,Jimmy Yacabonis,7.15,0.312
+606192,Teoscar Hernandez,2,5,7,0.225,642231,Jimmy Yacabonis,7.15,0.312
+592273,Brandon Drury,1,4,8,0.221,642231,Jimmy Yacabonis,7.15,0.312
+643376,Danny Jansen,0,4,9,0.204,642231,Jimmy Yacabonis,7.15,0.312
+666182,Bo Bichette,2,4,1,0.417,450203,Charlie Morton,2.77,0.209
+624415,Cavan Biggio,1,4,2,0.214,450203,Charlie Morton,2.77,0.209
+666971,Lourdes Gurriel Jr.,0,3,3,0.282,450203,Charlie Morton,2.77,0.209
+475253,Justin Smoak,1,4,4,0.208,450203,Charlie Morton,2.77,0.209
+665489,Vladimir Guerrero Jr.,1,4,5,0.279,450203,Charlie Morton,2.77,0.209
+520471,Freddy Galvis,2,4,6,0.273,450203,Charlie Morton,2.77,0.209
+545341,Randal Grichuk,2,4,7,0.239,450203,Charlie Morton,2.77,0.209
+605233,Derek Fisher,0,4,8,0.213,450203,Charlie Morton,2.77,0.209
+624512,Reese McGuire,0,4,9,0.176,450203,Charlie Morton,2.77,0.209
+666182,Bo Bichette,2,5,1,0.415,552640,Andrew Kittredge,3.33,0.262
+624415,Cavan Biggio,1,5,2,0.215,552640,Andrew Kittredge,3.33,0.262
+666971,Lourdes Gurriel Jr.,0,5,3,0.277,552640,Andrew Kittredge,3.33,0.262
+665489,Vladimir Guerrero Jr.,0,5,4,0.274,552640,Andrew Kittredge,3.33,0.262
+520471,Freddy Galvis,0,5,5,0.27,552640,Andrew Kittredge,3.33,0.262
+545341,Randal Grichuk,1,4,6,0.239,552640,Andrew Kittredge,3.33,0.262
+606192,Teoscar Hernandez,0,4,7,0.223,552640,Andrew Kittredge,3.33,0.262
+592273,Brandon Drury,3,4,8,0.228,552640,Andrew Kittredge,3.33,0.262
+643376,Danny Jansen,1,4,9,0.205,552640,Andrew Kittredge,3.33,0.262
+666182,Bo Bichette,1,4,1,0.409,656713,Brendan McKay,4.55,0.273
+520471,Freddy Galvis,1,4,2,0.27,656713,Brendan McKay,4.55,0.273
+666971,Lourdes Gurriel Jr.,1,4,3,0.277,656713,Brendan McKay,4.55,0.273
+545341,Randal Grichuk,1,4,4,0.24,656713,Brendan McKay,4.55,0.273
+475253,Justin Smoak,1,4,5,0.208,656713,Brendan McKay,4.55,0.273
+592273,Brandon Drury,1,4,6,0.228,656713,Brendan McKay,4.55,0.273
+605233,Derek Fisher,1,4,7,0.215,656713,Brendan McKay,4.55,0.273
+606192,Teoscar Hernandez,0,4,8,0.22,656713,Brendan McKay,4.55,0.273
+624512,Reese McGuire,0,4,9,0.143,656713,Brendan McKay,4.55,0.273
+666182,Bo Bichette,2,5,1,0.408,593334,Domingo German,4.05,0.229
+624415,Cavan Biggio,0,5,2,0.211,593334,Domingo German,4.05,0.229
+592273,Brandon Drury,0,0,3,0.228,593334,Domingo German,4.05,0.229
+665489,Vladimir Guerrero Jr.,1,5,4,0.273,593334,Domingo German,4.05,0.229
+520471,Freddy Galvis,2,5,5,0.271,593334,Domingo German,4.05,0.229
+475253,Justin Smoak,0,5,6,0.206,593334,Domingo German,4.05,0.229
+545341,Randal Grichuk,0,4,7,0.238,593334,Domingo German,4.05,0.229
+605233,Derek Fisher,1,4,8,0.217,593334,Domingo German,4.05,0.229
+624512,Reese McGuire,4,4,9,0.28,593334,Domingo German,4.05,0.229
+666182,Bo Bichette,0,4,1,0.385,457918,J.A. Happ,5.48,0.275
+624415,Cavan Biggio,0,4,2,0.208,457918,J.A. Happ,5.48,0.275
+665489,Vladimir Guerrero Jr.,0,4,3,0.271,457918,J.A. Happ,5.48,0.275
+545341,Randal Grichuk,1,4,4,0.238,457918,J.A. Happ,5.48,0.275
+520471,Freddy Galvis,1,4,5,0.271,457918,J.A. Happ,5.48,0.275
+606192,Teoscar Hernandez,2,4,6,0.224,457918,J.A. Happ,5.48,0.275
+592273,Brandon Drury,1,4,7,0.229,457918,J.A. Happ,5.48,0.275
+605233,Derek Fisher,0,3,8,0.211,457918,J.A. Happ,5.48,0.275
+643376,Danny Jansen,1,3,9,0.206,457918,J.A. Happ,5.48,0.275
+666182,Bo Bichette,0,5,1,0.357,643338,Chad Green,4.82,0.291
+624415,Cavan Biggio,1,4,2,0.208,643338,Chad Green,4.82,0.291
+665489,Vladimir Guerrero Jr.,2,4,3,0.274,643338,Chad Green,4.82,0.291
+545341,Randal Grichuk,0,4,4,0.235,643338,Chad Green,4.82,0.291
+475253,Justin Smoak,0,4,5,0.204,643338,Chad Green,4.82,0.291
+520471,Freddy Galvis,0,4,6,0.268,643338,Chad Green,4.82,0.291
+605233,Derek Fisher,1,4,7,0.216,643338,Chad Green,4.82,0.291
+606192,Teoscar Hernandez,1,4,8,0.226,643338,Chad Green,4.82,0.291
+643376,Danny Jansen,0,4,9,0.205,643338,Chad Green,4.82,0.291
+666182,Bo Bichette,2,4,1,0.367,547888,Masahiro Tanaka,4.64,0.259
+624415,Cavan Biggio,0,4,2,0.205,547888,Masahiro Tanaka,4.64,0.259
+520471,Freddy Galvis,0,3,3,0.267,547888,Masahiro Tanaka,4.64,0.259
+545341,Randal Grichuk,0,3,4,0.234,547888,Masahiro Tanaka,4.64,0.259
+475253,Justin Smoak,1,3,5,0.205,547888,Masahiro Tanaka,4.64,0.259
+606192,Teoscar Hernandez,0,3,6,0.224,547888,Masahiro Tanaka,4.64,0.259
+605233,Derek Fisher,0,3,7,0.208,547888,Masahiro Tanaka,4.64,0.259
+592273,Brandon Drury,1,3,8,0.23,547888,Masahiro Tanaka,4.64,0.259
+665489,Vladimir Guerrero Jr.,0,1,9,0.274,547888,Masahiro Tanaka,4.64,0.259
+666182,Bo Bichette,4,6,1,0.394,642558,Ariel Jurado,5.31,0.288
+624415,Cavan Biggio,2,6,2,0.208,642558,Ariel Jurado,5.31,0.288
+665489,Vladimir Guerrero Jr.,2,5,3,0.276,642558,Ariel Jurado,5.31,0.288
+475253,Justin Smoak,3,5,4,0.211,642558,Ariel Jurado,5.31,0.288
+545341,Randal Grichuk,3,5,5,0.238,642558,Ariel Jurado,5.31,0.288
+606192,Teoscar Hernandez,1,5,6,0.224,642558,Ariel Jurado,5.31,0.288
+605233,Derek Fisher,1,5,7,0.213,642558,Ariel Jurado,5.31,0.288
+592273,Brandon Drury,2,5,8,0.232,642558,Ariel Jurado,5.31,0.288
+643376,Danny Jansen,3,5,9,0.212,642558,Ariel Jurado,5.31,0.288
+666182,Bo Bichette,0,4,1,0.377,458681,Lance Lynn,3.54,0.247
+624415,Cavan Biggio,0,4,2,0.205,458681,Lance Lynn,3.54,0.247
+665489,Vladimir Guerrero Jr.,1,4,3,0.276,458681,Lance Lynn,3.54,0.247
+475253,Justin Smoak,1,4,4,0.212,458681,Lance Lynn,3.54,0.247
+545341,Randal Grichuk,2,4,5,0.24,458681,Lance Lynn,3.54,0.247
+606192,Teoscar Hernandez,1,4,6,0.225,458681,Lance Lynn,3.54,0.247
+641856,Billy McKinney,1,4,7,0.218,458681,Lance Lynn,3.54,0.247
+605233,Derek Fisher,0,0,8,0.213,458681,Lance Lynn,3.54,0.247
+624512,Reese McGuire,0,3,9,0.233,458681,Lance Lynn,3.54,0.247
+666182,Bo Bichette,1,5,1,0.365,663465,Kolby Allard,4.5,0.184
+624415,Cavan Biggio,1,5,2,0.207,663465,Kolby Allard,4.5,0.184
+665489,Vladimir Guerrero Jr.,0,5,3,0.272,663465,Kolby Allard,4.5,0.184
+545341,Randal Grichuk,1,4,4,0.241,663465,Kolby Allard,4.5,0.184
+606192,Teoscar Hernandez,0,4,5,0.223,663465,Kolby Allard,4.5,0.184
+642133,Rowdy Tellez,1,3,6,0.228,663465,Kolby Allard,4.5,0.184
+592273,Brandon Drury,0,4,7,0.227,663465,Kolby Allard,4.5,0.184
+605233,Derek Fisher,0,4,8,0.202,663465,Kolby Allard,4.5,0.184
+643376,Danny Jansen,2,4,9,0.216,663465,Kolby Allard,4.5,0.184
+666182,Bo Bichette,0,4,1,0.346,605538,Matt Wisler,4.25,0.268
+624415,Cavan Biggio,2,4,2,0.212,605538,Matt Wisler,4.25,0.268
+665489,Vladimir Guerrero Jr.,2,4,3,0.275,605538,Matt Wisler,4.25,0.268
+545341,Randal Grichuk,1,4,4,0.242,605538,Matt Wisler,4.25,0.268
+475253,Justin Smoak,1,4,5,0.212,605538,Matt Wisler,4.25,0.268
+606192,Teoscar Hernandez,2,4,6,0.226,605538,Matt Wisler,4.25,0.268
+592273,Brandon Drury,1,4,7,0.228,605538,Matt Wisler,4.25,0.268
+605233,Derek Fisher,1,3,8,0.207,605538,Matt Wisler,4.25,0.268
+643376,Danny Jansen,1,3,9,0.217,605538,Matt Wisler,4.25,0.268
+666182,Bo Bichette,2,5,1,0.349,596035,Reggie McClain,4.5,0.241
+624415,Cavan Biggio,1,4,2,0.213,596035,Reggie McClain,4.5,0.241
+592273,Brandon Drury,1,3,3,0.228,596035,Reggie McClain,4.5,0.241
+642133,Rowdy Tellez,1,4,4,0.229,596035,Reggie McClain,4.5,0.241
+545341,Randal Grichuk,0,4,5,0.239,596035,Reggie McClain,4.5,0.241
+475253,Justin Smoak,1,4,6,0.214,596035,Reggie McClain,4.5,0.241
+605233,Derek Fisher,0,4,7,0.2,596035,Reggie McClain,4.5,0.241
+641856,Billy McKinney,1,4,8,0.219,596035,Reggie McClain,4.5,0.241
+606192,Teoscar Hernandez,0,0,9,0.226,596035,Reggie McClain,4.5,0.241
+666182,Bo Bichette,0,4,1,0.333,579328,Yusei Kikuchi,5.19,0.281
+624415,Cavan Biggio,0,4,2,0.209,579328,Yusei Kikuchi,5.19,0.281
+545341,Randal Grichuk,1,3,3,0.24,579328,Yusei Kikuchi,5.19,0.281
+606192,Teoscar Hernandez,0,3,4,0.224,579328,Yusei Kikuchi,5.19,0.281
+475253,Justin Smoak,0,3,5,0.212,579328,Yusei Kikuchi,5.19,0.281
+642133,Rowdy Tellez,0,3,6,0.227,579328,Yusei Kikuchi,5.19,0.281
+592273,Brandon Drury,1,3,7,0.229,579328,Yusei Kikuchi,5.19,0.281
+643376,Danny Jansen,0,3,8,0.215,579328,Yusei Kikuchi,5.19,0.281
+641856,Billy McKinney,0,3,9,0.215,579328,Yusei Kikuchi,5.19,0.281
+666182,Bo Bichette,2,4,1,0.341,477132,Clayton Kershaw,2.71,0.221
+592273,Brandon Drury,1,4,2,0.23,477132,Clayton Kershaw,2.71,0.221
+665489,Vladimir Guerrero Jr.,2,4,3,0.278,477132,Clayton Kershaw,2.71,0.221
+545341,Randal Grichuk,0,4,4,0.238,477132,Clayton Kershaw,2.71,0.221
+620446,Richard Urena,0,1,5,0.244,477132,Clayton Kershaw,2.71,0.221
+475253,Justin Smoak,1,4,6,0.213,477132,Clayton Kershaw,2.71,0.221
+643376,Danny Jansen,0,4,7,0.213,477132,Clayton Kershaw,2.71,0.221
+605233,Derek Fisher,1,3,8,0.204,477132,Clayton Kershaw,2.71,0.221
+641856,Billy McKinney,0,1,9,0.214,477132,Clayton Kershaw,2.71,0.221
+666182,Bo Bichette,1,5,1,0.333,621111,Walker Buehler,3.16,0.223
+641835,Tim Mayza,0,0,2,0.0,621111,Walker Buehler,3.16,0.223
+545341,Randal Grichuk,1,4,3,0.238,621111,Walker Buehler,3.16,0.223
+642133,Rowdy Tellez,1,4,4,0.227,621111,Walker Buehler,3.16,0.223
+592273,Brandon Drury,0,4,5,0.227,621111,Walker Buehler,3.16,0.223
+641856,Billy McKinney,2,4,6,0.22,621111,Walker Buehler,3.16,0.223
+606192,Teoscar Hernandez,0,4,7,0.22,621111,Walker Buehler,3.16,0.223
+624512,Reese McGuire,0,4,8,0.237,621111,Walker Buehler,3.16,0.223
+620446,Richard Urena,0,0,9,0.244,621111,Walker Buehler,3.16,0.223
+666182,Bo Bichette,0,4,1,0.32,628317,Kenta Maeda,4.13,0.209
+624415,Cavan Biggio,0,4,2,0.206,628317,Kenta Maeda,4.13,0.209
+665489,Vladimir Guerrero Jr.,3,4,3,0.282,628317,Kenta Maeda,4.13,0.209
+642133,Rowdy Tellez,0,4,4,0.223,628317,Kenta Maeda,4.13,0.209
+545341,Randal Grichuk,1,4,5,0.238,628317,Kenta Maeda,4.13,0.209
+606192,Teoscar Hernandez,0,1,6,0.219,628317,Kenta Maeda,4.13,0.209
+643376,Danny Jansen,0,3,7,0.211,628317,Kenta Maeda,4.13,0.209
+605233,Derek Fisher,0,3,8,0.196,628317,Kenta Maeda,4.13,0.209
+571882,Derek Law,0,0,9,0.0,628317,Kenta Maeda,4.13,0.209
+666182,Bo Bichette,3,5,1,0.333,656954,Justus Sheffield,6.43,0.31
+605233,Derek Fisher,1,5,2,0.198,656954,Justus Sheffield,6.43,0.31
+665489,Vladimir Guerrero Jr.,1,5,3,0.281,656954,Justus Sheffield,6.43,0.31
+545341,Randal Grichuk,1,5,4,0.238,656954,Justus Sheffield,6.43,0.31
+475253,Justin Smoak,1,5,5,0.213,656954,Justus Sheffield,6.43,0.31
+606192,Teoscar Hernandez,2,4,6,0.223,656954,Justus Sheffield,6.43,0.31
+624415,Cavan Biggio,1,4,7,0.208,656954,Justus Sheffield,6.43,0.31
+592273,Brandon Drury,0,4,8,0.224,656954,Justus Sheffield,6.43,0.31
+624512,Reese McGuire,1,4,9,0.238,656954,Justus Sheffield,6.43,0.31
+666182,Bo Bichette,3,5,1,0.345,433587,Felix Hernandez,6.09,0.294
+624415,Cavan Biggio,0,5,2,0.205,433587,Felix Hernandez,6.09,0.294
+665489,Vladimir Guerrero Jr.,0,4,3,0.278,433587,Felix Hernandez,6.09,0.294
+605233,Derek Fisher,0,0,4,0.198,433587,Felix Hernandez,6.09,0.294
+545341,Randal Grichuk,1,5,5,0.238,433587,Felix Hernandez,6.09,0.294
+475253,Justin Smoak,0,4,6,0.211,433587,Felix Hernandez,6.09,0.294
+606192,Teoscar Hernandez,1,4,7,0.224,433587,Felix Hernandez,6.09,0.294
+641856,Billy McKinney,1,4,8,0.223,433587,Felix Hernandez,6.09,0.294
+643376,Danny Jansen,0,4,9,0.209,433587,Felix Hernandez,6.09,0.294
+666182,Bo Bichette,2,4,1,0.351,594835,Marco Gonzales,4.17,0.273
+624415,Cavan Biggio,0,4,2,0.203,594835,Marco Gonzales,4.17,0.273
+665489,Vladimir Guerrero Jr.,1,4,3,0.278,594835,Marco Gonzales,4.17,0.273
+642133,Rowdy Tellez,1,4,4,0.225,594835,Marco Gonzales,4.17,0.273
+545341,Randal Grichuk,0,4,5,0.236,594835,Marco Gonzales,4.17,0.273
+605233,Derek Fisher,1,4,6,0.202,594835,Marco Gonzales,4.17,0.273
+606192,Teoscar Hernandez,0,4,7,0.222,594835,Marco Gonzales,4.17,0.273
+592273,Brandon Drury,0,4,8,0.221,594835,Marco Gonzales,4.17,0.273
+624512,Reese McGuire,0,3,9,0.222,594835,Marco Gonzales,4.17,0.273
+666182,Bo Bichette,1,4,1,0.347,647336,Mike Soroka,2.44,0.234
+624415,Cavan Biggio,2,4,2,0.208,647336,Mike Soroka,2.44,0.234
+665489,Vladimir Guerrero Jr.,2,4,3,0.28,647336,Mike Soroka,2.44,0.234
+642133,Rowdy Tellez,1,4,4,0.225,647336,Mike Soroka,2.44,0.234
+545341,Randal Grichuk,0,4,5,0.234,647336,Mike Soroka,2.44,0.234
+475253,Justin Smoak,2,4,6,0.214,647336,Mike Soroka,2.44,0.234
+606192,Teoscar Hernandez,0,2,7,0.221,647336,Mike Soroka,2.44,0.234
+624512,Reese McGuire,2,3,8,0.255,647336,Mike Soroka,2.44,0.234
+605233,Derek Fisher,0,3,9,0.196,647336,Mike Soroka,2.44,0.234
+666182,Bo Bichette,1,5,1,0.341,592314,Mike Foltynewicz,5.59,0.272
+624415,Cavan Biggio,1,5,2,0.209,592314,Mike Foltynewicz,5.59,0.272
+665489,Vladimir Guerrero Jr.,2,5,3,0.282,592314,Mike Foltynewicz,5.59,0.272
+642133,Rowdy Tellez,0,5,4,0.222,592314,Mike Foltynewicz,5.59,0.272
+545341,Randal Grichuk,2,4,5,0.236,592314,Mike Foltynewicz,5.59,0.272
+475253,Justin Smoak,1,4,6,0.215,592314,Mike Foltynewicz,5.59,0.272
+606192,Teoscar Hernandez,1,4,7,0.221,592314,Mike Foltynewicz,5.59,0.272
+641856,Billy McKinney,0,1,8,0.22,592314,Mike Foltynewicz,5.59,0.272
+643376,Danny Jansen,1,4,9,0.21,592314,Mike Foltynewicz,5.59,0.272
+666182,Bo Bichette,1,5,1,0.336,489119,Wade Miley,3.06,0.232
+624415,Cavan Biggio,1,5,2,0.21,489119,Wade Miley,3.06,0.232
+641856,Billy McKinney,0,1,3,0.219,489119,Wade Miley,3.06,0.232
+545341,Randal Grichuk,0,5,4,0.234,489119,Wade Miley,3.06,0.232
+606192,Teoscar Hernandez,1,5,5,0.222,489119,Wade Miley,3.06,0.232
+475253,Justin Smoak,1,4,6,0.216,489119,Wade Miley,3.06,0.232
+592273,Brandon Drury,0,4,7,0.22,489119,Wade Miley,3.06,0.232
+605233,Derek Fisher,1,4,8,0.2,489119,Wade Miley,3.06,0.232
+624512,Reese McGuire,3,3,9,0.3,489119,Wade Miley,3.06,0.232
+666182,Bo Bichette,2,5,1,0.338,664285,Framber Valdez,5.55,0.266
+624415,Cavan Biggio,2,4,2,0.215,664285,Framber Valdez,5.55,0.266
+665489,Vladimir Guerrero Jr.,1,4,3,0.28,664285,Framber Valdez,5.55,0.266
+545341,Randal Grichuk,1,4,4,0.234,664285,Framber Valdez,5.55,0.266
+606192,Teoscar Hernandez,1,4,5,0.222,664285,Framber Valdez,5.55,0.266
+592273,Brandon Drury,2,4,6,0.223,664285,Framber Valdez,5.55,0.266
+642133,Rowdy Tellez,0,4,7,0.22,664285,Framber Valdez,5.55,0.266
+643376,Danny Jansen,1,4,8,0.21,664285,Framber Valdez,5.55,0.266
+605233,Derek Fisher,0,4,9,0.193,664285,Framber Valdez,5.55,0.266
+666182,Bo Bichette,0,4,1,0.328,434378,Justin Verlander,2.56,0.166
+624415,Cavan Biggio,0,3,2,0.214,434378,Justin Verlander,2.56,0.166
+665489,Vladimir Guerrero Jr.,0,3,3,0.278,434378,Justin Verlander,2.56,0.166
+475253,Justin Smoak,0,3,4,0.215,434378,Justin Verlander,2.56,0.166
+642133,Rowdy Tellez,0,3,5,0.218,434378,Justin Verlander,2.56,0.166
+545341,Randal Grichuk,0,3,6,0.233,434378,Justin Verlander,2.56,0.166
+641856,Billy McKinney,0,3,7,0.216,434378,Justin Verlander,2.56,0.166
+592273,Brandon Drury,0,3,8,0.222,434378,Justin Verlander,2.56,0.166
+624512,Reese McGuire,0,3,9,0.283,434378,Justin Verlander,2.56,0.166
+666182,Bo Bichette,1,4,1,0.329,647336,Mike Soroka,2.53,0.235
+624415,Cavan Biggio,1,4,2,0.214,647336,Mike Soroka,2.53,0.235
+545341,Randal Grichuk,1,3,3,0.234,647336,Mike Soroka,2.53,0.235
+475253,Justin Smoak,0,4,4,0.212,647336,Mike Soroka,2.53,0.235
+606192,Teoscar Hernandez,0,4,5,0.219,647336,Mike Soroka,2.53,0.235
+641856,Billy McKinney,0,4,6,0.213,647336,Mike Soroka,2.53,0.235
+592273,Brandon Drury,1,4,7,0.222,647336,Mike Soroka,2.53,0.235
+643376,Danny Jansen,0,3,8,0.208,647336,Mike Soroka,2.53,0.235
+542953,Buddy Boshers,0,0,9,0.0,647336,Mike Soroka,2.53,0.235
+666182,Bo Bichette,1,4,1,0.326,592314,Mike Foltynewicz,5.28,0.267
+624415,Cavan Biggio,0,4,2,0.212,592314,Mike Foltynewicz,5.28,0.267
+665489,Vladimir Guerrero Jr.,0,4,3,0.276,592314,Mike Foltynewicz,5.28,0.267
+642133,Rowdy Tellez,1,4,4,0.221,592314,Mike Foltynewicz,5.28,0.267
+545341,Randal Grichuk,0,4,5,0.232,592314,Mike Foltynewicz,5.28,0.267
+605233,Derek Fisher,2,4,6,0.203,592314,Mike Foltynewicz,5.28,0.267
+606192,Teoscar Hernandez,1,3,7,0.22,592314,Mike Foltynewicz,5.28,0.267
+624512,Reese McGuire,0,1,8,0.278,592314,Mike Foltynewicz,5.28,0.267
+543208,Sam Gaviglio,0,0,9,0.0,592314,Mike Foltynewicz,5.28,0.267
+666182,Bo Bichette,2,5,1,0.329,643493,Austin Pruitt,4.43,0.269
+624415,Cavan Biggio,0,4,2,0.209,643493,Austin Pruitt,4.43,0.269
+545341,Randal Grichuk,0,4,3,0.23,643493,Austin Pruitt,4.43,0.269
+665489,Vladimir Guerrero Jr.,2,4,4,0.279,643493,Austin Pruitt,4.43,0.269
+641856,Billy McKinney,0,1,5,0.216,643493,Austin Pruitt,4.43,0.269
+606192,Teoscar Hernandez,1,4,6,0.221,643493,Austin Pruitt,4.43,0.269
+475253,Justin Smoak,0,4,7,0.211,643493,Austin Pruitt,4.43,0.269
+624512,Reese McGuire,3,4,8,0.31,643493,Austin Pruitt,4.43,0.269
+605233,Derek Fisher,0,4,9,0.198,643493,Austin Pruitt,4.43,0.269
+666182,Bo Bichette,0,4,1,0.322,656713,Brendan McKay,5.03,0.266
+606192,Teoscar Hernandez,0,4,2,0.218,656713,Brendan McKay,5.03,0.266
+545341,Randal Grichuk,1,4,3,0.23,656713,Brendan McKay,5.03,0.266
+665489,Vladimir Guerrero Jr.,0,4,4,0.276,656713,Brendan McKay,5.03,0.266
+642133,Rowdy Tellez,0,3,5,0.217,656713,Brendan McKay,5.03,0.266
+592273,Brandon Drury,0,3,6,0.22,656713,Brendan McKay,5.03,0.266
+641505,Jonathan Davis,0,3,7,0.132,656713,Brendan McKay,5.03,0.266
+643376,Danny Jansen,0,3,8,0.207,656713,Brendan McKay,5.03,0.266
+546990,Anthony Alford,1,3,9,0.143,656713,Brendan McKay,5.03,0.266
+666182,Bo Bichette,0,5,1,0.312,450203,Charlie Morton,3.11,0.217
+624415,Cavan Biggio,0,5,2,0.207,450203,Charlie Morton,3.11,0.217
+642133,Rowdy Tellez,1,2,3,0.219,450203,Charlie Morton,3.11,0.217
+665489,Vladimir Guerrero Jr.,1,4,4,0.276,450203,Charlie Morton,3.11,0.217
+546990,Anthony Alford,0,0,5,0.143,450203,Charlie Morton,3.11,0.217
+624512,Reese McGuire,1,4,6,0.306,450203,Charlie Morton,3.11,0.217
+641505,Jonathan Davis,2,4,7,0.158,450203,Charlie Morton,3.11,0.217
+641856,Billy McKinney,0,3,8,0.213,450203,Charlie Morton,3.11,0.217
+606192,Teoscar Hernandez,0,1,9,0.218,450203,Charlie Morton,3.11,0.217
+666182,Bo Bichette,1,4,1,0.311,607192,Tyler Glasnow,2.15,0.2
+546990,Anthony Alford,0,1,2,0.125,607192,Tyler Glasnow,2.15,0.2
+642133,Rowdy Tellez,1,4,3,0.219,607192,Tyler Glasnow,2.15,0.2
+665489,Vladimir Guerrero Jr.,1,4,4,0.276,607192,Tyler Glasnow,2.15,0.2
+545341,Randal Grichuk,1,4,5,0.23,607192,Tyler Glasnow,2.15,0.2
+641505,Jonathan Davis,1,4,6,0.164,607192,Tyler Glasnow,2.15,0.2
+592273,Brandon Drury,1,4,7,0.22,607192,Tyler Glasnow,2.15,0.2
+643376,Danny Jansen,0,4,8,0.204,607192,Tyler Glasnow,2.15,0.2
+620446,Richard Urena,0,3,9,0.227,607192,Tyler Glasnow,2.15,0.2
+666182,Bo Bichette,1,5,1,0.307,543135,Nathan Eovaldi,5.81,0.272
+624415,Cavan Biggio,1,5,2,0.208,543135,Nathan Eovaldi,5.81,0.272
+665489,Vladimir Guerrero Jr.,0,4,3,0.273,543135,Nathan Eovaldi,5.81,0.272
+642133,Rowdy Tellez,2,4,4,0.223,543135,Nathan Eovaldi,5.81,0.272
+545341,Randal Grichuk,1,4,5,0.23,543135,Nathan Eovaldi,5.81,0.272
+475253,Justin Smoak,1,4,6,0.212,543135,Nathan Eovaldi,5.81,0.272
+624512,Reese McGuire,2,4,7,0.323,543135,Nathan Eovaldi,5.81,0.272
+641505,Jonathan Davis,1,3,8,0.172,543135,Nathan Eovaldi,5.81,0.272
+606192,Teoscar Hernandez,0,2,9,0.215,543135,Nathan Eovaldi,5.81,0.272
+666182,Bo Bichette,1,4,1,0.306,596074,Bobby Poyner,7.88,0.29
+624415,Cavan Biggio,2,4,2,0.213,596074,Bobby Poyner,7.88,0.29
+665489,Vladimir Guerrero Jr.,1,3,3,0.274,596074,Bobby Poyner,7.88,0.29
+642133,Rowdy Tellez,1,4,4,0.223,596074,Bobby Poyner,7.88,0.29
+546990,Anthony Alford,0,0,5,0.125,596074,Bobby Poyner,7.88,0.29
+606192,Teoscar Hernandez,2,4,6,0.218,596074,Bobby Poyner,7.88,0.29
+641505,Jonathan Davis,0,4,7,0.162,596074,Bobby Poyner,7.88,0.29
+592273,Brandon Drury,0,4,8,0.219,596074,Bobby Poyner,7.88,0.29
+643376,Danny Jansen,2,4,9,0.208,596074,Bobby Poyner,7.88,0.29
+666182,Bo Bichette,1,5,1,0.305,468504,Jhoulys Chacin,5.44,0.273
+624415,Cavan Biggio,3,5,2,0.22,468504,Jhoulys Chacin,5.44,0.273
+665489,Vladimir Guerrero Jr.,1,5,3,0.273,468504,Jhoulys Chacin,5.44,0.273
+642133,Rowdy Tellez,0,4,4,0.221,468504,Jhoulys Chacin,5.44,0.273
+475253,Justin Smoak,0,5,5,0.21,468504,Jhoulys Chacin,5.44,0.273
+545341,Randal Grichuk,1,4,6,0.233,468504,Jhoulys Chacin,5.44,0.273
+624512,Reese McGuire,0,4,7,0.313,468504,Jhoulys Chacin,5.44,0.273
+546990,Anthony Alford,1,2,8,0.2,468504,Jhoulys Chacin,5.44,0.273
+605233,Derek Fisher,0,4,9,0.188,468504,Jhoulys Chacin,5.44,0.273
+666182,Bo Bichette,3,6,1,0.313,547888,Masahiro Tanaka,4.6,0.262
+624415,Cavan Biggio,2,5,2,0.223,547888,Masahiro Tanaka,4.6,0.262
+665489,Vladimir Guerrero Jr.,0,5,3,0.27,547888,Masahiro Tanaka,4.6,0.262
+475253,Justin Smoak,0,2,4,0.209,547888,Masahiro Tanaka,4.6,0.262
+545341,Randal Grichuk,1,5,5,0.232,547888,Masahiro Tanaka,4.6,0.262
+624512,Reese McGuire,1,5,6,0.306,547888,Masahiro Tanaka,4.6,0.262
+606192,Teoscar Hernandez,2,5,7,0.221,547888,Masahiro Tanaka,4.6,0.262
+641856,Billy McKinney,1,5,8,0.211,547888,Masahiro Tanaka,4.6,0.262
+620446,Richard Urena,2,5,9,0.245,547888,Masahiro Tanaka,4.6,0.262
+620446,Richard Urena,1,2,1,0.255,572020,James Paxton,3.88,0.243
+546990,Anthony Alford,1,2,2,0.25,572020,James Paxton,3.88,0.243
+605233,Derek Fisher,0,1,3,0.186,572020,James Paxton,3.88,0.243
+665489,Vladimir Guerrero Jr.,1,5,4,0.269,572020,James Paxton,3.88,0.243
+606192,Teoscar Hernandez,1,4,5,0.221,572020,James Paxton,3.88,0.243
+475253,Justin Smoak,0,4,6,0.207,572020,James Paxton,3.88,0.243
+592273,Brandon Drury,2,4,7,0.222,572020,James Paxton,3.88,0.243
+643376,Danny Jansen,0,4,8,0.206,572020,James Paxton,3.88,0.243
+641505,Jonathan Davis,0,4,9,0.155,572020,James Paxton,3.88,0.243
+666182,Bo Bichette,2,4,1,0.315,643338,Chad Green,4.5,0.259
+624415,Cavan Biggio,0,4,2,0.221,643338,Chad Green,4.5,0.259
+545341,Randal Grichuk,2,4,3,0.235,643338,Chad Green,4.5,0.259
+642133,Rowdy Tellez,0,4,4,0.219,643338,Chad Green,4.5,0.259
+606192,Teoscar Hernandez,0,4,5,0.219,643338,Chad Green,4.5,0.259
+624512,Reese McGuire,1,4,6,0.303,643338,Chad Green,4.5,0.259
+592273,Brandon Drury,1,4,7,0.223,643338,Chad Green,4.5,0.259
+641505,Jonathan Davis,0,0,8,0.155,643338,Chad Green,4.5,0.259
+620446,Richard Urena,1,2,9,0.264,643338,Chad Green,4.5,0.259
+666182,Bo Bichette,0,5,1,0.31,605469,Chandler Shepherd,4.91,0.279
+624415,Cavan Biggio,4,5,2,0.23,605469,Chandler Shepherd,4.91,0.279
+546990,Anthony Alford,0,0,3,0.25,605469,Chandler Shepherd,4.91,0.279
+665489,Vladimir Guerrero Jr.,2,5,4,0.271,605469,Chandler Shepherd,4.91,0.279
+545341,Randal Grichuk,1,5,5,0.234,605469,Chandler Shepherd,4.91,0.279
+475253,Justin Smoak,1,4,6,0.208,605469,Chandler Shepherd,4.91,0.279
+606192,Teoscar Hernandez,1,4,7,0.22,605469,Chandler Shepherd,4.91,0.279
+641505,Jonathan Davis,0,2,8,0.151,605469,Chandler Shepherd,4.91,0.279
+643376,Danny Jansen,2,4,9,0.21,605469,Chandler Shepherd,4.91,0.279
+666182,Bo Bichette,3,6,1,0.316,605164,Dylan Bundy,4.89,0.262
+624415,Cavan Biggio,2,6,2,0.232,605164,Dylan Bundy,4.89,0.262
+545341,Randal Grichuk,1,6,3,0.234,605164,Dylan Bundy,4.89,0.262
+641505,Jonathan Davis,0,0,4,0.151,605164,Dylan Bundy,4.89,0.262
+624512,Reese McGuire,3,6,5,0.325,605164,Dylan Bundy,4.89,0.262
+606192,Teoscar Hernandez,1,6,6,0.219,605164,Dylan Bundy,4.89,0.262
+642133,Rowdy Tellez,1,5,7,0.221,605164,Dylan Bundy,4.89,0.262
+620446,Richard Urena,1,1,8,0.278,605164,Dylan Bundy,4.89,0.262
+641856,Billy McKinney,0,2,9,0.211,605164,Dylan Bundy,4.89,0.262
+620446,Richard Urena,0,1,1,0.273,593679,Gabriel Ynoa,5.65,0.281
+624415,Cavan Biggio,2,5,2,0.235,593679,Gabriel Ynoa,5.65,0.281
+666971,Lourdes Gurriel Jr.,2,5,3,0.284,593679,Gabriel Ynoa,5.65,0.281
+665489,Vladimir Guerrero Jr.,2,4,4,0.274,593679,Gabriel Ynoa,5.65,0.281
+475253,Justin Smoak,0,4,5,0.206,593679,Gabriel Ynoa,5.65,0.281
+545341,Randal Grichuk,1,4,6,0.234,593679,Gabriel Ynoa,5.65,0.281
+624512,Reese McGuire,1,4,7,0.325,593679,Gabriel Ynoa,5.65,0.281
+642133,Rowdy Tellez,1,4,8,0.222,593679,Gabriel Ynoa,5.65,0.281
+641505,Jonathan Davis,0,0,9,0.151,593679,Gabriel Ynoa,5.65,0.281
+641505,Jonathan Davis,0,0,1,0.151,457918,J.A. Happ,5.01,0.259
+624415,Cavan Biggio,1,4,2,0.235,457918,J.A. Happ,5.01,0.259
+666971,Lourdes Gurriel Jr.,0,4,3,0.281,457918,J.A. Happ,5.01,0.259
+665489,Vladimir Guerrero Jr.,2,4,4,0.276,457918,J.A. Happ,5.01,0.259
+545341,Randal Grichuk,0,4,5,0.233,457918,J.A. Happ,5.01,0.259
+606192,Teoscar Hernandez,2,4,6,0.222,457918,J.A. Happ,5.01,0.259
+475253,Justin Smoak,1,4,7,0.206,457918,J.A. Happ,5.01,0.259
+643376,Danny Jansen,1,4,8,0.21,457918,J.A. Happ,5.01,0.259
+620446,Richard Urena,0,3,9,0.259,457918,J.A. Happ,5.01,0.259
+641856,Billy McKinney,0,1,1,0.21,572020,James Paxton,3.73,0.239
+624415,Cavan Biggio,1,4,2,0.235,572020,James Paxton,3.73,0.239
+666971,Lourdes Gurriel Jr.,0,4,3,0.277,572020,James Paxton,3.73,0.239
+665489,Vladimir Guerrero Jr.,1,4,4,0.276,572020,James Paxton,3.73,0.239
+545341,Randal Grichuk,1,4,5,0.233,572020,James Paxton,3.73,0.239
+606192,Teoscar Hernandez,1,4,6,0.223,572020,James Paxton,3.73,0.239
+592273,Brandon Drury,0,3,7,0.221,572020,James Paxton,3.73,0.239
+620446,Richard Urena,1,3,8,0.262,572020,James Paxton,3.73,0.239
+624512,Reese McGuire,0,1,9,0.321,572020,James Paxton,3.73,0.239
+641856,Billy McKinney,2,5,1,0.214,622663,Luis Severino,0.0,0.161
+591971,Breyvic Valera,0,2,2,0.206,622663,Luis Severino,0.0,0.161
+641505,Jonathan Davis,1,1,3,0.169,622663,Luis Severino,0.0,0.161
+475253,Justin Smoak,0,5,4,0.204,622663,Luis Severino,0.0,0.161
+624512,Reese McGuire,1,4,5,0.318,622663,Luis Severino,0.0,0.161
+642133,Rowdy Tellez,0,4,6,0.219,622663,Luis Severino,0.0,0.161
+620446,Richard Urena,1,3,7,0.27,622663,Luis Severino,0.0,0.161
+592273,Brandon Drury,1,4,8,0.221,622663,Luis Severino,0.0,0.161
+546990,Anthony Alford,0,2,9,0.167,622663,Luis Severino,0.0,0.161
+546990,Anthony Alford,2,3,1,0.238,605469,Chandler Shepherd,7.71,0.316
+624415,Cavan Biggio,1,6,2,0.237,605469,Chandler Shepherd,7.71,0.316
+545341,Randal Grichuk,2,6,3,0.236,605469,Chandler Shepherd,7.71,0.316
+665489,Vladimir Guerrero Jr.,2,7,4,0.276,605469,Chandler Shepherd,7.71,0.316
+591971,Breyvic Valera,0,1,5,0.2,605469,Chandler Shepherd,7.71,0.316
+606192,Teoscar Hernandez,1,7,6,0.221,605469,Chandler Shepherd,7.71,0.316
+592273,Brandon Drury,1,7,7,0.221,605469,Chandler Shepherd,7.71,0.316
+641505,Jonathan Davis,1,4,8,0.173,605469,Chandler Shepherd,7.71,0.316
+624512,Reese McGuire,0,1,9,0.315,605469,Chandler Shepherd,7.71,0.316
+591971,Breyvic Valera,1,4,1,0.205,605164,Dylan Bundy,4.79,0.256
+624415,Cavan Biggio,0,4,2,0.235,605164,Dylan Bundy,4.79,0.256
+641856,Billy McKinney,0,1,3,0.217,605164,Dylan Bundy,4.79,0.256
+641505,Jonathan Davis,0,0,4,0.173,605164,Dylan Bundy,4.79,0.256
+624512,Reese McGuire,1,4,5,0.312,605164,Dylan Bundy,4.79,0.256
+592273,Brandon Drury,1,4,6,0.221,605164,Dylan Bundy,4.79,0.256
+642133,Rowdy Tellez,2,4,7,0.223,605164,Dylan Bundy,4.79,0.256
+546990,Anthony Alford,0,4,8,0.208,605164,Dylan Bundy,4.79,0.256
+605233,Derek Fisher,1,4,9,0.187,605164,Dylan Bundy,4.79,0.256
+641856,Billy McKinney,1,4,1,0.22,593679,Gabriel Ynoa,5.61,0.28
+591971,Breyvic Valera,0,4,2,0.186,593679,Gabriel Ynoa,5.61,0.28
+624415,Cavan Biggio,0,4,3,0.233,593679,Gabriel Ynoa,5.61,0.28
+665489,Vladimir Guerrero Jr.,0,4,4,0.272,593679,Gabriel Ynoa,5.61,0.28
+642133,Rowdy Tellez,2,4,5,0.226,593679,Gabriel Ynoa,5.61,0.28
+606192,Teoscar Hernandez,1,3,6,0.222,593679,Gabriel Ynoa,5.61,0.28
+592273,Brandon Drury,0,3,7,0.219,593679,Gabriel Ynoa,5.61,0.28
+641505,Jonathan Davis,0,0,8,0.173,593679,Gabriel Ynoa,5.61,0.28
+571912,Luke Maile,0,3,9,0.147,593679,Gabriel Ynoa,5.61,0.28
+641856,Billy McKinney,0,4,1,0.216,607192,Tyler Glasnow,1.78,0.186
+624415,Cavan Biggio,1,4,2,0.234,607192,Tyler Glasnow,1.78,0.186
+545341,Randal Grichuk,0,4,3,0.233,607192,Tyler Glasnow,1.78,0.186
+642133,Rowdy Tellez,0,4,4,0.224,607192,Tyler Glasnow,1.78,0.186
+665489,Vladimir Guerrero Jr.,1,4,5,0.272,607192,Tyler Glasnow,1.78,0.186
+624512,Reese McGuire,0,4,6,0.299,607192,Tyler Glasnow,1.78,0.186
+606192,Teoscar Hernandez,2,3,7,0.226,607192,Tyler Glasnow,1.78,0.186
+620446,Richard Urena,0,3,8,0.258,607192,Tyler Glasnow,1.78,0.186
+605233,Derek Fisher,0,3,9,0.186,607192,Tyler Glasnow,1.78,0.186
+606192,Teoscar Hernandez,1,4,1,0.227,642232,Ryan Yarbrough,4.13,0.228
+624415,Cavan Biggio,1,3,2,0.235,642232,Ryan Yarbrough,4.13,0.228
+545341,Randal Grichuk,1,4,3,0.233,642232,Ryan Yarbrough,4.13,0.228
+642133,Rowdy Tellez,2,4,4,0.227,642232,Ryan Yarbrough,4.13,0.228
+592273,Brandon Drury,0,4,5,0.218,642232,Ryan Yarbrough,4.13,0.228
+605233,Derek Fisher,0,0,6,0.186,642232,Ryan Yarbrough,4.13,0.228
+641505,Jonathan Davis,0,1,7,0.173,642232,Ryan Yarbrough,4.13,0.228
+643376,Danny Jansen,1,4,8,0.207,642232,Ryan Yarbrough,4.13,0.228
+620446,Richard Urena,1,4,9,0.257,642232,Ryan Yarbrough,4.13,0.228
+605233,Derek Fisher,0,1,1,0.185,605483,Blake Snell,4.29,0.241
+624415,Cavan Biggio,1,5,2,0.234,605483,Blake Snell,4.29,0.241
+546990,Anthony Alford,0,2,3,0.179,605483,Blake Snell,4.29,0.241
+642133,Rowdy Tellez,1,4,4,0.227,605483,Blake Snell,4.29,0.241
+641856,Billy McKinney,0,0,5,0.215,605483,Blake Snell,4.29,0.241
+591971,Breyvic Valera,3,4,6,0.234,605483,Blake Snell,4.29,0.241
+620446,Richard Urena,0,4,7,0.243,605483,Blake Snell,4.29,0.241
+641505,Jonathan Davis,1,3,8,0.181,605483,Blake Snell,4.29,0.241
+571912,Luke Maile,1,4,9,0.151,605483,Blake Snell,4.29,0.241
